@@ -1,0 +1,230 @@
+/* ===== 六级复习系统 · 深色主题 ===== */
+:root {
+  --bg: #0f1115;
+  --bg-soft: #171a21;
+  --bg-card: #1d212b;
+  --bg-card-hover: #232838;
+  --border: #2a2f3c;
+  --text: #e6e8ee;
+  --text-dim: #9aa3b2;
+  --text-faint: #6b7280;
+  --accent: #5b8cff;
+  --accent-soft: #2a3a66;
+  --green: #3ecf8e;
+  --green-soft: #163a2c;
+  --red: #ff6b6b;
+  --red-soft: #3a1d1f;
+  --yellow: #ffcf5c;
+  --purple: #b18cff;
+  --radius: 14px;
+  --shadow: 0 8px 30px rgba(0,0,0,.35);
+  --maxw: 880px;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: radial-gradient(1200px 600px at 50% -10%, #1a2030 0%, var(--bg) 55%);
+  color: var(--text);
+  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+
+/* ---- layout ---- */
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 24px 20px 80px; }
+.topbar {
+  display: flex; align-items: center; gap: 14px;
+  max-width: var(--maxw); margin: 0 auto; padding: 18px 20px;
+}
+.topbar .logo { font-weight: 700; font-size: 18px; letter-spacing: .5px; }
+.topbar .logo span { color: var(--accent); }
+.topbar .nav { margin-left: auto; display: flex; gap: 6px; }
+.topbar .nav a {
+  padding: 7px 14px; border-radius: 10px; color: var(--text-dim);
+  font-size: 14px; transition: .15s;
+}
+.topbar .nav a:hover { background: var(--bg-soft); color: var(--text); }
+.topbar .nav a.active { background: var(--accent-soft); color: #cdd9ff; }
+
+h1 { font-size: 26px; margin: 8px 0 4px; }
+h2 { font-size: 19px; margin: 28px 0 12px; }
+.sub { color: var(--text-dim); font-size: 14px; margin: 0 0 20px; }
+
+/* ---- home cards ---- */
+.home-hero { text-align: center; margin: 30px 0 36px; }
+.home-hero h1 { font-size: 32px; }
+.home-hero p { color: var(--text-dim); margin: 6px 0 0; }
+.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+@media (max-width: 720px){ .cards { grid-template-columns: 1fr; } }
+.mod-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 22px 20px; transition: .18s;
+  display: block; position: relative; overflow: hidden;
+}
+.mod-card:hover { background: var(--bg-card-hover); transform: translateY(-3px); box-shadow: var(--shadow); }
+.mod-card .ic { font-size: 30px; }
+.mod-card h3 { margin: 12px 0 6px; font-size: 18px; }
+.mod-card p { color: var(--text-dim); font-size: 13.5px; margin: 0 0 14px; }
+.mod-card .bar { height: 6px; background: var(--bg-soft); border-radius: 6px; overflow: hidden; }
+.mod-card .bar > i { display:block; height: 100%; background: linear-gradient(90deg,var(--accent),var(--purple)); width: 0; }
+.mod-card .meta { font-size: 12px; color: var(--text-faint); margin-top: 8px; }
+
+.stat-row { display:flex; gap:14px; flex-wrap:wrap; margin: 20px 0 8px; }
+.stat {
+  flex:1; min-width: 140px; background: var(--bg-card); border:1px solid var(--border);
+  border-radius: 12px; padding: 14px 16px;
+}
+.stat .n { font-size: 24px; font-weight: 700; }
+.stat .l { font-size: 12px; color: var(--text-dim); }
+
+/* ---- buttons ---- */
+.btn {
+  background: var(--accent); color: #fff; border: none; padding: 11px 20px;
+  border-radius: 10px; font-size: 15px; font-weight: 600; transition: .15s;
+}
+.btn:hover { filter: brightness(1.08); }
+.btn.ghost { background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }
+.btn.ghost:hover { background: var(--bg-card-hover); }
+.btn.green { background: var(--green); color: #06251a; }
+.btn.sm { padding: 7px 13px; font-size: 13px; }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 16px; }
+
+.seg { display:inline-flex; background: var(--bg-soft); border:1px solid var(--border); border-radius: 12px; padding: 4px; gap:4px; }
+.seg button { background: transparent; border:none; color: var(--text-dim); padding: 7px 16px; border-radius: 9px; font-size: 14px; }
+.seg button.active { background: var(--accent); color:#fff; }
+
+/* ---- vocab flashcard ---- */
+.progress-line { display:flex; align-items:center; gap:12px; margin: 16px 0; }
+.progress-line .track { flex:1; height:8px; background: var(--bg-soft); border-radius:8px; overflow:hidden; }
+.progress-line .track > i { display:block; height:100%; background: linear-gradient(90deg,var(--accent),var(--green)); width:0; transition: width .3s; }
+.progress-line .lbl { font-size: 13px; color: var(--text-dim); white-space: nowrap; }
+
+.card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 28px 26px; box-shadow: var(--shadow);
+}
+.sentence { font-size: 22px; line-height: 1.7; letter-spacing: .2px; }
+.sentence .kw {
+  color: var(--accent); font-weight: 700; cursor: pointer;
+  border-bottom: 2px dotted var(--accent); padding: 0 1px;
+}
+.sentence .kw:hover { background: var(--accent-soft); border-radius: 4px; }
+.sentence .kw.done { color: var(--green); border-bottom-color: var(--green); }
+.zh { color: var(--text-dim); font-size: 16px; margin-top: 16px; padding-top: 14px; border-top: 1px dashed var(--border); cursor: pointer; }
+.zh.hidden { filter: blur(6px); cursor: pointer; }
+.zh.zh-hide { filter: blur(6px); }
+.kw-zh { color: var(--green); font-weight: 700; cursor: pointer; border-bottom: 2px dotted var(--green); padding: 0 1px; }
+.kw-zh:hover { background: var(--green-soft); border-radius: 4px; }
+
+/* 计时徽章 */
+.timer-badge { font-family: monospace; font-size: 15px; background: var(--accent-soft); color: #cdd9ff; border: 1px solid var(--accent); border-radius: 10px; padding: 5px 12px; font-weight: 700; }
+
+/* 单词块卡片 */
+.block-cards { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 620px){ .block-cards { grid-template-columns: 1fr; } }
+.block-card .bar { height: 6px; background: var(--bg-soft); border-radius: 6px; overflow: hidden; margin: 4px 0 8px; }
+.block-card .bar > i { display:block; height:100%; background: linear-gradient(90deg,var(--accent),var(--green)); }
+
+/* 练习记录 */
+.hist-list { display: grid; gap: 8px; }
+.hist-row { display:flex; align-items:center; gap:10px; flex-wrap:wrap; background: var(--bg-card); border:1px solid var(--border); border-radius: 10px; padding: 10px 14px; }
+.hist-row .hr-time { font-family: monospace; font-weight:700; color: var(--accent); }
+.hist-row .hr-sub { color: var(--text-dim); font-size: 13px; }
+.hist-row .hr-date { margin-left:auto; color: var(--text-faint); font-size: 12px; }
+
+.wordlist { margin-top: 20px; display: grid; gap: 10px; }
+.wl-item {
+  display:flex; align-items:baseline; gap:12px; background: var(--bg-soft);
+  border:1px solid var(--border); border-radius: 10px; padding: 12px 14px;
+}
+.wl-item .w { font-weight: 700; font-size: 17px; color: var(--accent); min-width: 130px; }
+.wl-item .ph { color: var(--text-faint); font-size: 13px; margin-left: -6px; }
+.wl-item .m { color: var(--text); font-size: 15px; }
+.wl-item .tip { color: var(--yellow); font-size: 13px; margin-top: 4px; display:block; }
+.wl-item .speak { margin-left:auto; background:none; border:1px solid var(--border); color: var(--text-dim); border-radius: 8px; padding: 4px 9px; font-size: 13px; }
+.wl-item .speak:hover { color: var(--accent); border-color: var(--accent); }
+.col { display:flex; flex-direction:column; flex:1; }
+
+/* ---- 生词/熟词标签按钮 ---- */
+.tagrow { display:flex; gap:8px; margin-top:8px; }
+.tagrow.center { justify-content:center; margin:0 0 16px; }
+.tagbtn { background: var(--bg-card); border:1px solid var(--border); color: var(--text-dim); border-radius: 8px; padding: 4px 11px; font-size: 12.5px; transition:.12s; }
+.tagbtn:hover { color: var(--text); border-color: var(--accent); }
+.tagbtn.on { background: var(--green-soft); border-color: var(--green); color: #9ff0c9; }
+.tagbtn[data-tag="new"].on { background: #3a3320; border-color: var(--yellow); color: var(--yellow); }
+
+/* ---- 生词库/熟词库列表 ---- */
+.book-list { display:grid; gap:8px; }
+.book-row { display:flex; align-items:center; gap:12px; background: var(--bg-card); border:1px solid var(--border); border-radius: 10px; padding: 10px 14px; }
+.book-row .bw { font-weight:700; color: var(--accent); font-size:16px; min-width:130px; }
+.book-row .bph { color: var(--text-faint); font-size:12.5px; min-width:120px; }
+.book-row .bm { color: var(--text); font-size:14.5px; flex:1; }
+.book-row .speak { background:none; border:1px solid var(--border); color: var(--text-dim); border-radius:8px; padding:4px 9px; font-size:13px; }
+.book-row .speak:hover { color: var(--accent); border-color: var(--accent); }
+@media (max-width:620px){ .book-row { flex-wrap:wrap; } .book-row .bph { min-width:auto; } }
+
+/* ---- quiz ---- */
+.quiz-q { font-size: 30px; font-weight: 700; text-align:center; margin: 10px 0 6px; }
+.quiz-ph { text-align:center; color: var(--text-faint); margin-bottom: 22px; }
+.opts { display:grid; gap: 12px; }
+.opt {
+  text-align:left; background: var(--bg-soft); border:1px solid var(--border);
+  color: var(--text); padding: 15px 18px; border-radius: 12px; font-size: 16px; transition: .12s;
+}
+.opt:hover { background: var(--bg-card-hover); border-color: var(--accent); }
+.opt.correct { background: var(--green-soft); border-color: var(--green); color: #aef0d2; }
+.opt.wrong { background: var(--red-soft); border-color: var(--red); color: #ffc9c9; }
+.opt:disabled { cursor: default; }
+
+/* ---- writing / translate ---- */
+.list-item {
+  background: var(--bg-card); border:1px solid var(--border); border-radius: 12px;
+  padding: 16px 18px; margin-bottom: 12px; cursor: pointer; transition: .15s;
+}
+.list-item:hover { background: var(--bg-card-hover); }
+.list-item h3 { margin: 0 0 4px; font-size: 16px; }
+.list-item .tag { display:inline-block; font-size: 12px; background: var(--accent-soft); color:#cdd9ff; padding: 2px 9px; border-radius: 20px; margin-right: 6px; }
+.list-item p { margin: 6px 0 0; color: var(--text-dim); font-size: 13.5px; }
+
+.pattern { background: var(--bg-soft); border-left: 3px solid var(--accent); border-radius: 0 10px 10px 0; padding: 12px 16px; margin: 10px 0; }
+.pattern .en { font-size: 16px; }
+.pattern .en b { color: var(--accent); font-weight: 700; }
+.pattern .zh { border:none; padding: 4px 0 0; margin: 4px 0 0; font-size: 13.5px; }
+
+.essay { background: var(--bg-soft); border:1px solid var(--border); border-radius: 12px; padding: 18px 20px; line-height: 1.9; font-size: 15.5px; }
+.essay p { margin: 0 0 12px; }
+
+.cloze-input, .trans-input {
+  background: var(--bg-soft); border:1px solid var(--border); color: var(--text);
+  border-radius: 8px; padding: 4px 8px; font-size: 15px; font-family: inherit;
+}
+.cloze-input { width: 130px; text-align:center; margin: 0 2px; }
+.cloze-input.ok { border-color: var(--green); color: var(--green); }
+.cloze-input.bad { border-color: var(--red); color: var(--red); }
+.trans-input { width: 100%; min-height: 90px; margin-top: 10px; resize: vertical; line-height: 1.7; }
+
+.reveal { color: var(--text-dim); font-size: 14.5px; margin-top: 10px; padding: 12px 14px; background: var(--green-soft); border-radius: 10px; border:1px solid #1f4a39; }
+.reveal.hidden { display:none; }
+
+.dict-row { display:flex; align-items:center; gap:12px; padding: 12px 14px; background: var(--bg-card); border:1px solid var(--border); border-radius: 10px; margin-bottom: 10px; }
+.dict-row .zh-word { font-size: 16px; min-width: 160px; }
+.dict-row input { flex:1; }
+.dict-row .ans { color: var(--green); font-weight: 600; min-width: 140px; }
+
+.empty { text-align:center; color: var(--text-faint); padding: 50px 0; }
+.flash-done { text-align:center; padding: 40px 0; }
+.flash-done .big { font-size: 44px; }
+.badge { display:inline-block; font-size:12px; padding:2px 8px; border-radius: 20px; }
+.badge.l0 { background: var(--red-soft); color:#ffb3b3; }
+.badge.l1 { background: #3a3320; color: var(--yellow); }
+.badge.l2 { background: var(--accent-soft); color:#cdd9ff; }
+.badge.l3 { background: var(--green-soft); color:#9ff0c9; }
+
+.hint { color: var(--text-faint); font-size: 13px; margin-top: 14px; }
+.kbd { font-family: monospace; background: var(--bg-soft); border:1px solid var(--border); border-radius: 6px; padding: 1px 7px; font-size: 12px; }

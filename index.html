@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CET6 高效复习系统</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="topbar"></div>
+<div class="wrap">
+  <div class="home-hero">
+    <h1>六级 · 高效复习系统</h1>
+    <p>词汇靠钩子记得快 · 写作翻译靠真题练得准</p>
+  </div>
+
+  <div class="stat-row" id="stats"></div>
+
+  <div class="cards">
+    <a class="mod-card" href="vocab.html">
+      <div class="ic">📚</div>
+      <h3>词汇</h3>
+      <p>A式串句:一句记 5 个词,带音标、记忆钩子、发音。只认意思、不默写,快刷走量。</p>
+      <div class="bar"><i id="bar-vocab"></i></div>
+      <div class="meta" id="meta-vocab">—</div>
+    </a>
+    <a class="mod-card" href="writing.html">
+      <div class="ic">✍️</div>
+      <h3>写作</h3>
+      <p>按真题题型归类,配万能句式骨架 + 范文。挖空默写,确保考场写得出来。</p>
+      <div class="bar"><i id="bar-writing"></i></div>
+      <div class="meta" id="meta-writing">—</div>
+    </a>
+    <a class="mod-card" href="translate.html">
+      <div class="ic">🀄</div>
+      <h3>翻译</h3>
+      <p>按真题方向归纳主题词包(中国文化/社会/经济)。主题词默写 + 整句翻译。</p>
+      <div class="bar"><i id="bar-translate"></i></div>
+      <div class="meta" id="meta-translate">—</div>
+    </a>
+  </div>
+
+  <h2>今日建议</h2>
+  <div class="card" style="font-size:15px;">
+    <p style="margin:0 0 10px;">⚡ <b>高效顺序</b>:先去 <a href="vocab.html" style="color:var(--accent)">词汇·快刷</a> 滚两轮热身,再做一组 <a href="writing.html" style="color:var(--accent)">写作句式默写</a> 或 <a href="translate.html" style="color:var(--accent)">翻译主题词</a>。</p>
+    <p class="hint" style="margin:0;">提示:数据只存在你这台电脑的浏览器里,关掉明天接着背。建议把本页 <span class="kbd">加入收藏</span> 方便打开。</p>
+  </div>
+</div>
+<script src="data/vocab.js"></script>
+<script src="data/writing.js"></script>
+<script src="data/translate.js"></script>
+<script src="js/app.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const d = Store.load();
+  const allWords = (window.VOCAB || []).flatMap(g => g.words.map(x => x.w));
+  const total = allWords.length;
+  // 「已掌握」= 各单词块熟词库词数之和(用户主动标记的熟词)
+  const blocks = d.vocabBlocks || {};
+  let mastered = 0;
+  Object.keys(blocks).forEach(bid => { mastered += (blocks[bid] && blocks[bid].knownSet || []).length; });
+  const touched = allWords.filter(w => d.vocab[w] && d.vocab[w].seen > 0).length;
+  const sessions = (d.vocabHistory || []).length;
+  setBar('vocab', total ? mastered / total : 0);
+  document.getElementById('meta-vocab').textContent = `已掌握 ${mastered}/${total} · 学过 ${touched} · 练习 ${sessions} 次`;
+
+  const wTopics = (window.WRITING && WRITING.topics) ? WRITING.topics.length : 0;
+  const wDone = Object.values(d.writing).filter(x => x && x.drilled).length;
+  setBar('writing', wTopics ? wDone / wTopics : 0);
+  document.getElementById('meta-writing').textContent = `题型 ${wTopics} 类 · 练过 ${wDone}`;
+
+  const tTopics = (window.TRANSLATE && TRANSLATE.topics) ? TRANSLATE.topics.length : 0;
+  const tDone = Object.values(d.translate).filter(x => x && x.done).length;
+  setBar('translate', tTopics ? tDone / tTopics : 0);
+  document.getElementById('meta-translate').textContent = `主题 ${tTopics} 个 · 练过 ${tDone}`;
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="n">${touched}</div><div class="l">学过的单词</div></div>
+    <div class="stat"><div class="n">${mastered}</div><div class="l">已掌握</div></div>
+    <div class="stat"><div class="n">${total}</div><div class="l">词库总量(持续扩充)</div></div>
+    <div class="stat"><div class="n">${d.stats.days || 1}</div><div class="l">累计学习天数</div></div>`;
+});
+function setBar(name, ratio) {
+  const el = document.getElementById('bar-' + name);
+  if (el) el.style.width = Math.round(ratio * 100) + '%';
+}
+</script>
+</body>
+</html>

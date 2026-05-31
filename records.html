@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>练习记录 · CET6 复习</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="topbar"></div>
+<div class="wrap">
+  <h1>练习记录</h1>
+  <p class="sub">每次进入单词块做「认意思 / 快刷」并退出后,会在这里留下一条记录(练习的单词数与用时)。</p>
+  <div class="stat-row" id="rstats"></div>
+  <div id="rlist"></div>
+</div>
+
+<script src="data/vocab.js"></script>
+<script src="js/app.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const d = Store.load();
+  const hist = (d.vocabHistory || []).slice();
+  const fmt = (sec) => Math.floor(sec / 60) + ':' + String(sec % 60).padStart(2, '0');
+
+  // 汇总统计
+  const totalSec = hist.reduce((s, h) => s + (h.totalSec || 0), 0);
+  const totalWords = hist.reduce((s, h) => s + (h.words || 0), 0);
+  const knownTotal = Object.values(d.vocabBlocks || {}).reduce((s, b) => s + ((b && b.knownSet || []).length), 0);
+  document.getElementById('rstats').innerHTML = `
+    <div class="stat"><div class="n">${hist.length}</div><div class="l">练习次数</div></div>
+    <div class="stat"><div class="n">${fmt(totalSec)}</div><div class="l">累计时长</div></div>
+    <div class="stat"><div class="n">${totalWords}</div><div class="l">累计练词次数</div></div>
+    <div class="stat"><div class="n">${knownTotal}</div><div class="l">熟词库总量</div></div>`;
+
+  if (!hist.length) {
+    document.getElementById('rlist').innerHTML = `<div class="empty">还没有练习记录。<br>去 <a href="vocab.html" style="color:var(--accent)">词汇</a> 选一个单词块练一练吧。</div>`;
+    return;
+  }
+
+  // 按日期分组
+  const groups = {};
+  hist.forEach(h => {
+    const dt = new Date(h.date);
+    const day = `${dt.getFullYear()}-${String(dt.getMonth() + 1).padStart(2, '0')}-${String(dt.getDate()).padStart(2, '0')}`;
+    (groups[day] = groups[day] || []).push(h);
+  });
+
+  let html = '';
+  Object.keys(groups).forEach(day => {
+    const rows = groups[day];
+    const daySec = rows.reduce((s, h) => s + (h.totalSec || 0), 0);
+    html += `<h2>${day} <span class="lbl" style="color:var(--text-faint);font-weight:400;font-size:13px;">· ${rows.length} 次 · ${fmt(daySec)}</span></h2><div class="hist-list">`;
+    rows.forEach(h => {
+      const dt = new Date(h.date);
+      const hm = `${String(dt.getHours()).padStart(2, '0')}:${String(dt.getMinutes()).padStart(2, '0')}`;
+      const parts = [];
+      if (h.quizSec) parts.push(`认意思 ${fmt(h.quizSec)}`);
+      if (h.flashSec) parts.push(`快刷 ${fmt(h.flashSec)}`);
+      html += `<div class="hist-row">
+        <span class="tag">单词块 ${h.block + 1}</span>
+        <span class="hr-time">${fmt(h.totalSec || 0)}</span>
+        <span class="hr-sub">${parts.join(' · ') || '—'} · 练 ${h.words || 0} 词</span>
+        <span class="hr-date">${hm}</span>
+      </div>`;
+    });
+    html += `</div>`;
+  });
+  document.getElementById('rlist').innerHTML = html;
+});
+</script>
+</body>
+</html>
