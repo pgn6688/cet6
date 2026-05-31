@@ -424,9 +424,16 @@
       else { if (flashScope === 'all') addNew(w.w); reinsert(flash.queue, flash.pos, w); }  // 不认识:入生词库(仅本块)+5词后重现
       flash.pos++; renderFlash();
     };
+    // ② ↑/↓ 加入熟词:随时可用(无需先翻牌),加入后该词移出快刷队列并继续
+    const markKnown = () => {
+      addKnown(w.w);
+      flash.queue = flash.queue.filter((x, i) => !(x.w === w.w && i >= flash.pos));
+      renderFlash();
+    };
     document.getElementById('flip').onclick = flip;
     document.onkeydown = e => {
       const hidden = document.getElementById('reveal').classList.contains('hidden');
+      if (e.key === 'ArrowUp' || e.key === 'ArrowDown') { e.preventDefault(); markKnown(); return; }
       if (e.code === 'Space') { e.preventDefault(); if (hidden) flip(); }
       else if (!hidden && e.key === 'ArrowRight') grade(true);
       else if (!hidden && e.key === 'ArrowLeft') grade(false);
