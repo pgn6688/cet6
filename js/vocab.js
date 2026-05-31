@@ -317,7 +317,7 @@
       return doneScreen(`认意思完成!答对 ${c}/${a}`, '再来一轮', 'quiz');
     }
     persistBlock();
-    document.getElementById('mode-hint').textContent = '看英文选中文 · 选完再点一下卡片(或按钮/Enter)进下一题 · 1-4 选答案';
+    document.getElementById('mode-hint').textContent = '看英文选中文(1-4 选)· 答完再点一次正确选项(或按钮/Enter)进下一题';
     const w = quiz.queue[quiz.pos];
     setProg(quiz.pos / quiz.queue.length, `第 ${quiz.pos + 1}/${quiz.queue.length} 题 · 对 ${quiz.correct}`);
     const pool = ALLWORDS.length > 4 ? ALLWORDS : words;
@@ -347,7 +347,8 @@
     const goNext = () => { quiz.pos++; renderQuiz(); };
     stageEl().querySelectorAll('.opt').forEach(btn => {
       btn.onclick = () => {
-        if (answered) return;
+        // ④ 已作答:再点一次"正确选项"即进入下一题(错误选项已禁用,点不动)
+        if (answered) { if (btn.dataset.w === w.w) goNext(); return; }
         answered = true;
         ensureRunning('quiz');
         const chosen = btn.dataset.w === w.w;
@@ -355,19 +356,16 @@
         if (chosen) quiz.correct++;
         Vocab.answer(w.w, chosen);
         stageEl().querySelectorAll('.opt').forEach(b => {
-          b.disabled = true;
-          if (b.dataset.w === w.w) b.classList.add('correct');
-          else if (b === btn) b.classList.add('wrong');
+          if (b.dataset.w === w.w) b.classList.add('correct');   // 正确项保持可点(用于跳下一题)
+          else { b.disabled = true; if (b === btn) b.classList.add('wrong'); }
         });
         if (!chosen) reinsert(quiz.queue, quiz.pos, w);   // 5 个词后重现
         persistBlock();
         document.getElementById('tipbox').innerHTML =
           `${w.tip ? `<div class="reveal">💡 ${w.tip}</div>` : ''}
-           <div class="btn-row"><button class="btn" id="qnext">下一题 →(Enter / 再点一下卡片)</button></div>`;
+           <div class="btn-row"><button class="btn" id="qnext">下一题 →(Enter / 再点一次绿色正确项)</button></div>`;
         document.getElementById('qnext').onclick = (e) => { e.stopPropagation(); goNext(); };
         document.onkeydown = e => { if (e.key === 'Enter') goNext(); };
-        // ④ 再点一下卡片进下一题(延迟绑定,避免本次点击立即触发)
-        setTimeout(() => { const c = document.getElementById('qcard'); if (c) c.onclick = () => goNext(); }, 0);
       };
     });
     document.onkeydown = quizKeys;
@@ -392,9 +390,9 @@
       persistBlock(); return doneScreen(`快刷一轮结束!认识 ${k}/${n}`, '再刷一轮(弱词优先)', 'flash');
     }
     if (flashScope === 'all') persistBlock();
-    document.getElementById('mode-hint').textContent = flashScope === 'newbook'
-      ? '生词库速刷 · 空格翻牌 · ←不认识 →认识(不重复入库)'
-      : '回想→翻牌→认识/不认识 · 点"不认识"自动入生词库 · 空格翻牌, ←不认识 →认识';
+    document.getElementById('mode-hint').innerHTML = flashScope === 'newbook'
+      ? '生词库速刷 · 快捷键:<span class="kbd">空格</span>翻牌 <span class="kbd">←</span>不认识 <span class="kbd">→</span>认识 <span class="kbd">↑/↓</span>加熟词'
+      : '回想→翻牌→认识/不认识 · 点"不认识"自动入生词库 · 快捷键:<span class="kbd">空格</span>翻牌 <span class="kbd">←</span>不认识 <span class="kbd">→</span>认识 <span class="kbd">↑/↓</span>加熟词';
     const w = flash.queue[flash.pos];
     setProg(flash.pos / flash.queue.length, `${flash.pos + 1}/${flash.queue.length}`);
     stageEl().innerHTML = `
