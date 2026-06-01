@@ -1603,5 +1603,405 @@ window.VOCAB = [
       { w:"fraction", ph:"/ˈfrækʃn/", m:"n. 小部分;分数;片段", tip:"fract(断裂 fracture)+ion → 断出的一块 → 小部分" },
       { w:"fragment", ph:"/ˈfræɡmənt/", m:"n. 碎片 v. 使破碎", tip:"frag(断 fract)+ment → 碎片" },
       { w:"frantic", ph:"/ˈfræntɪk/", m:"adj. 疯狂的;狂乱的", tip:"谐音'夫软teak':慌乱发疯 → 疯狂" }
+    ] },
+  { id: 161,
+    en: "Soldiers must {{abide}} by orders, {{combat}} fear, defend the {{rampart}}, never {{falter}}, and stay {{valiant}} to the end.",
+    zh: "士兵必须{{遵守|abide}}命令、{{搏斗|combat}}恐惧、守住{{壁垒|rampart}}、绝不{{动摇|falter}},并{{勇敢|valiant}}到底。",
+    words: [
+      { w:"abide", ph:"/əˈbaɪd/", m:"vi.(by)遵守;容忍", tip:"a+bide(等待 → 守)→ 守住 → 遵守" },
+      { w:"combat", ph:"/ˈkɒmbæt/", m:"v./n. 战斗;搏斗", tip:"com(共)+bat(打)→ 互打 → 战斗" },
+      { w:"rampart", ph:"/ˈræmpɑːt/", m:"n. 壁垒;防御", tip:"ramp(斜坡)+art → 土坡防墙 → 壁垒" },
+      { w:"falter", ph:"/ˈfɔːltə/", m:"vi. 动摇;蹒跚;支吾", tip:"谐音'否他':犹豫 → 动摇" },
+      { w:"valiant", ph:"/ˈvæliənt/", m:"adj. 勇敢的;英勇的", tip:"val(力量 value)+iant → 有力 → 勇敢" }
+    ] },
+  { id: 162,
+    en: "The {{amiable}} guide would {{acquaint}} tourists with local {{dialect}}, {{depict}} old legends, and {{enchant}} them with each {{anecdote}}.",
+    zh: "这位{{和蔼的|amiable}}导游会让游客{{熟悉|acquaint}}当地{{方言|dialect}}、{{描绘|depict}}古老传说,并用每个{{轶事|anecdote}}让他们{{着迷|captivate}}。",
+    words: [
+      { w:"amiable", ph:"/ˈeɪmiəbl/", m:"adj. 和蔼的;亲切的", tip:"ami(友爱 amigo)+able → 友善 → 和蔼" },
+      { w:"acquaint", ph:"/əˈkweɪnt/", m:"vt. 使熟悉;使了解", tip:"ac+quaint(知道 → quaint)→ 使知道 → 熟悉" },
+      { w:"dialect", ph:"/ˈdaɪəlekt/", m:"n. 方言;土语", tip:"dia(之间)+lect(说)→ 地方间的话 → 方言" },
+      { w:"depict", ph:"/dɪˈpɪkt/", m:"vt. 描绘;描述", tip:"de+pict(画 picture)→ 画出来 → 描绘" },
+      { w:"anecdote", ph:"/ˈænɪkdəʊt/", m:"n. 轶事;趣闻", tip:"谐音'安你刻逗':小故事 → 轶事" }
+    ] },
+  { id: 163,
+    en: "After the {{outbreak}}, doctors would {{prescribe}} an {{antibiotic}}, treat each {{ailment}}, {{allay}} panic, and {{cleanse}} the wards daily.",
+    zh: "{{爆发|outbreak}}之后,医生会{{开出|prescribe}}{{抗生素|antibiotic}}、治疗每种{{小病|ailment}}、{{减轻|allay}}恐慌,并每日{{清洁|cleanse}}病房。",
+    words: [
+      { w:"outbreak", ph:"/ˈaʊtbreɪk/", m:"n.(疾病/战争)爆发", tip:"out(出)+break(破)→ 突然爆出 → 爆发" },
+      { w:"prescribe", ph:"/prɪˈskraɪb/", m:"vt. 开(药);规定", tip:"pre(预先)+scribe(写)→ 写药方 → 开药" },
+      { w:"antibiotic", ph:"/ˌæntibaɪˈɒtɪk/", m:"n. 抗生素", tip:"anti(抗)+bio(生命)→ 抗菌 → 抗生素" },
+      { w:"ailment", ph:"/ˈeɪlmənt/", m:"n. 小病;不适", tip:"ail(生病)+ment → 小病" },
+      { w:"allay", ph:"/əˈleɪ/", m:"vt. 减轻;消除(恐惧)", tip:"a+lay(放下)→ 放下不安 → 减轻" }
+    ] },
+  { id: 164,
+    en: "A {{frugal}} family must {{allot}} money wisely, {{curb}} waste, avoid {{deficient}} budgets, {{augment}} savings, and never {{squander}} a coin.",
+    zh: "{{节俭的|frugal}}家庭必须明智地{{分配|allot}}金钱、{{抑制|curb}}浪费、避免{{不足的|deficient}}预算、{{增加|augment}}储蓄,绝不{{挥霍|squander}}一分钱。",
+    words: [
+      { w:"frugal", ph:"/ˈfruːɡl/", m:"adj. 节俭的;朴素的", tip:"谐音'抚logo':省着用 → 节俭" },
+      { w:"allot", ph:"/əˈlɒt/", m:"vt. 分配;拨给", tip:"a+lot(份额)→ 分份额 → 分配" },
+      { w:"curb", ph:"/kɜːb/", m:"vt. 抑制;控制 n. 路缘", tip:"谐音'扣脖':勒住 → 抑制" },
+      { w:"deficient", ph:"/dɪˈfɪʃnt/", m:"adj. 不足的;有缺陷的", tip:"de(去)+fic(做)→ 做得不够 → 不足" },
+      { w:"augment", ph:"/ɔːɡˈment/", m:"vt. 增加;增大", tip:"aug(增 → auction)+ment → 增加" }
+    ] },
+  { id: 165,
+    en: "The {{ruthless}} tyrant would {{condemn}} rivals, {{detain}} the innocent, {{plunder}} villages, and {{persecute}} anyone who dared {{dissent}}.",
+    zh: "这个{{残忍的|ruthless}}暴君会{{谴责|condemn}}对手、{{拘留|detain}}无辜者、{{掠夺|plunder}}村庄,并{{迫害|persecute}}任何胆敢{{异议|dissent}}的人。",
+    words: [
+      { w:"ruthless", ph:"/ˈruːθləs/", m:"adj. 无情的;残忍的", tip:"ruth(怜悯)+less(无)→ 无怜悯 → 无情" },
+      { w:"condemn", ph:"/kənˈdem/", m:"vt. 谴责;判刑", tip:"con+demn(罪 → damn)→ 定罪 → 谴责(n 不发音)" },
+      { w:"detain", ph:"/dɪˈteɪn/", m:"vt. 拘留;留住", tip:"de(离)+tain(握)→ 扣住 → 拘留" },
+      { w:"plunder", ph:"/ˈplʌndə/", m:"vt./n. 掠夺;抢劫", tip:"谐音'扑axiom的':抢光 → 掠夺" },
+      { w:"persecute", ph:"/ˈpɜːsɪkjuːt/", m:"vt. 迫害;骚扰", tip:"per(彻底)+secute(追 → 跟)→ 穷追猛打 → 迫害" }
+    ] },
+  { id: 166,
+    en: "The {{earnest}} scholar would {{appraise}} each {{manuscript}}, {{deduce}} its origin, {{inscribe}} a note, and {{esteem}} every rare find.",
+    zh: "这位{{认真的|earnest}}学者会{{评估|appraise}}每份{{手稿|manuscript}}、{{推断|deduce}}其来历、{{题写|inscribe}}批注,并{{珍视|esteem}}每一件珍稀发现。",
+    words: [
+      { w:"earnest", ph:"/ˈɜːnɪst/", m:"adj. 认真的;诚挚的", tip:"谐音'额你思特':一本正经 → 认真" },
+      { w:"appraise", ph:"/əˈpreɪz/", m:"vt. 评估;鉴定", tip:"ap+praise(价 → price)→ 估价 → 评估" },
+      { w:"manuscript", ph:"/ˈmænjuskrɪpt/", m:"n. 手稿;原稿", tip:"manu(手)+script(写)→ 手写稿 → 手稿" },
+      { w:"deduce", ph:"/dɪˈdjuːs/", m:"vt. 推断;演绎", tip:"de(下)+duce(引)→ 顺推下来 → 推断" },
+      { w:"inscribe", ph:"/ɪnˈskraɪb/", m:"vt. 题写;铭刻", tip:"in(进)+scribe(写)→ 刻进去 → 铭刻" }
+    ] },
+  { id: 167,
+    en: "On a {{dreary}} morning, the {{melancholy}} poet would {{muse}} by the {{marsh}}, {{lament}} lost youth, and {{reminisce}} for hours.",
+    zh: "在{{沉闷的|dreary}}清晨,{{忧郁的|melancholy}}诗人会在{{沼泽|marsh}}边{{沉思|muse}}、{{哀叹|lament}}逝去的青春,并{{追忆|reminisce}}数小时。",
+    words: [
+      { w:"dreary", ph:"/ˈdrɪəri/", m:"adj. 沉闷的;阴郁的", tip:"谐音'锥瑞':无聊到困 → 沉闷" },
+      { w:"melancholy", ph:"/ˈmelənkəli/", m:"n./adj. 忧郁(的)", tip:"melan(黑)+choly(胆汁)→ 黑胆汁 → 忧郁" },
+      { w:"muse", ph:"/mjuːz/", m:"vi. 沉思;冥想 n. 缪斯", tip:"music 的缪斯 → 凝神 → 沉思" },
+      { w:"marsh", ph:"/mɑːʃ/", m:"n. 沼泽;湿地", tip:"谐音'马湿':湿软地 → 沼泽" },
+      { w:"lament", ph:"/ləˈment/", m:"v./n. 哀悼;悲叹", tip:"谐音'勒悶它':痛惜 → 哀叹" }
+    ] },
+  { id: 168,
+    en: "The {{jubilant}} crowd gave an {{ovation}}, waved a {{banner}}, sang {{aloud}}, formed a {{coalition}}, and saluted the {{eternal}} flame.",
+    zh: "{{欢腾的|jubilant}}人群报以{{热烈鼓掌|ovation}}、挥舞{{横幅|banner}}、{{大声|aloud}}歌唱、结成{{联盟|coalition}},并向{{永恒的|eternal}}火焰致敬。",
+    words: [
+      { w:"jubilant", ph:"/ˈdʒuːbɪlənt/", m:"adj. 欢欣的;喜气洋洋的", tip:"jubil(欢呼 jubilee)+ant → 欢腾" },
+      { w:"ovation", ph:"/əʊˈveɪʃn/", m:"n. 热烈鼓掌;欢迎", tip:"谐音'欧为申':全场鼓掌 → 喝彩" },
+      { w:"banner", ph:"/ˈbænə/", m:"n. 横幅;旗帜", tip:"ban(布告)+ner → 横幅" },
+      { w:"aloud", ph:"/əˈlaʊd/", m:"adv. 出声地;大声地", tip:"a+loud(大声)→ 大声地" },
+      { w:"coalition", ph:"/ˌkəʊəˈlɪʃn/", m:"n. 联盟;结合", tip:"co(共)+alit(联合 ally)→ 联合体 → 联盟" }
+    ] },
+  { id: 169,
+    en: "The {{audible}} alarm made everyone {{flinch}}; people would {{gasp}}, {{shudder}}, {{huddle}} together, and rush down the dark {{avenue}}.",
+    zh: "那{{听得见的|audible}}警报让所有人{{畏缩|flinch}};人们{{倒抽冷气|gasp}}、{{发抖|shudder}}、{{挤作一团|huddle}},冲下漆黑的{{大街|avenue}}。",
+    words: [
+      { w:"audible", ph:"/ˈɔːdəbl/", m:"adj. 听得见的", tip:"audi(听 audio)+ble → 听得见" },
+      { w:"flinch", ph:"/flɪntʃ/", m:"vi. 退缩;畏缩", tip:"谐音'夫林吃':吓得一缩 → 畏缩" },
+      { w:"gasp", ph:"/ɡɑːsp/", m:"vi. 喘息;倒抽气", tip:"谐音'尬死扑':张口吸气 → 喘息" },
+      { w:"shudder", ph:"/ˈʃʌdə/", m:"vi./n. 战栗;发抖", tip:"谐音'吓的':浑身一颤 → 发抖" },
+      { w:"huddle", ph:"/ˈhʌdl/", m:"vi. 挤作一团;蜷缩", tip:"谐音'哈豆':缩成一堆 → 挤" }
+    ] },
+  { id: 170,
+    en: "A wise editor will {{amend}} errors, {{discard}} weak lines, {{condense}} long parts into a {{terse}} style, and keep the prose {{legible}}.",
+    zh: "明智的编辑会{{修改|amend}}错误、{{舍弃|discard}}弱句、把冗长部分{{压缩|compress}}成{{简洁的|terse}}风格,并让文字保持{{清晰易读|legible}}。",
+    words: [
+      { w:"amend", ph:"/əˈmend/", m:"vt. 修改;修订", tip:"a+mend(修补)→ 修订" },
+      { w:"discard", ph:"/dɪsˈkɑːd/", m:"vt. 丢弃;抛弃", tip:"dis+card(牌)→ 出掉废牌 → 丢弃" },
+      { w:"compress", ph:"/kəmˈpres/", m:"vt. 压缩;精简", tip:"com(共)+press(压)→ 压到一起 → 压缩" },
+      { w:"terse", ph:"/tɜːs/", m:"adj. 简洁的;精练的", tip:"谐音'特死':话极少 → 简洁" },
+      { w:"legible", ph:"/ˈledʒəbl/", m:"adj. 字迹清楚的;易读的", tip:"leg(读 → legend)+ible → 可读 → 易读" }
+    ] },
+  { id: 171,
+    en: "The {{shrewd}} merchant would {{bargain}} hard, refuse a {{bribe}}, secure good {{collateral}}, demand {{credentials}}, and {{clinch}} the deal.",
+    zh: "{{精明的|shrewd}}商人会努力{{讨价|haggle}}、拒收{{贿赂|bribe}}、确保可靠的{{抵押品|collateral}}、索要{{资质证明|credentials}},并{{敲定|clinch}}交易。",
+    words: [
+      { w:"shrewd", ph:"/ʃruːd/", m:"adj. 精明的;敏锐的", tip:"谐音'刷如的':算盘精 → 精明" },
+      { w:"haggle", ph:"/ˈhæɡl/", m:"vi. 讨价还价;争论", tip:"谐音'哈狗':为价钱缠 → 讨价" },
+      { w:"bribe", ph:"/braɪb/", m:"n./vt. 贿赂;行贿", tip:"谐音'不来不':塞钱 → 贿赂" },
+      { w:"collateral", ph:"/kəˈlætərəl/", m:"n. 抵押品 adj. 附带的", tip:"col(共)+later(旁)→ 旁边作保的 → 抵押品" },
+      { w:"credentials", ph:"/krəˈdenʃlz/", m:"n. 资格证书;证件", tip:"cred(相信)+ential → 凭信之物 → 证书" }
+    ] },
+  { id: 172,
+    en: "Critics {{denounce}} the {{conspicuous}} waste, {{deride}} the {{pompous}} speech, expose the {{conceit}}, and {{repudiate}} every false claim.",
+    zh: "批评者{{谴责|denounce}}那{{显眼的|conspicuous}}浪费、{{嘲笑|deride}}{{自大的|pompous}}演讲、揭穿{{自负|conceit}},并{{驳斥|repudiate}}每个虚假主张。",
+    words: [
+      { w:"denounce", ph:"/dɪˈnaʊns/", m:"vt. 谴责;公开指责", tip:"de(向下)+nounce(说 → announce)→ 当众斥 → 谴责" },
+      { w:"conspicuous", ph:"/kənˈspɪkjuəs/", m:"adj. 显眼的;惹人注目的", tip:"con+spic(看 spect)→ 一眼看到 → 显眼" },
+      { w:"deride", ph:"/dɪˈraɪd/", m:"vt. 嘲笑;愚弄", tip:"de(向下)+ride(笑)→ 取笑 → 嘲笑" },
+      { w:"pompous", ph:"/ˈpɒmpəs/", m:"adj. 自大的;浮夸的", tip:"pomp(盛况 → 排场)+ous → 摆排场 → 自大" },
+      { w:"conceit", ph:"/kənˈsiːt/", m:"n. 自负;自大", tip:"con+ceit(想 → conceive)→ 自我感觉良好 → 自负" }
+    ] },
+  { id: 173,
+    en: "The {{tenacious}} runner felt his muscles {{throb}}, his lungs {{heave}}, his legs grow {{numb}}, yet he {{surmount}}ed every hill.",
+    zh: "{{顽强的|tenacious}}跑者感到肌肉{{抽痛|throb}}、双肺{{起伏|heave}}、双腿{{麻木|numb}},却仍{{克服|surmount}}了每一道坡。",
+    words: [
+      { w:"tenacious", ph:"/təˈneɪʃəs/", m:"adj. 顽强的;坚持的", tip:"ten(握 → tenant)+acious → 死握不放 → 顽强" },
+      { w:"throb", ph:"/θrɒb/", m:"vi./n. 抽痛;悸动", tip:"谐音'死罗扑':一跳一跳痛 → 抽痛" },
+      { w:"heave", ph:"/hiːv/", m:"v. 起伏;举起;呕吐", tip:"谐音'嗨夫':使劲起伏 → 起伏" },
+      { w:"numb", ph:"/nʌm/", m:"adj. 麻木的 vt. 使麻木", tip:"谐音'拿姆':没知觉 → 麻木(b 不发音)" },
+      { w:"surmount", ph:"/səˈmaʊnt/", m:"vt. 克服;登上", tip:"sur(上)+mount(山)→ 翻过山 → 克服" }
+    ] },
+  { id: 174,
+    en: "Faced with a {{predicament}}, the {{deputy}} kept her {{poise}}, used {{tact}}, sought {{rapport}}, and broke the {{deadlock}}.",
+    zh: "面对{{困境|predicament}},这位{{副手|deputy}}保持{{沉着|poise}}、运用{{机智|tact}}、寻求{{融洽|rapport}},并打破了{{僵局|deadlock}}。",
+    words: [
+      { w:"predicament", ph:"/prɪˈdɪkəmənt/", m:"n. 困境;窘境", tip:"pre+dic(说)→ 难以言说的处境 → 困境" },
+      { w:"deputy", ph:"/ˈdepjuti/", m:"n. 副手;代理人", tip:"depute(委托)→ 受托者 → 副手" },
+      { w:"poise", ph:"/pɔɪz/", m:"n. 沉着;平衡 v. 使平衡", tip:"谐音'破易死':稳如泰山 → 沉着" },
+      { w:"tact", ph:"/tækt/", m:"n. 机智;圆通;得体", tip:"tact(触 → 分寸)→ 拿捏分寸 → 机智" },
+      { w:"rapport", ph:"/ræˈpɔː/", m:"n. 融洽;和谐关系", tip:"re+port(带)→ 来往融洽 → 和谐(t 不发音)" }
+    ] },
+  { id: 175,
+    en: "The {{vibrant}} festival would {{teem}} with people, the air {{sizzle}} with food, drums {{rattle}}, and lanterns {{gleam}} all night.",
+    zh: "{{热闹的|vibrant}}节日{{挤满|teem}}人群,空气里食物{{滋滋作响|sizzle}},鼓声{{咔嗒作响|rattle}},灯笼整夜{{闪烁|gleam}}。",
+    words: [
+      { w:"vibrant", ph:"/ˈvaɪbrənt/", m:"adj. 充满活力的;鲜艳的", tip:"vibr(振动 vibrate)+ant → 跃动 → 有活力" },
+      { w:"teem", ph:"/tiːm/", m:"vi.(with)充满;盛产", tip:"谐音'剔么':多得溢出 → 充满" },
+      { w:"sizzle", ph:"/ˈsɪzl/", m:"vi. 发咝咝声(煎炸)", tip:"拟声'滋滋' → 油煎声" },
+      { w:"rattle", ph:"/ˈrætl/", m:"v. 咔嗒响 n. 拨浪鼓", tip:"拟声'拉头':嘎啦响 → 咔嗒" },
+      { w:"gleam", ph:"/ɡliːm/", m:"vi./n. 微光;闪烁", tip:"glow 亲戚 → 闪光 → 微光" }
+    ] },
+  { id: 176,
+    en: "A {{naive}} novice may {{stammer}} on stage, {{fumble}} with notes, {{blush}} red, then {{improvise}} a clever ending.",
+    zh: "一个{{天真的|naive}}新手可能在台上{{结巴|stammer}}、{{笨手笨脚弄|fumble}}讲稿、{{脸红|blush}},然后{{即兴发挥|improvise}}出一个巧妙的结尾。",
+    words: [
+      { w:"naive", ph:"/naɪˈiːv/", m:"adj. 天真的;幼稚的", tip:"谐音'乃衣服':涉世浅 → 天真" },
+      { w:"stammer", ph:"/ˈstæmə/", m:"vi./n. 结巴;口吃", tip:"谐音'死他么':话卡住 → 结巴" },
+      { w:"fumble", ph:"/ˈfʌmbl/", m:"vi. 笨拙摸索;弄乱", tip:"谐音'反不':手忙脚乱 → 笨手笨脚" },
+      { w:"blush", ph:"/blʌʃ/", m:"vi./n. 脸红;羞愧", tip:"谐音'不拉是':面红 → 脸红" },
+      { w:"improvise", ph:"/ˈɪmprəvaɪz/", m:"v. 即兴创作;临时凑成", tip:"im(不)+provise(预见)→ 没准备 → 即兴" }
+    ] },
+  { id: 177,
+    en: "The {{obsolete}} machine would {{creak}}, {{rust}} away, often {{malfunction}}, and finally {{crumble}} into a heap of {{rubble}}.",
+    zh: "这台{{过时的|obsolete}}机器会{{嘎吱响|creak}}、{{锈蚀|corrode}}、常常{{出故障|malfunction}},最终{{崩裂|crumble}}成一堆{{瓦砾|rubble}}。",
+    words: [
+      { w:"obsolete", ph:"/ˈɒbsəliːt/", m:"adj. 过时的;废弃的", tip:"obs(旧)+solete → 不再用 → 过时" },
+      { w:"creak", ph:"/kriːk/", m:"vi./n. 嘎吱作响", tip:"拟声'克瑞克':门轴响 → 嘎吱" },
+      { w:"malfunction", ph:"/ˌmælˈfʌŋkʃn/", m:"vi./n. 故障;失灵", tip:"mal(坏)+function(功能)→ 功能坏 → 故障" },
+      { w:"crumble", ph:"/ˈkrʌmbl/", m:"vi. 崩碎;瓦解", tip:"crumb(面包屑)+le → 碎成屑 → 崩碎" },
+      { w:"rubble", ph:"/ˈrʌbl/", m:"n. 碎石;瓦砾", tip:"rub(磨)+ble → 磨碎的渣 → 瓦砾" }
+    ] },
+  { id: 178,
+    en: "On a {{humid}} day, sweat would {{trickle}} down, the heat {{swelter}}, mosquitoes {{pester}}, and everyone {{yearn}} for a cool breeze.",
+    zh: "{{潮湿的|humid}}日子里,汗水{{滴流|trickle}}而下,暑气{{闷热难当|swelter}},蚊子{{纠缠|pester}},人人{{渴望|yearn}}一阵凉风。",
+    words: [
+      { w:"humid", ph:"/ˈhjuːmɪd/", m:"adj. 潮湿的;湿润的", tip:"hum(湿 → humor 体液)+id → 潮湿" },
+      { w:"trickle", ph:"/ˈtrɪkl/", m:"vi. 滴流;细流", tip:"谐音'缀口':一滴滴 → 滴流" },
+      { w:"swelter", ph:"/ˈsweltə/", m:"vi. 闷热;热得发昏", tip:"swelt(热晕)+er → 闷热" },
+      { w:"pester", ph:"/ˈpestə/", m:"vt. 纠缠;烦扰", tip:"pest(害虫)+er → 像害虫缠人 → 烦扰" },
+      { w:"yearn", ph:"/jɜːn/", m:"vi. 渴望;思念", tip:"谐音'verb英':心心念念 → 渴望" }
+    ] },
+  { id: 179,
+    en: "The {{eerie}} forest looked {{ghastly}} at dusk; shadows would {{prowl}}, branches {{groan}}, and a cold mist {{shroud}} the path.",
+    zh: "{{阴森的|eerie}}森林在黄昏显得{{可怕的|ghastly}};阴影{{潜行|prowl}},枝桠{{呻吟|groan}},一层冷雾{{笼罩|shroud}}着小径。",
+    words: [
+      { w:"eerie", ph:"/ˈɪəri/", m:"adj. 怪异的;阴森的", tip:"谐音'依瑞':瘆得慌 → 阴森" },
+      { w:"ghastly", ph:"/ˈɡɑːstli/", m:"adj. 可怕的;惨白的", tip:"ghost(鬼)亲戚 → 鬼一样 → 可怕" },
+      { w:"prowl", ph:"/praʊl/", m:"vi. 潜行;暗中觅食", tip:"谐音'扑肉':伺机扑食 → 潜行" },
+      { w:"groan", ph:"/ɡrəʊn/", m:"vi./n. 呻吟;抱怨", tip:"谐音'够嗯':痛得哼 → 呻吟" },
+      { w:"shroud", ph:"/ʃraʊd/", m:"vt. 笼罩 n. 寿衣", tip:"谐音'刷绕的':盖住 → 笼罩" }
+    ] },
+  { id: 180,
+    en: "Investors began to {{fret}} as prices {{plummet}}, markets {{slump}}, savings {{dwindle}}, and confidence reached its {{nadir}}.",
+    zh: "随着价格{{暴跌|plummet}}、市场{{衰退|slump}}、储蓄{{减少|dwindle}}、信心跌至{{最低点|nadir}},投资者开始{{烦恼|fret}}。",
+    words: [
+      { w:"fret", ph:"/fret/", m:"vi. 烦恼;焦虑", tip:"谐音'佛瑞特':心里嘀咕 → 烦恼" },
+      { w:"plummet", ph:"/ˈplʌmɪt/", m:"vi. 暴跌;骤降", tip:"plumb(铅锤)+et → 像铅坠落 → 暴跌" },
+      { w:"slump", ph:"/slʌmp/", m:"vi./n. 暴跌;萧条;瘫坐", tip:"谐音'死浪扑':一下塌下 → 暴跌" },
+      { w:"dwindle", ph:"/ˈdwɪndl/", m:"vi. 逐渐减少", tip:"谐音'断豆':一点点断 → 减少" },
+      { w:"nadir", ph:"/ˈneɪdɪə/", m:"n. 最低点;深渊", tip:"谐音'内底儿':谷底 → 最低点" }
+    ] },
+  { id: 181,
+    en: "The {{hospitable}} host would {{usher}} guests in, {{pamper}} them with a {{sumptuous}} meal, and offer warm {{solace}} to the weary.",
+    zh: "{{好客的|hospitable}}主人会{{引领|usher}}客人进门、用{{丰盛的|sumptuous}}大餐{{款待|pamper}}他们,并向疲惫者送上温暖的{{慰藉|solace}}。",
+    words: [
+      { w:"hospitable", ph:"/hɒˈspɪtəbl/", m:"adj. 好客的;友好的", tip:"hospit(客 → hospital)+able → 待客 → 好客" },
+      { w:"usher", ph:"/ˈʌʃə/", m:"vt. 引领;迎接 n. 引座员", tip:"谐音'阿social':领座 → 引领" },
+      { w:"pamper", ph:"/ˈpæmpə/", m:"vt. 娇惯;悉心款待", tip:"谐音'胖剖':养得舒服 → 娇惯" },
+      { w:"sumptuous", ph:"/ˈsʌmptʃuəs/", m:"adj. 豪华的;丰盛的", tip:"sumpt(花费 → consume)→ 花大钱 → 奢华" },
+      { w:"solace", ph:"/ˈsɒləs/", m:"n./vt. 安慰;慰藉", tip:"sol(=console 安慰)→ 慰藉" }
+    ] },
+  { id: 182,
+    en: "The {{vigilant}} guard would {{patrol}} the gate, {{intercept}} intruders, raise the {{alarm}}, and {{thwart}} every plot.",
+    zh: "{{警惕的|vigilant}}卫兵会{{巡逻|patrol}}大门、{{拦截|intercept}}入侵者、拉响{{警报|alarm}},并{{挫败|thwart}}每一个阴谋。",
+    words: [
+      { w:"vigilant", ph:"/ˈvɪdʒɪlənt/", m:"adj. 警惕的;警觉的", tip:"vigil(守夜)+ant → 守夜不眠 → 警惕" },
+      { w:"patrol", ph:"/pəˈtrəʊl/", m:"v./n. 巡逻;巡查", tip:"谐音'怕戳':来回查 → 巡逻" },
+      { w:"intercept", ph:"/ˌɪntəˈsept/", m:"vt. 拦截;截获", tip:"inter(中间)+cept(拿)→ 半路抓 → 拦截" },
+      { w:"alarm", ph:"/əˈlɑːm/", m:"n. 警报;惊恐 vt. 使惊恐", tip:"al+arm(武器 → 戒备)→ 警报" },
+      { w:"thwart", ph:"/θwɔːt/", m:"vt. 阻挠;挫败", tip:"谐音'死沃特':横插一杠 → 阻挠" }
+    ] },
+  { id: 183,
+    en: "After the {{upheaval}}, citizens would {{rally}}, demand a {{truce}}, {{vouch}} for peace, and {{vindicate}} the innocent victims.",
+    zh: "{{剧变|upheaval}}过后,市民们会{{集结|rally}}、要求{{休战|truce}}、为和平{{担保|vouch}},并为无辜受害者{{昭雪|vindicate}}。",
+    words: [
+      { w:"upheaval", ph:"/ʌpˈhiːvl/", m:"n. 剧变;动荡", tip:"up(上)+heave(掀)→ 天翻地覆 → 剧变" },
+      { w:"rally", ph:"/ˈræli/", m:"v. 集结;团结 n. 集会", tip:"re+ally(联合)→ 重新集合 → 集结" },
+      { w:"truce", ph:"/truːs/", m:"n. 休战;停战", tip:"谐音'states':暂停打 → 休战" },
+      { w:"vouch", ph:"/vaʊtʃ/", m:"vi.(for)担保;证明", tip:"voc(说 voice)→ 出面作证 → 担保" },
+      { w:"vindicate", ph:"/ˈvɪndɪkeɪt/", m:"vt. 证明无罪;为…辩白", tip:"vindic(主张权利)→ 还人清白 → 昭雪" }
+    ] },
+  { id: 184,
+    en: "The {{cumbersome}} cart would {{topple}} on rough roads, {{jolt}} the cargo, and {{hamper}} every {{errand}} the boy ran.",
+    zh: "这辆{{笨重的|cumbersome}}手推车在崎岖路上会{{倾倒|topple}}、{{颠簸|jolt}}货物,并{{妨碍|hamper}}男孩跑的每趟{{差事|errand}}。",
+    words: [
+      { w:"cumbersome", ph:"/ˈkʌmbəsəm/", m:"adj. 笨重的;累赘的", tip:"cumber(妨碍)+some → 累赘 → 笨重" },
+      { w:"topple", ph:"/ˈtɒpl/", m:"v. 倾倒;推翻", tip:"top(顶)+ple → 头重脚轻 → 倾倒" },
+      { w:"jolt", ph:"/dʒəʊlt/", m:"v./n. 颠簸;震惊", tip:"谐音'锥欧特':猛一颠 → 颠簸" },
+      { w:"hamper", ph:"/ˈhæmpə/", m:"vt. 妨碍;阻碍", tip:"谐音'憨剖':绊住 → 妨碍" },
+      { w:"errand", ph:"/ˈerənd/", m:"n. 差事;跑腿", tip:"谐音'爱running的':跑腿 → 差事" }
+    ] },
+  { id: 185,
+    en: "The {{turbulent}} river would {{surge}} past the bank, {{erode}} the soil, {{engulf}} the fields, and sweep away the wooden {{vessel}}.",
+    zh: "{{湍急的|turbulent}}河水会{{奔涌|surge}}过堤岸、{{侵蚀|erode}}土壤、{{吞没|engulf}}田地,并卷走那艘木{{船|vessel}}。",
+    words: [
+      { w:"turbulent", ph:"/ˈtɜːbjələnt/", m:"adj. 湍急的;动荡的", tip:"turb(搅动 disturb)+ulent → 翻腾 → 湍急" },
+      { w:"surge", ph:"/sɜːdʒ/", m:"vi./n. 汹涌;激增", tip:"谐音'瑟吉':浪头涌 → 汹涌" },
+      { w:"erode", ph:"/iˈrəʊd/", m:"v. 侵蚀;腐蚀", tip:"e(出)+rode(咬 rodent)→ 啃蚀 → 侵蚀" },
+      { w:"engulf", ph:"/ɪnˈɡʌlf/", m:"vt. 吞没;吞噬", tip:"en+gulf(海湾 → 深渊)→ 卷入深渊 → 吞没" },
+      { w:"vessel", ph:"/ˈvesl/", m:"n. 船;容器;血管", tip:"谐音'喂手哦':盛装/航行 → 容器/船" }
+    ] },
+  { id: 186,
+    en: "The {{generic}} drug would {{dissolve}} fast, {{ease}} the {{nausea}}, {{soothe}} the patient, and gradually {{restore}} her appetite.",
+    zh: "这种{{通用的|generic}}药物会快速{{溶解|dissolve}}、{{缓解|relieve}}{{恶心|nausea}}、{{安抚|soothe}}病人,并逐渐恢复她的食欲。",
+    words: [
+      { w:"generic", ph:"/dʒəˈnerɪk/", m:"adj. 通用的;非专利的", tip:"gener(种类 genus)+ic → 一类通用 → 通用" },
+      { w:"dissolve", ph:"/dɪˈzɒlv/", m:"v. 溶解;解散", tip:"dis+solve(解)→ 化开 → 溶解" },
+      { w:"relieve", ph:"/rɪˈliːv/", m:"vt. 缓解;减轻", tip:"re+lieve(轻 light)→ 使变轻 → 缓解" },
+      { w:"nausea", ph:"/ˈnɔːziə/", m:"n. 恶心;反胃", tip:"naus(船 → 晕船)→ 反胃 → 恶心" },
+      { w:"soothe", ph:"/suːð/", m:"vt. 安抚;缓解", tip:"谐音'舒服':使舒服 → 安抚" }
+    ] },
+  { id: 187,
+    en: "The {{painstaking}} artist would {{engrave}} fine lines, mix a rich {{palette}}, polish the {{glossy}} surface, and unveil a {{splendid}} mural.",
+    zh: "{{一丝不苟的|painstaking}}艺术家会{{雕刻|engrave}}精细线条、调出浓郁的{{调色板|palette}}、抛光{{光亮的|glossy}}表面,并揭幕一幅{{壮丽的|splendid}}壁画。",
+    words: [
+      { w:"painstaking", ph:"/ˈpeɪnzteɪkɪŋ/", m:"adj. 煞费苦心的;一丝不苟的", tip:"pains(辛苦)+taking → 下苦功 → 一丝不苟" },
+      { w:"engrave", ph:"/ɪnˈɡreɪv/", m:"vt. 雕刻;铭记", tip:"en+grave(刻 → 坟 → 刻字)→ 雕刻" },
+      { w:"palette", ph:"/ˈpælət/", m:"n. 调色板;色调", tip:"谐音'怕了它':画家调色 → 调色板" },
+      { w:"glossy", ph:"/ˈɡlɒsi/", m:"adj. 光滑的;有光泽的", tip:"gloss(光泽)+y → 有光泽" },
+      { w:"splendid", ph:"/ˈsplendɪd/", m:"adj. 壮丽的;极好的", tip:"splend(发光)→ 光彩 → 壮丽" }
+    ] },
+  { id: 188,
+    en: "An {{indispensable}} worker is rarely {{idle}}; she would {{expedite}} tasks, {{streamline}} steps, {{toil}} hard, and lift overall {{morale}}.",
+    zh: "{{不可或缺的|indispensable}}员工很少{{闲着|idle}};她会{{加快|expedite}}任务、{{精简|streamline}}步骤、努力{{苦干|toil}},并提升整体{{士气|morale}}。",
+    words: [
+      { w:"indispensable", ph:"/ˌɪndɪˈspensəbl/", m:"adj. 不可或缺的", tip:"in(不)+dispensable(可省的)→ 不可省 → 必需" },
+      { w:"idle", ph:"/ˈaɪdl/", m:"adj. 闲置的;懒散的", tip:"谐音'爱斗':无所事事 → 闲" },
+      { w:"expedite", ph:"/ˈekspədaɪt/", m:"vt. 加快;促进", tip:"ex+ped(脚)→ 给脚提速 → 加快" },
+      { w:"streamline", ph:"/ˈstriːmlaɪn/", m:"vt. 精简;使流线型", tip:"stream(流)+line → 流线 → 精简" },
+      { w:"toil", ph:"/tɔɪl/", m:"vi./n. 辛劳;苦干", tip:"谐音'拖哦':埋头苦干 → 辛劳" }
+    ] },
+  { id: 189,
+    en: "The {{notable}} reformer would {{advocate}} change, {{galvanize}} crowds, {{transcend}} old limits, and {{inaugurate}} a new era.",
+    zh: "这位{{著名的|notable}}改革者会{{倡导|champion}}变革、{{激励|galvanize}}人群、{{超越|transcend}}旧的局限,并{{开创|inaugurate}}一个新时代。",
+    words: [
+      { w:"notable", ph:"/ˈnəʊtəbl/", m:"adj. 著名的;显著的", tip:"note(注意)+able → 值得注意 → 著名" },
+      { w:"champion", ph:"/ˈtʃæmpiən/", m:"vt. 拥护;为…而战 n. 冠军", tip:"冠军挺身而出 → 拥护" },
+      { w:"galvanize", ph:"/ˈɡælvənaɪz/", m:"vt. 激励;使振奋", tip:"电流刺激 → 通电般 → 激励" },
+      { w:"transcend", ph:"/trænˈsend/", m:"vt. 超越;胜过", tip:"trans(越过)+scend(爬)→ 爬过去 → 超越" },
+      { w:"inaugurate", ph:"/ɪˈnɔːɡjəreɪt/", m:"vt. 开创;为…举行就职典礼", tip:"in+augur(占卜 → 开吉)→ 隆重开启 → 开创" }
+    ] },
+  { id: 190,
+    en: "In the {{barren}} desert, an {{oasis}} would {{quench}} thirst, {{revive}} the herd, restore {{vitality}}, and lift the travelers' {{spirits}}.",
+    zh: "在{{贫瘠的|arid}}沙漠里,一片{{绿洲|oasis}}能{{解|quench}}渴、{{使复苏|revive}}畜群、恢复{{活力|vitality}},并提振旅人的{{情绪|morale2}}。",
+    words: [
+      { w:"arid", ph:"/ˈærɪd/", m:"adj. 干旱的;贫瘠的", tip:"谐音'爱锐的':寸草不生 → 干旱" },
+      { w:"oasis", ph:"/əʊˈeɪsɪs/", m:"n. 绿洲;舒适之地", tip:"谐音'欧爱戏死':沙漠水草地 → 绿洲" },
+      { w:"quench", ph:"/kwentʃ/", m:"vt. 解(渴);熄灭", tip:"谐音'昆吃':一饮而尽 → 解渴" },
+      { w:"revive", ph:"/rɪˈvaɪv/", m:"v. 复苏;恢复;重演", tip:"re(再)+viv(活 vivid)→ 重新活 → 复苏" },
+      { w:"vitality", ph:"/vaɪˈtæləti/", m:"n. 活力;生命力", tip:"vit(生命 vital)+ality → 活力" }
+    ] },
+  { id: 191,
+    en: "A {{prudent}} saver will {{appraise}} risks, {{diversify}} assets, hold a cash {{reserve}}, {{hedge}} against loss, and avoid the {{lure}} of fads.",
+    zh: "{{谨慎的|prudent}}储蓄者会{{评估|assess}}风险、{{分散|diversify}}资产、留有现金{{储备|reserve}}、{{对冲|hedge}}亏损,并避开时髦的{{诱惑|lure}}。",
+    words: [
+      { w:"prudent", ph:"/ˈpruːdnt/", m:"adj. 谨慎的;精明的", tip:"prud(=provident 有远见)+ent → 谨慎" },
+      { w:"assess", ph:"/əˈses/", m:"vt. 评估;估价", tip:"as+sess(坐 → 陪审估值)→ 评估" },
+      { w:"diversify", ph:"/daɪˈvɜːsɪfaɪ/", m:"vt. 使多样化;分散(投资)", tip:"diverse(多样)+ify → 分散" },
+      { w:"hedge", ph:"/hedʒ/", m:"v. 对冲;回避 n. 树篱", tip:"树篱挡风 → 防范 → 对冲" },
+      { w:"lure", ph:"/lʊə/", m:"vt./n. 诱惑;引诱", tip:"谐音'露饵':放饵勾引 → 诱惑" }
+    ] },
+  { id: 192,
+    en: "The {{shabby}} stray dog would {{whine}}, {{cower}} in the rain, {{gnaw}} a bone, then {{wag}} its tail at a kind hand.",
+    zh: "那只{{破旧的|shabby}}流浪狗会{{呜咽|whine}}、在雨中{{畏缩|cower}}、{{啃|gnaw}}骨头,然后对一只善意的手{{摇|wag}}尾巴。",
+    words: [
+      { w:"shabby", ph:"/ˈʃæbi/", m:"adj. 破旧的;卑鄙的", tip:"谐音'瞎掰':破破烂烂 → 破旧" },
+      { w:"whine", ph:"/waɪn/", m:"vi./n. 哀鸣;抱怨", tip:"谐音'歪嗯':呜呜叫 → 哀鸣" },
+      { w:"cower", ph:"/ˈkaʊə/", m:"vi. 畏缩;蜷缩", tip:"谐音'考娃':吓得发抖 → 畏缩" },
+      { w:"gnaw", ph:"/nɔː/", m:"v. 啃;咬;折磨", tip:"谐音'闹':一点点啃 → 啃(g 不发音)" },
+      { w:"wag", ph:"/wæɡ/", m:"v. 摇摆(尾巴/头)", tip:"谐音'我哥':摇头摆尾 → 摇" }
+    ] },
+  { id: 193,
+    en: "The {{wicked}} swindler would {{deceive}} the old, {{tarnish}} good names, {{embezzle}} funds, then {{vanish}} without a trace.",
+    zh: "这个{{邪恶的|wicked}}骗子会{{欺骗|dupe}}老人、{{玷污|tarnish}}好名声、{{挪用|embezzle}}资金,然后{{消失|vanish}}得无影无踪。",
+    words: [
+      { w:"wicked", ph:"/ˈwɪkɪd/", m:"adj. 邪恶的;缺德的", tip:"witch(女巫)亲戚 → 巫一样坏 → 邪恶" },
+      { w:"dupe", ph:"/djuːp/", m:"vt. 欺骗 n. 受骗者", tip:"谐音'丢谱':被忽悠 → 欺骗" },
+      { w:"tarnish", ph:"/ˈtɑːnɪʃ/", m:"vt. 玷污;使失去光泽", tip:"谐音'她你失':抹黑 → 玷污" },
+      { w:"embezzle", ph:"/ɪmˈbezl/", m:"vt. 挪用;贪污", tip:"em+bezzle(吞)→ 把公款吞了 → 挪用" },
+      { w:"vanish", ph:"/ˈvænɪʃ/", m:"vi. 消失;突然不见", tip:"van(空)+ish → 化空 → 消失" }
+    ] },
+  { id: 194,
+    en: "The {{eloquent}} envoy would {{appease}} rivals, {{mediate}} talks, {{concede}} small points, and {{forge}} a lasting accord.",
+    zh: "{{雄辩的|articulate}}使节会{{安抚|appease}}对手、{{调停|mediate}}会谈、{{让步|concede}}小处,并{{缔造|forge}}持久的协定。",
+    words: [
+      { w:"articulate", ph:"/ɑːˈtɪkjələt/", m:"adj. 表达清晰的 v. 清楚表达", tip:"art(关节 → 连接)+icul → 字字分明 → 清晰" },
+      { w:"appease", ph:"/əˈpiːz/", m:"vt. 平息;安抚;姑息", tip:"ap+peace(和平)→ 使平和 → 安抚" },
+      { w:"mediate", ph:"/ˈmiːdieɪt/", m:"v. 调停;斡旋", tip:"medi(中间)+ate → 居中调和 → 调停" },
+      { w:"concede", ph:"/kənˈsiːd/", m:"v. 让步;承认", tip:"con+cede(走 → 退)→ 退一步 → 让步" },
+      { w:"forge", ph:"/fɔːdʒ/", m:"vt. 缔造;锻造;伪造", tip:"打铁锻造 → 缔造" }
+    ] },
+  { id: 195,
+    en: "The {{robust}} hiker would {{traverse}} ridges, {{ford}} streams, {{scale}} cliffs, {{endure}} fatigue, and reach the {{summit}} by noon.",
+    zh: "{{强健的|robust}}徒步者会{{穿越|traverse}}山脊、{{蹚过|ford}}溪流、{{攀登|scale}}峭壁、{{忍受|endure}}疲劳,并在正午前抵达{{顶峰|summit}}。",
+    words: [
+      { w:"robust", ph:"/rəʊˈbʌst/", m:"adj. 强健的;结实的", tip:"rob(力量 → robot)+ust → 强壮" },
+      { w:"traverse", ph:"/trəˈvɜːs/", m:"vt. 横穿;穿越", tip:"tra(横)+vers(转)→ 横着走 → 穿越" },
+      { w:"ford", ph:"/fɔːd/", m:"vt. 涉水而过 n. 浅滩", tip:"谐音'佛的':蹚水 → 涉水" },
+      { w:"endure", ph:"/ɪnˈdjʊə/", m:"v. 忍受;持续", tip:"en+dur(持续 during)→ 撑下去 → 忍受" },
+      { w:"summit", ph:"/ˈsʌmɪt/", m:"n. 顶峰;最高级会议", tip:"sum(最高 → supreme)+mit → 峰顶" }
+    ] },
+  { id: 196,
+    en: "Reformers must {{abolish}} unjust rules, {{empower}} the weak, {{uphold}} fairness, {{redress}} old wrongs, and {{liberate}} the oppressed.",
+    zh: "改革者必须{{废除|abolish}}不公的规则、{{赋权|empower}}弱者、{{维护|uphold}}公平、{{纠正|redress}}旧错,并{{解放|liberate}}受压迫者。",
+    words: [
+      { w:"abolish", ph:"/əˈbɒlɪʃ/", m:"vt. 废除;取消", tip:"谐音'啊抛离':抛弃旧制 → 废除" },
+      { w:"empower", ph:"/ɪmˈpaʊə/", m:"vt. 授权;赋能", tip:"em(使)+power(权力)→ 给力量 → 赋权" },
+      { w:"uphold", ph:"/ʌpˈhəʊld/", m:"vt. 维护;支持", tip:"up(上)+hold(举)→ 高举 → 维护" },
+      { w:"redress", ph:"/rɪˈdres/", m:"vt./n. 纠正;补偿", tip:"re(重)+dress(整理)→ 重新摆正 → 纠正" },
+      { w:"liberate", ph:"/ˈlɪbəreɪt/", m:"vt. 解放;释放", tip:"liber(自由 liberty)+ate → 解放" }
+    ] },
+  { id: 197,
+    en: "The {{quaint}} village would {{nestle}} in the hills, {{exude}} calm, {{captivate}} painters, and {{linger}} long in memory.",
+    zh: "这个{{古色古香的|quaint}}村庄{{依偎|nestle}}在群山间、{{散发|exude}}宁静、{{迷住|captivate}}画家,并久久{{萦绕|linger}}于记忆。",
+    words: [
+      { w:"quaint", ph:"/kweɪnt/", m:"adj. 古雅的;离奇有趣的", tip:"谐音'昆特':古朴别致 → 古雅" },
+      { w:"nestle", ph:"/ˈnesl/", m:"vi. 依偎;舒适地安顿", tip:"nest(巢)+le → 像入巢 → 依偎" },
+      { w:"exude", ph:"/ɪɡˈzjuːd/", m:"vt. 散发;流露", tip:"ex(出)+ude(渗)→ 渗出来 → 散发" },
+      { w:"captivate", ph:"/ˈkæptɪveɪt/", m:"vt. 迷住;吸引", tip:"capt(抓 capture)→ 抓住人心 → 迷住" },
+      { w:"linger", ph:"/ˈlɪŋɡə/", m:"vi. 逗留;徘徊;萦绕", tip:"long(长)→ 久久不去 → 逗留" }
+    ] },
+  { id: 198,
+    en: "After the {{drought}}, rain would {{drench}} the soil, seeds {{sprout}}, flowers {{blossom}}, and the {{verdant}} valley come alive.",
+    zh: "{{干旱|drought}}过后,雨水{{浇透|drench}}土壤,种子{{发芽|sprout}},花朵{{绽放|blossom}},{{苍翠的|verdant}}山谷重焕生机。",
+    words: [
+      { w:"drought", ph:"/draʊt/", m:"n. 干旱;旱灾", tip:"dry(干)亲戚 → 干旱" },
+      { w:"drench", ph:"/drentʃ/", m:"vt. 使湿透;浇透", tip:"谐音'拽吃':淋个透 → 湿透" },
+      { w:"sprout", ph:"/spraʊt/", m:"vi. 发芽;长出", tip:"谐音'死扑绕特':冒出芽 → 发芽" },
+      { w:"blossom", ph:"/ˈblɒsəm/", m:"vi. 开花;兴旺 n. 花", tip:"bloom 亲戚 → 开花" },
+      { w:"verdant", ph:"/ˈvɜːdnt/", m:"adj. 翠绿的;青葱的", tip:"verd(绿 → verde)+ant → 翠绿" }
+    ] },
+  { id: 199,
+    en: "The {{tedious}} report would {{baffle}} readers, {{obscure}} the point, {{blur}} key facts, and {{dampen}} all enthusiasm.",
+    zh: "这份{{冗长乏味的|tedious}}报告会{{使困惑|baffle}}读者、{{遮蔽|obscure}}要点、{{模糊|blur}}关键事实,并{{抑制|dampen}}一切热情。",
+    words: [
+      { w:"tedious", ph:"/ˈtiːdiəs/", m:"adj. 冗长乏味的;单调的", tip:"谐音'剃丢死':无聊到困 → 乏味" },
+      { w:"baffle", ph:"/ˈbæfl/", m:"vt. 使困惑;难住", tip:"谐音'掰否':弄懵 → 困惑" },
+      { w:"obscure", ph:"/əbˈskjʊə/", m:"vt. 遮蔽;使模糊 adj. 晦涩的", tip:"ob+scure(盖)→ 盖住 → 模糊" },
+      { w:"blur", ph:"/blɜː/", m:"v. 使模糊 n. 模糊一片", tip:"谐音'不勒':看不清 → 模糊" },
+      { w:"dampen", ph:"/ˈdæmpən/", m:"vt. 抑制;使沮丧;弄湿", tip:"damp(潮 → 浇冷水)+en → 泼冷水 → 抑制" }
+    ] },
+  { id: 200,
+    en: "On graduation day, students would {{cherish}} the past, {{embrace}} the future, {{aspire}} to greatness, {{embark}} on careers, and {{thrive}}.",
+    zh: "毕业那天,学子们会{{珍惜|cherish}}过去、{{拥抱|embrace}}未来、{{立志|aspire}}卓越、{{开启|embark}}事业,并{{蓬勃发展|thrive}}。",
+    words: [
+      { w:"cherish", ph:"/ˈtʃerɪʃ/", m:"vt. 珍爱;怀有(希望)", tip:"cher(亲爱)+ish → 珍爱" },
+      { w:"embrace", ph:"/ɪmˈbreɪs/", m:"vt. 拥抱;欣然接受", tip:"em+brace(臂)→ 张臂 → 拥抱" },
+      { w:"aspire", ph:"/əˈspaɪə/", m:"vi. 渴望;立志", tip:"a+spir(呼吸 spirit)→ 心向往 → 立志" },
+      { w:"embark", ph:"/ɪmˈbɑːk/", m:"vi.(on)开始;上船", tip:"em+bark(船)→ 上船启程 → 开始" },
+      { w:"thrive", ph:"/θraɪv/", m:"vi. 兴旺;茁壮成长", tip:"谐音'survive 升级':活得旺 → 兴旺" }
     ] }
 ];
