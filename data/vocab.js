@@ -5,7 +5,7 @@
    中文用 {{中文|英文词}} 形式,英文词须与该句 words[].w 对应(中英语序不同也不会错位)。 */
 window.VOCAB = [
   { id: 1,
-    en: "The {{notorious}} official {{provoked}} public fury, so {{advocates}} urged the government to {{abolish}} the unfair law and {{reverse}} its policy.",
+    en: "A {{notorious}} official may {{provoke}} public fury and make every {{advocate}} urge the government to {{abolish}} an unfair law and {{reverse}} its policy.",
     zh: "那位{{臭名昭著的|notorious}}官员{{激起|provoke}}了公众的愤怒,于是{{倡导者|advocate}}们敦促政府{{废除|abolish}}这条不公平的法律并{{扭转|reverse}}其政策。",
     words: [
       { w:"notorious", ph:"/nəʊˈtɔːriəs/", m:"adj. 臭名昭著的", tip:"联想 torture(折磨):坏到让人忘不掉 → 臭名昭著" },
@@ -15,7 +15,7 @@ window.VOCAB = [
       { w:"reverse", ph:"/rɪˈvɜːs/", m:"vt. 颠倒;扭转 n. 相反", tip:"re(反)+verse(转)→ 反转 → 扭转" }
     ] },
   { id: 2,
-    en: "A {{significant}} {{decline}} in birth rates may {{contribute}} to economic trouble — a {{factor}} with serious long-term {{consequences}}.",
+    en: "A {{significant}} {{decline}} in birth rates may {{contribute}} to economic trouble — one {{factor}} that brings a serious long-term {{consequence}}.",
     zh: "出生率的{{大幅|significant}}{{下降|decline}}可能{{引发|contribute}}经济问题——这是一个有着严重长期{{后果|consequence}}的{{因素|factor}}。",
     words: [
       { w:"significant", ph:"/sɪɡˈnɪfɪkənt/", m:"adj. 重要的;显著的", tip:"sign(记号)→ 值得做记号的 → 重要的" },
@@ -25,7 +25,7 @@ window.VOCAB = [
       { w:"consequence", ph:"/ˈkɒnsɪkwəns/", m:"n. 后果;结果", tip:"con+sequ(跟随)→ 跟着来的 → 后果" }
     ] },
   { id: 3,
-    en: "Teachers {{emphasize}} that {{acquiring}} a {{fluent}} second language is {{essential}}, and the internet now offers {{abundant}} resources for it.",
+    en: "Teachers {{emphasize}} that to {{acquire}} a {{fluent}} second language is {{essential}}, and the internet now offers {{abundant}} resources for it.",
     zh: "老师们{{强调|emphasize}},{{习得|acquire}}一门{{流利的|fluent}}第二语言{{至关重要|essential}},而互联网如今为此提供了{{丰富的|abundant}}资源。",
     words: [
       { w:"emphasize", ph:"/ˈemfəsaɪz/", m:"vt. 强调;着重", tip:"em+phas(显示)→ 着重显示 → 强调" },
@@ -45,7 +45,7 @@ window.VOCAB = [
       { w:"persistence", ph:"/pəˈsɪstəns/", m:"n. 坚持;执着", tip:"per(始终)+sist(站)→ 一直站着 → 坚持" }
     ] },
   { id: 5,
-    en: "Prices {{vary}} {{considerably}} between cities, so a careful {{budget}} helps families control their {{expenses}} and {{afford}} essentials.",
+    en: "Prices {{vary}} between cities by a {{considerable}} margin, so a careful {{budget}} helps a family limit each {{expense}} and {{afford}} essentials.",
     zh: "各城市物价{{差异|vary}}{{很大|considerable}},因此精打细算的{{预算|budget}}能帮家庭控制{{开支|expense}}、{{负担得起|afford}}必需品。",
     words: [
       { w:"vary", ph:"/ˈveəri/", m:"vi. 变化;不同", tip:"variety(多样)的动词 → 各不相同" },
@@ -55,7 +55,7 @@ window.VOCAB = [
       { w:"afford", ph:"/əˈfɔːd/", m:"vt. 负担得起;抽得出", tip:"af+ford(给)→ 给得起 → 负担得起" }
     ] },
   { id: 6,
-    en: "{{Severe}} {{pollution}} {{threatens}} the fragile {{ecosystem}}, and scientists warn it may take decades to {{restore}} the environment.",
+    en: "{{Severe}} {{pollution}} can {{threaten}} a fragile {{ecosystem}}, and scientists warn it may take decades to {{restore}} the environment.",
     zh: "{{严重的|severe}}{{污染|pollution}}{{威胁|threaten}}着脆弱的{{生态系统|ecosystem}},科学家警告说{{修复|restore}}环境可能需要数十年。",
     words: [
       { w:"severe", ph:"/sɪˈvɪə/", m:"adj. 严重的;严厉的", tip:"谐音'死围':被严重包围 → 严重的" },
@@ -65,7 +65,7 @@ window.VOCAB = [
       { w:"restore", ph:"/rɪˈstɔː/", m:"vt. 恢复;修复;归还", tip:"re(重新)+store(建立)→ 恢复" }
     ] },
   { id: 7,
-    en: "The most {{qualified}} {{candidate}} {{impressed}} the managers during the {{interview}}, so the company decided to {{recruit}} her at once.",
+    en: "The most {{qualified}} {{candidate}} can {{impress}} managers in any {{interview}}, so a firm may decide to {{recruit}} her at once.",
     zh: "最{{合格的|qualified}}{{候选人|candidate}}在{{面试|interview}}中给经理们留下了{{深刻印象|impress}},于是公司决定立即{{录用|recruit}}她。",
     words: [
       { w:"qualified", ph:"/ˈkwɒlɪfaɪd/", m:"adj. 合格的;有资格的", tip:"quality(资质)→ 有资质的 → 合格" },
@@ -75,7 +75,7 @@ window.VOCAB = [
       { w:"recruit", ph:"/rɪˈkruːt/", m:"vt. 招募 n. 新成员", tip:"re+cruit(增长)→ 让队伍增长 → 招募" }
     ] },
   { id: 8,
-    en: "With his teacher's {{encouragement}}, the shy boy {{gradually}} {{overcame}} his {{anxiety}} and spoke with growing {{confidence}}.",
+    en: "With a teacher's {{encouragement}}, a shy boy can {{gradually}} {{overcome}} his {{anxiety}} and speak with growing {{confidence}}.",
     zh: "在老师的{{鼓励|encouragement}}下,这个害羞的男孩{{逐渐|gradually}}{{克服|overcome}}了{{焦虑|anxiety}},说话越来越有{{信心|confidence}}。",
     words: [
       { w:"encouragement", ph:"/ɪnˈkʌrɪdʒmənt/", m:"n. 鼓励(动 encourage)", tip:"en(使)+courage(勇气)→ 鼓励" },
@@ -85,7 +85,7 @@ window.VOCAB = [
       { w:"confidence", ph:"/ˈkɒnfɪdəns/", m:"n. 信心;信任", tip:"con+fid(信)→ 充分信(自己)→ 自信" }
     ] },
   { id: 9,
-    en: "Technological {{innovation}} has {{transformed}} the {{industry}}, {{dramatically}} improving {{efficiency}} while cutting costs.",
+    en: "Technological {{innovation}} can {{transform}} an {{industry}} and {{dramatically}} improve {{efficiency}} while cutting costs.",
     zh: "技术{{创新|innovation}}已经{{改变|transform}}了这个{{行业|industry}},在降低成本的同时{{大幅|dramatically}}提高了{{效率|efficiency}}。",
     words: [
       { w:"innovation", ph:"/ˌɪnəˈveɪʃn/", m:"n. 创新;革新", tip:"in+nov(新)→ 弄出新东西 → 创新" },
@@ -115,17 +115,17 @@ window.VOCAB = [
       { w:"poverty", ph:"/ˈpɒvəti/", m:"n. 贫穷;贫困", tip:"poor(穷)的名词 → 贫穷" }
     ] },
   { id: 12,
-    en: "Because the {{deadline}} was {{urgent}}, the {{efficient}} team refused to {{postpone}} the project and {{accomplished}} it overnight.",
+    en: "Facing an {{urgent}} {{deadline}}, an {{efficient}} team would refuse to {{postpone}} the project and would {{accomplish}} it overnight.",
     zh: "由于{{截止期限|deadline}}{{紧迫|urgent}},这支{{高效的|efficient}}团队拒绝{{推迟|postpone}}项目,一夜之间就{{完成|accomplish}}了它。",
     words: [
-      { w:"deadline", ph:"/ˈdedlaɪn/", m:"n. 截止期限", tip:"dead(死)+line(线)→ 过线就死 → 期限" },
       { w:"urgent", ph:"/ˈɜːdʒənt/", m:"adj. 紧急的;急迫的", tip:"urge(催促)+ent → 紧急" },
+      { w:"deadline", ph:"/ˈdedlaɪn/", m:"n. 截止期限", tip:"dead(死)+line(线)→ 过线就死 → 期限" },
       { w:"efficient", ph:"/ɪˈfɪʃnt/", m:"adj. 高效的;效率高的", tip:"见 efficiency → 高效的" },
       { w:"postpone", ph:"/pəˈspəʊn/", m:"vt. 推迟;延期", tip:"post(后)+pone(放)→ 放到后面 → 推迟" },
       { w:"accomplish", ph:"/əˈkʌmplɪʃ/", m:"vt. 完成;实现", tip:"ac+compl(满)→ 做满 → 完成" }
     ] },
   { id: 13,
-    en: "{{Strict}} {{regulations}} impose heavy {{penalties}} on drivers who {{violate}} traffic rules, and the police {{enforce}} them rigorously.",
+    en: "A {{strict}} {{regulation}} can impose a heavy {{penalty}} on any driver who dares to {{violate}} traffic rules, and the police {{enforce}} it rigorously.",
     zh: "{{严格的|strict}}{{法规|regulation}}对{{违反|violate}}交通规则的司机处以{{重罚|penalty}},警方严格{{执行|enforce}}这些规定。",
     words: [
       { w:"strict", ph:"/strɪkt/", m:"adj. 严格的;严厉的", tip:"谐音'死抓得'紧 → 严格" },
@@ -135,7 +135,7 @@ window.VOCAB = [
       { w:"enforce", ph:"/ɪnˈfɔːs/", m:"vt. 执行;实施;强制", tip:"en(使)+force(力)→ 用力推行 → 执行" }
     ] },
   { id: 14,
-    en: "After the doctor {{diagnosed}} her {{symptoms}} and wrote a {{prescription}}, the patient gradually {{recovered}}, though no instant {{cure}} exists.",
+    en: "A doctor must {{diagnose}} each {{symptom}} and write a {{prescription}} to help a patient {{recover}}, though no instant {{cure}} exists.",
     zh: "医生{{诊断|diagnose}}了她的{{症状|symptom}}并开了{{处方|prescription}}后,病人逐渐{{康复|recover}}了,尽管并不存在立竿见影的{{疗法|cure}}。",
     words: [
       { w:"diagnose", ph:"/ˈdaɪəɡnəʊz/", m:"vt. 诊断;判断", tip:"dia(穿过)+gno(知)→ 看穿病情 → 诊断" },
@@ -145,7 +145,7 @@ window.VOCAB = [
       { w:"cure", ph:"/kjʊə/", m:"v./n. 治愈;疗法", tip:"care 的近亲:照料到好 → 治愈" }
     ] },
   { id: 15,
-    en: "People with an {{optimistic}} {{attitude}} tend to {{adapt}} to {{obstacles}} quickly and even {{thrive}} under pressure.",
+    en: "People with an {{optimistic}} {{attitude}} tend to {{adapt}} to each {{obstacle}} quickly and even {{thrive}} under pressure.",
     zh: "持{{乐观|optimistic}}{{态度|attitude}}的人往往能迅速{{适应|adapt}}{{障碍|obstacle}},甚至在压力下{{茁壮成长|thrive}}。",
     words: [
       { w:"optimistic", ph:"/ˌɒptɪˈmɪstɪk/", m:"adj. 乐观的", tip:"optim(最好)→ 总往最好想 → 乐观" },
@@ -155,7 +155,7 @@ window.VOCAB = [
       { w:"thrive", ph:"/θraɪv/", m:"vi. 兴旺;茁壮成长", tip:"谐音'survive 升级版':活得旺 → 兴旺" }
     ] },
   { id: 16,
-    en: "Detectives {{investigated}} the case, gathered {{reliable}} {{evidence}}, questioned the {{suspect}}, and finally {{concluded}} who was guilty.",
+    en: "Detectives must {{investigate}} a case, gather {{reliable}} {{evidence}}, question every {{suspect}}, and finally {{conclude}} who is guilty.",
     zh: "侦探们{{调查|investigate}}了案件,收集了{{可靠的|reliable}}{{证据|evidence}},审问了{{嫌疑人|suspect}},最终{{断定|conclude}}谁有罪。",
     words: [
       { w:"investigate", ph:"/ɪnˈvestɪɡeɪt/", m:"v. 调查;研究", tip:"in+vestig(足迹)→ 顺足迹查 → 调查" },
@@ -165,17 +165,17 @@ window.VOCAB = [
       { w:"conclude", ph:"/kənˈkluːd/", m:"v. 断定;推断;结束", tip:"con+clude(关)→ 关上讨论 → 下结论" }
     ] },
   { id: 17,
-    en: "Each {{generation}} has a duty to {{preserve}} cultural {{heritage}} and pass down the {{traditions}} it {{inherited}} from the past.",
+    en: "Each {{generation}} has a duty to {{preserve}} cultural {{heritage}} and to {{inherit}} and pass down every {{tradition}} from the past.",
     zh: "每一{{代人|generation}}都有责任{{保护|preserve}}文化{{遗产|heritage}},并传承从过去{{继承|inherit}}下来的{{传统|tradition}}。",
     words: [
       { w:"generation", ph:"/ˌdʒenəˈreɪʃn/", m:"n. 一代人;产生", tip:"gener(生)+ation → 一代;产生" },
       { w:"preserve", ph:"/prɪˈzɜːv/", m:"vt. 保护;保存;腌制", tip:"pre(预先)+serve(守)→ 保护" },
       { w:"heritage", ph:"/ˈherɪtɪdʒ/", m:"n. 遗产;传统", tip:"herit(继承)+age → 遗产" },
-      { w:"tradition", ph:"/trəˈdɪʃn/", m:"n. 传统;惯例", tip:"trad(传递)+ition → 传下来的 → 传统" },
-      { w:"inherit", ph:"/ɪnˈherɪt/", m:"vt. 继承;经遗传获得", tip:"in+herit(继承)→ 继承" }
+      { w:"inherit", ph:"/ɪnˈherɪt/", m:"vt. 继承;经遗传获得", tip:"in+herit(继承)→ 继承" },
+      { w:"tradition", ph:"/trəˈdɪʃn/", m:"n. 传统;惯例", tip:"trad(传递)+ition → 传下来的 → 传统" }
     ] },
   { id: 18,
-    en: "To avoid {{wasting}} limited {{resources}}, we must {{consume}} less and seek {{sustainable}} {{alternatives}} such as solar power.",
+    en: "To avoid {{waste}} of a limited {{resource}}, we must {{consume}} less and seek a {{sustainable}} {{alternative}} such as solar power.",
     zh: "为了避免{{浪费|waste}}有限的{{资源|resource}},我们必须减少{{消耗|consume}},寻找{{可持续的|sustainable}}{{替代品|alternative}},比如太阳能。",
     words: [
       { w:"waste", ph:"/weɪst/", m:"vt./n. 浪费;废物", tip:"waist(腰)同音:别浪费腰力 → 浪费" },
@@ -185,7 +185,7 @@ window.VOCAB = [
       { w:"alternative", ph:"/ɔːlˈtɜːnətɪv/", m:"n. 替代品 adj. 可替代的", tip:"alter(改变)→ 可换的 → 替代品" }
     ] },
   { id: 19,
-    en: "When {{conflicts}} arise, wise partners {{cooperate}}, {{negotiate}} calmly, and reach a {{compromise}} based on {{mutual}} respect.",
+    en: "When a {{conflict}} arises, wise partners {{cooperate}}, {{negotiate}} calmly, and reach a {{compromise}} based on {{mutual}} respect.",
     zh: "当{{冲突|conflict}}出现时,明智的伙伴会{{合作|cooperate}}、冷静{{谈判|negotiate}},并在{{相互|mutual}}尊重的基础上达成{{妥协|compromise}}。",
     words: [
       { w:"conflict", ph:"/ˈkɒnflɪkt/", m:"n. 冲突;矛盾 v. 抵触", tip:"con(共)+flict(打)→ 互打 → 冲突" },
@@ -195,7 +195,7 @@ window.VOCAB = [
       { w:"mutual", ph:"/ˈmjuːtʃuəl/", m:"adj. 相互的;共同的", tip:"mut(交换)+ual → 互相的" }
     ] },
   { id: 20,
-    en: "Fair {{rewards}} {{motivate}} employees, and managers who {{evaluate}} {{performance}} honestly usually build a more {{productive}} team.",
+    en: "A fair {{reward}} can {{motivate}} employees, and a manager who can {{evaluate}} {{performance}} honestly usually builds a more {{productive}} team.",
     zh: "公平的{{奖励|reward}}能{{激励|motivate}}员工,而诚实{{评估|evaluate}}{{绩效|performance}}的管理者通常能打造更{{高效的|productive}}团队。",
     words: [
       { w:"reward", ph:"/rɪˈwɔːd/", m:"n./v. 奖励;回报", tip:"re+ward(给)→ 给回报 → 奖励" },
@@ -205,7 +205,7 @@ window.VOCAB = [
       { w:"productive", ph:"/prəˈdʌktɪv/", m:"adj. 多产的;高效的", tip:"produce(生产)→ 能产出 → 高效" }
     ] },
   { id: 21,
-    en: "The {{vague}} wording was so {{ambiguous}} that lawyers {{interpreted}} its {{definition}} in two {{precise}} but opposite ways.",
+    en: "The {{vague}} wording was so {{ambiguous}} that lawyers would {{interpret}} its {{definition}} in two {{precise}} but opposite ways.",
     zh: "措辞{{含糊|vague}},极其{{模棱两可|ambiguous}},以致律师们对其{{定义|definition}}做出了两种{{精确|precise}}却相反的{{解读|interpret}}。",
     words: [
       { w:"vague", ph:"/veɪɡ/", m:"adj. 模糊的;含糊的", tip:"谐音'外哥':说话含糊 → 模糊" },
@@ -215,7 +215,7 @@ window.VOCAB = [
       { w:"precise", ph:"/prɪˈsaɪs/", m:"adj. 精确的;准确的", tip:"pre+cise(切)→ 切得准 → 精确" }
     ] },
   { id: 22,
-    en: "To {{expand}} {{profits}}, the firm adopted a bold {{strategy}} to {{compete}} with rivals beyond the {{domestic}} market.",
+    en: "To {{expand}} {{profit}}, a firm may adopt a bold {{strategy}} to {{compete}} with rivals beyond the {{domestic}} market.",
     zh: "为了{{扩大|expand}}{{利润|profit}},该公司采取了大胆的{{战略|strategy}},与对手在{{国内|domestic}}市场之外展开{{竞争|compete}}。",
     words: [
       { w:"expand", ph:"/ɪkˈspænd/", m:"v. 扩张;膨胀;详述", tip:"ex(向外)+pand(展)→ 向外展 → 扩张" },
@@ -235,7 +235,7 @@ window.VOCAB = [
       { w:"perform", ph:"/pəˈfɔːm/", m:"v. 执行;表演;表现", tip:"per(彻底)+form(做)→ 做到底 → 执行" }
     ] },
   { id: 24,
-    en: "She {{assumed}} the audience would disagree, but her {{logical}} {{argument}} soon {{persuaded}} and {{convinced}} almost everyone.",
+    en: "She would {{assume}} the audience to disagree, but her {{logical}} {{argument}} could soon {{persuade}} and {{convince}} almost everyone.",
     zh: "她{{原以为|assume}}听众会反对,但她{{合乎逻辑的|logical}}{{论证|argument}}很快{{说服|persuade}}并使几乎所有人{{信服|convince}}。",
     words: [
       { w:"assume", ph:"/əˈsjuːm/", m:"vt. 假定;承担;呈现", tip:"as+sume(拿)→ 先拿来当真 → 假定" },
@@ -255,7 +255,7 @@ window.VOCAB = [
       { w:"capacity", ph:"/kəˈpæsəti/", m:"n. 能力;容量", tip:"cap(容纳)→ 能容纳的量 → 能力/容量" }
     ] },
   { id: 26,
-    en: "Traveling exposes us to {{diverse}} cultures, {{broadens}} our {{horizons}}, and offers fresh {{perspectives}} and deeper {{insight}} into life.",
+    en: "Travel can expose us to {{diverse}} cultures, {{broaden}} our {{horizon}}, and offer a fresh {{perspective}} and deeper {{insight}} into life.",
     zh: "旅行让我们接触{{多元|diverse}}文化,{{开阔|broaden}}{{眼界|horizon}},并提供对生活的全新{{视角|perspective}}和更深刻的{{洞察|insight}}。",
     words: [
       { w:"diverse", ph:"/daɪˈvɜːs/", m:"adj. 多种多样的", tip:"di(分开)+verse(转)→ 转向各方 → 多样" },
@@ -265,7 +265,7 @@ window.VOCAB = [
       { w:"insight", ph:"/ˈɪnsaɪt/", m:"n. 洞察力;见解", tip:"in(内)+sight(看)→ 看到内部 → 洞察" }
     ] },
   { id: 27,
-    en: "As social media {{emerges}} as a dominant {{phenomenon}}, this trend {{prevails}} worldwide and {{accelerates}} the spread of information, coming to {{dominate}} daily life.",
+    en: "Social media can {{emerge}} as a dominant {{phenomenon}}, {{prevail}} worldwide, {{accelerate}} the spread of information, and {{dominate}} daily life.",
     zh: "随着社交媒体{{成为|emerge}}一种主导{{现象|phenomenon}},这一趋势在全球{{盛行|prevail}},{{加速|accelerate}}了信息传播,并逐渐{{主导|dominate}}日常生活。",
     words: [
       { w:"emerge", ph:"/iˈmɜːdʒ/", m:"vi. 出现;浮现;兴起", tip:"e(出)+merge(没入)→ 从水里冒出 → 出现" },
@@ -285,7 +285,7 @@ window.VOCAB = [
       { w:"fluctuate", ph:"/ˈflʌktʃueɪt/", m:"vi. 波动;涨落", tip:"fluct(波 flu流)→ 像波浪 → 波动" }
     ] },
   { id: 29,
-    en: "To win {{consumer}} {{loyalty}} in a {{fierce}} market, the {{brand}} kept improving quality until it {{surpassed}} its rivals.",
+    en: "To win {{consumer}} {{loyalty}} in a {{fierce}} market, a {{brand}} must keep improving quality until it can {{surpass}} its rivals.",
     zh: "为了在{{激烈的|fierce}}市场中赢得{{消费者|consumer}}{{忠诚|loyalty}},该{{品牌|brand}}不断提升质量,直到{{超越|surpass}}竞争对手。",
     words: [
       { w:"consumer", ph:"/kənˈsjuːmə/", m:"n. 消费者", tip:"consume(消费)+r → 消费者" },
@@ -315,7 +315,7 @@ window.VOCAB = [
       { w:"cope", ph:"/kəʊp/", m:"vi.(cope with)应对;处理", tip:"谐音'扛':扛住困难 → 应对" }
     ] },
   { id: 32,
-    en: "Cutting {{carbon}} {{emissions}}, switching to {{renewable}} energy, and {{conserving}} water all help prevent us from {{contaminating}} nature.",
+    en: "We should cut {{carbon}} {{emission}}, switch to {{renewable}} energy, {{conserve}} water, and refuse to {{contaminate}} nature.",
     zh: "减少{{碳|carbon}}{{排放|emission}}、改用{{可再生|renewable}}能源以及{{节约|conserve}}用水,都有助于防止我们{{污染|contaminate}}自然。",
     words: [
       { w:"carbon", ph:"/ˈkɑːbən/", m:"n. 碳", tip:"carbo(碳)→ 碳" },
@@ -345,7 +345,7 @@ window.VOCAB = [
       { w:"secure", ph:"/sɪˈkjʊə/", m:"adj. 安全的 vt. 获得;保护", tip:"se(无)+cure(担忧)→ 无忧 → 安全" }
     ] },
   { id: 35,
-    en: "My {{diligent}} {{colleague}} {{devotes}} herself to every project, so she truly {{deserves}} the {{promotion}} she received.",
+    en: "A {{diligent}} {{colleague}} will {{devote}} herself to every project, so she truly will {{deserve}} a {{promotion}}.",
     zh: "我那位{{勤奋的|diligent}}{{同事|colleague}}{{全身心投入|devote}}每个项目,所以她确实{{配得上|deserve}}得到的{{晋升|promotion}}。",
     words: [
       { w:"diligent", ph:"/ˈdɪlɪdʒənt/", m:"adj. 勤奋的;勤勉的", tip:"dili(用心)+gent → 用心做 → 勤奋" },
@@ -375,7 +375,7 @@ window.VOCAB = [
       { w:"verdict", ph:"/ˈvɜːdɪkt/", m:"n. 裁决;判决", tip:"ver(真)+dict(说)→ 说出真相 → 裁决" }
     ] },
   { id: 38,
-    en: "She was {{grateful}} for her friend's {{sincere}} {{sympathy}}, whose warm words {{comforted}} her and {{consoled}} her grief.",
+    en: "She felt {{grateful}} for a friend's {{sincere}} {{sympathy}}, whose warm words could {{comfort}} her and {{console}} her grief.",
     zh: "她很{{感激|grateful}}朋友{{真诚的|sincere}}{{同情|sympathy}},那温暖的话语{{安慰|comfort}}了她,{{抚平|console}}了她的悲伤。",
     words: [
       { w:"grateful", ph:"/ˈɡreɪtfl/", m:"adj. 感激的;感谢的", tip:"grat(感谢)+ful → 满怀感谢 → 感激" },
@@ -385,7 +385,7 @@ window.VOCAB = [
       { w:"console", ph:"/kənˈsəʊl/", m:"vt. 安慰;慰藉", tip:"con+sole(孤独)→ 陪伴不孤单 → 安慰" }
     ] },
   { id: 39,
-    en: "The {{elegant}} vase, {{delicate}} and {{fragile}}, served as a beautiful {{ornament}} that {{fascinated}} every visitor.",
+    en: "The {{elegant}} vase, {{delicate}} and {{fragile}}, was a beautiful {{ornament}} that could {{fascinate}} every visitor.",
     zh: "那只{{优雅的|elegant}}花瓶,{{精致|delicate}}而{{易碎|fragile}},是一件令每位访客{{着迷|fascinate}}的精美{{装饰品|ornament}}。",
     words: [
       { w:"elegant", ph:"/ˈelɪɡənt/", m:"adj. 优雅的;雅致的", tip:"eleg(精挑 select)→ 精挑的 → 优雅" },
@@ -395,7 +395,7 @@ window.VOCAB = [
       { w:"fascinate", ph:"/ˈfæsɪneɪt/", m:"vt. 使着迷;吸引", tip:"谐音'发神奶':看得入神 → 着迷" }
     ] },
   { id: 40,
-    en: "The manager {{undertook}} the plan, {{coordinated}} the team, {{supervised}} every step, and {{ensured}} it was {{implemented}} on time.",
+    en: "A good manager must {{undertake}} the plan, {{coordinate}} the team, {{supervise}} every step, and {{ensure}} all is done to {{implement}} it on time.",
     zh: "经理{{承担|undertake}}了这项计划,{{协调|coordinate}}团队,{{监督|supervise}}每个环节,并{{确保|ensure}}它按时{{实施|implement}}。",
     words: [
       { w:"undertake", ph:"/ˌʌndəˈteɪk/", m:"vt. 承担;着手;保证", tip:"under(下)+take(拿)→ 接下任务 → 承担" },
@@ -425,8 +425,8 @@ window.VOCAB = [
       { w:"response", ph:"/rɪˈspɒns/", m:"n. 回应;反应", tip:"re(回)+spons(承诺)→ 回话 → 回应" }
     ] },
   { id: 43,
-    en: "Over the past {{decade}}, the technology has {{evolved}} and {{matured}} {{remarkably}}, marking great {{progress}} in the field.",
-    zh: "在过去{{十年|decade}}里,这项技术{{显著地|remarkable}}{{演进|evolve}}并{{成熟|mature}},标志着该领域的巨大{{进步|progress}}。",
+    en: "Within a single {{decade}}, a technology can {{evolve}}, {{mature}}, and make {{remarkable}} {{progress}} in its field.",
+    zh: "在短短一个{{十年|decade}}里,一项技术就能{{演进|evolve}}、{{成熟|mature}},并取得{{显著的|remarkable}}{{进步|progress}}。",
     words: [
       { w:"decade", ph:"/ˈdekeɪd/", m:"n. 十年", tip:"dec(十)+ade → 十年" },
       { w:"evolve", ph:"/iˈvɒlv/", m:"v. 进化;逐步发展", tip:"e(出)+volve(转)→ 转出来 → 演变" },
@@ -435,8 +435,8 @@ window.VOCAB = [
       { w:"progress", ph:"/ˈprəʊɡres/", m:"n. 进步 v. 前进", tip:"pro(向前)+gress(走)→ 向前走 → 进步" }
     ] },
   { id: 44,
-    en: "Despite many {{barriers}} that {{frustrated}} her, she {{struggled}} on and {{persisted}}, {{eventually}} reaching her goal.",
-    zh: "尽管许多{{障碍|barrier}}令她{{沮丧|frustrate}},她仍{{奋力|struggle}}{{坚持|persist}},{{最终|eventually}}实现了目标。",
+    en: "Despite every {{barrier}} that may {{frustrate}} her, she would {{struggle}} on and {{persist}}, {{eventually}} reaching her goal.",
+    zh: "尽管每一个{{障碍|barrier}}都可能令她{{沮丧|frustrate}},她仍会{{奋力|struggle}}{{坚持|persist}},{{最终|eventually}}实现目标。",
     words: [
       { w:"barrier", ph:"/ˈbæriə/", m:"n. 障碍;屏障", tip:"bar(横杆)+rier → 拦路杆 → 障碍" },
       { w:"frustrate", ph:"/frʌˈstreɪt/", m:"vt. 使沮丧;挫败", tip:"谐音'敷热死':努力白费 → 沮丧" },
@@ -505,7 +505,7 @@ window.VOCAB = [
       { w:"fiscal", ph:"/ˈfɪskl/", m:"adj. 财政的;国库的", tip:"fisc(国库)+al → 财政的" }
     ] },
   { id: 51,
-    en: "After a wave of {{layoffs}} pushed up {{unemployment}}, each {{applicant}} fought for any {{occupation}} that paid a decent {{wage}}.",
+    en: "When a {{layoff}} pushes up {{unemployment}}, each {{applicant}} will fight for any {{occupation}} that pays a decent {{wage}}.",
     zh: "在一波{{裁员|layoff}}推高{{失业率|unemployment}}之后,每个{{求职者|applicant}}都为任何能付得起像样{{工资|wage}}的{{职业|occupation}}而竞争。",
     words: [
       { w:"layoff", ph:"/ˈleɪɒf/", m:"n. 裁员;解雇", tip:"lay off(放下不用)→ 裁员" },
@@ -1065,7 +1065,7 @@ window.VOCAB = [
       { w:"sway", ph:"/sweɪ/", m:"vt. 影响;使动摇 v. 摇摆", tip:"谐音'甩':左右摇 → 左右人心 → 影响" }
     ] },
   { id: 107,
-    en: "When demand {{exceeds}} supply, prices {{soar}}; when stock {{accumulates}}, prices {{plunge}}, and the market may slowly {{rebound}}.",
+    en: "When demand can {{exceed}} supply, prices {{soar}}; when stock starts to {{accumulate}}, prices {{plunge}}, and the market may slowly {{rebound}}.",
     zh: "当需求{{超过|exceed}}供给,价格{{飙升|soar}};当库存{{积压|accumulate}},价格{{暴跌|plunge}},市场随后可能缓慢{{反弹|rebound}}。",
     words: [
       { w:"exceed", ph:"/ɪkˈsiːd/", m:"vt. 超过;超出", tip:"ex(出)+ceed(走)→ 走出界 → 超过" },
@@ -1185,7 +1185,7 @@ window.VOCAB = [
       { w:"obligation", ph:"/ˌɒblɪˈɡeɪʃn/", m:"n. 义务;责任", tip:"ob+lig(捆 → 束缚)→ 被束缚 → 义务" }
     ] },
   { id: 119,
-    en: "The volunteers gathered to {{distribute}} food, {{reassure}} the {{victims}}, {{organize}} aid, and {{renew}} hope in the flooded town.",
+    en: "Volunteers gathered to {{distribute}} food, {{reassure}} each {{victim}}, {{organize}} aid, and {{renew}} hope in the flooded town.",
     zh: "志愿者们聚集起来{{分发|distribute}}食物、{{安抚|reassure}}{{受灾者|victim}}、{{组织|organize}}援助,并为被淹的小镇{{重燃|renew}}希望。",
     words: [
       { w:"distribute", ph:"/dɪˈstrɪbjuːt/", m:"vt. 分发;分配", tip:"dis(分开)+tribute(给)→ 分给 → 分发" },
@@ -1305,7 +1305,7 @@ window.VOCAB = [
       { w:"blossom", ph:"/ˈblɒsəm/", m:"vi. 开花;兴旺 n. 花", tip:"bloom(开花)亲戚 → 开花" }
     ] },
   { id: 131,
-    en: "A scientific {{breakthrough}} crossed every {{boundary}}, {{bred}} new hope, earned a {{bonus}}, yet risked a {{breach}} of ethics.",
+    en: "A scientific {{breakthrough}} can cross every {{boundary}}, {{breed}} new hope, earn a {{bonus}}, yet risk a {{breach}} of ethics.",
     zh: "一项科学{{突破|breakthrough}}跨越了一切{{边界|boundary}},{{孕育|breed}}了新希望、赢得{{奖金|bonus}},却也冒着{{违反|breach}}伦理的风险。",
     words: [
       { w:"breakthrough", ph:"/ˈbreɪkθruː/", m:"n. 突破;重大进展", tip:"break(破)+through(穿)→ 突破" },

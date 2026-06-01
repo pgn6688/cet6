@@ -214,7 +214,10 @@
   // ---------- 渲染辅助 ----------
   function renderSentenceEn(g) {
     let i = 0;
-    return g.en.replace(/\{\{(.+?)\}\}/g, (_, shown) => {
+    return g.en.replace(/\{\{(.+?)\}\}/g, (_, inner) => {
+      // 支持 {{显示形|原形}}:句中显示变形,但映射用原形(默认显示=原形)
+      const bar = inner.indexOf('|');
+      const shown = bar >= 0 ? inner.slice(0, bar) : inner;
       const idx = i++; const lvl = Vocab.get(g.words[idx].w).lvl;
       return `<span class="kw ${lvl >= 2 ? 'done' : ''}" data-i="${idx}">${shown}</span>`;
     });
