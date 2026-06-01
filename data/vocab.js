@@ -1203,5 +1203,405 @@ window.VOCAB = [
       { w:"reflect", ph:"/rɪˈflekt/", m:"v. 反思;反射;反映", tip:"re(回)+flect(弯 → 折回)→ 折回想 → 反思" },
       { w:"appreciate", ph:"/əˈpriːʃieɪt/", m:"vt. 欣赏;感激;领会", tip:"ap+preci(价值 price)→ 看到价值 → 欣赏" },
       { w:"flourish", ph:"/ˈflʌrɪʃ/", m:"vi. 繁荣;茂盛", tip:"flour(花 flower)→ 开花 → 茂盛" }
+    ] },
+  { id: 121,
+    en: "After an {{abrupt}} decision to {{abandon}} the old plan, the team chose to {{absorb}} new ideas, make the tool more {{accessible}}, and won wide {{acclaim}}.",
+    zh: "在{{突然|abrupt}}决定{{放弃|abandon}}旧方案后,团队选择{{吸收|absorb}}新想法、让工具更{{易用|accessible}},并赢得广泛{{赞誉|acclaim}}。",
+    words: [
+      { w:"abrupt", ph:"/əˈbrʌpt/", m:"adj. 突然的;唐突的", tip:"ab+rupt(断裂)→ 突然断开 → 突然" },
+      { w:"abandon", ph:"/əˈbændən/", m:"vt. 放弃;遗弃", tip:"谐音'我born灯':弃之不顾 → 放弃" },
+      { w:"absorb", ph:"/əbˈzɔːb/", m:"vt. 吸收;使专注", tip:"ab+sorb(吸)→ 吸进去 → 吸收" },
+      { w:"accessible", ph:"/əkˈsesəbl/", m:"adj. 易接近的;可使用的", tip:"access(进入)+ible → 可进入 → 易用" },
+      { w:"acclaim", ph:"/əˈkleɪm/", m:"n./vt. 称赞;欢呼", tip:"ac+claim(喊)→ 齐声喊好 → 称赞" }
+    ] },
+  { id: 122,
+    en: "In {{accord}} with strict rules, the {{acute}} nurse must {{adhere}} to procedures, watch the {{adjacent}} ward, and {{administer}} medicine on time.",
+    zh: "为与严格规章保持{{一致|accord}},这位{{敏锐的|acute}}护士必须{{遵守|adhere}}流程、照看{{邻近的|adjacent}}病房,并按时{{给药|administer}}。",
+    words: [
+      { w:"accord", ph:"/əˈkɔːd/", m:"n. 一致 v. 给予;符合", tip:"ac+cord(心)→ 心一致 → 一致" },
+      { w:"acute", ph:"/əˈkjuːt/", m:"adj. 敏锐的;严重的;急性的", tip:"谐音'我Q他':反应快 → 敏锐" },
+      { w:"adhere", ph:"/ədˈhɪə/", m:"vi. 黏附;坚持;遵守", tip:"ad+here(黏)→ 黏住 → 坚持/遵守" },
+      { w:"adjacent", ph:"/əˈdʒeɪsnt/", m:"adj. 邻近的;毗连的", tip:"ad+jac(躺 → 挨着躺)→ 邻近" },
+      { w:"administer", ph:"/ədˈmɪnɪstə/", m:"vt. 管理;给予(药)", tip:"administ(管理 → minister 部长)→ 管理/施行" }
+    ] },
+  { id: 123,
+    en: "Despite {{adverse}} conditions, experts {{affirm}} that the {{aggregate}} data, though it may {{agitate}} the public, is {{akin}} to earlier trends.",
+    zh: "尽管条件{{不利|adverse}},专家{{断言|affirm}},这些{{总计的|aggregate}}数据虽可能{{使…不安|agitate}}公众,却与早先趋势{{类似|akin}}。",
+    words: [
+      { w:"adverse", ph:"/ˈædvɜːs/", m:"adj. 不利的;相反的", tip:"ad+vers(转)→ 转着对着干 → 不利" },
+      { w:"affirm", ph:"/əˈfɜːm/", m:"vt. 断言;肯定;证实", tip:"af+firm(坚定)→ 坚定地说 → 断言" },
+      { w:"aggregate", ph:"/ˈæɡrɪɡət/", m:"adj. 总计的 n. 总数", tip:"ag+greg(群 → 聚集)→ 聚成总数 → 总计" },
+      { w:"agitate", ph:"/ˈædʒɪteɪt/", m:"vt. 使焦虑;煽动;搅动", tip:"agit(驱动 act)→ 搅动情绪 → 使不安" },
+      { w:"akin", ph:"/əˈkɪn/", m:"adj. 类似的;同族的", tip:"a+kin(亲属)→ 沾亲 → 类似" }
+    ] },
+  { id: 124,
+    en: "Critics {{allege}} the {{aloof}} official did little to {{alleviate}} poverty despite {{ample}} funds, drawing an {{analogy}} with past failures.",
+    zh: "批评者{{声称|allege}},这位{{冷漠的|aloof}}官员虽有{{充足的|ample}}资金却几乎未能{{缓解|alleviate}}贫困,并以往日的失败作{{类比|analogy}}。",
+    words: [
+      { w:"allege", ph:"/əˈledʒ/", m:"vt. 断言;指控(未证实)", tip:"al+lege(说 → legal)→ 单方面说 → 声称" },
+      { w:"aloof", ph:"/əˈluːf/", m:"adj. 冷漠的;疏远的", tip:"a+loof(远)→ 离得远 → 冷漠" },
+      { w:"alleviate", ph:"/əˈliːvieɪt/", m:"vt. 减轻;缓解", tip:"al+lev(轻 light)→ 使变轻 → 减轻" },
+      { w:"ample", ph:"/ˈæmpl/", m:"adj. 充足的;宽敞的", tip:"谐音'俺谱了':底气足 → 充足" },
+      { w:"analogy", ph:"/əˈnælədʒi/", m:"n. 类比;相似", tip:"ana(类)+logy(说)→ 类比" }
+    ] },
+  { id: 125,
+    en: "An {{anonymous}} tip helped police {{apprehend}} the thief; the news {{anchor}} reported it to loud {{applause}} as new {{apparatus}} arrived.",
+    zh: "一条{{匿名的|anonymous}}线报帮警方{{逮捕|apprehend}}了窃贼;新闻{{主播|anchor}}在新{{设备|apparatus}}到位时报道此事,引来热烈{{掌声|applause}}。",
+    words: [
+      { w:"anonymous", ph:"/əˈnɒnɪməs/", m:"adj. 匿名的;无名的", tip:"an(无)+onym(名 name)→ 无名 → 匿名" },
+      { w:"apprehend", ph:"/ˌæprɪˈhend/", m:"vt. 逮捕;理解;忧虑", tip:"ap+prehend(抓)→ 抓住 → 逮捕" },
+      { w:"anchor", ph:"/ˈæŋkə/", m:"n. 锚;主播 vt. 固定", tip:"锚定全场 → 主播" },
+      { w:"applause", ph:"/əˈplɔːz/", m:"n. 鼓掌;喝彩", tip:"applaud(鼓掌)的名词 → 掌声" },
+      { w:"apparatus", ph:"/ˌæpəˈreɪtəs/", m:"n. 设备;器械;机构", tip:"ap+par(准备 prepare)→ 备好的器械 → 设备" }
+    ] },
+  { id: 126,
+    en: "The {{apt}} player, an {{ardent}} fan favourite, made an {{arbitrary}} move, traced a perfect {{arc}}, and silenced the whole {{arena}}.",
+    zh: "这位{{恰当的|apt}}球员、{{热情的|ardent}}球迷宠儿,做了一个{{随意的|arbitrary}}动作,划出完美的{{弧线|arc}},让整个{{竞技场|arena}}鸦雀无声。",
+    words: [
+      { w:"apt", ph:"/æpt/", m:"adj. 恰当的;易于…的;聪明的", tip:"谐音'爱普它':正合适 → 恰当" },
+      { w:"ardent", ph:"/ˈɑːdnt/", m:"adj. 热情的;热心的", tip:"ard(燃烧 → ardor)+ent → 火热 → 热情" },
+      { w:"arbitrary", ph:"/ˈɑːbɪtrəri/", m:"adj. 任意的;武断的", tip:"arbiter(裁判)→ 凭裁判一句 → 武断" },
+      { w:"arc", ph:"/ɑːk/", m:"n. 弧;弧形", tip:"arch(拱)亲戚 → 弧形" },
+      { w:"arena", ph:"/əˈriːnə/", m:"n. 竞技场;舞台;领域", tip:"谐音'阿瑞娜':比武场 → 竞技场" }
+    ] },
+  { id: 127,
+    en: "Students who {{aspire}} to greatness {{assert}} their views, {{assimilate}} knowledge, {{astonish}} teachers, and {{attain}} top marks.",
+    zh: "{{渴望|aspire}}卓越的学生会{{主张|assert}}自己的观点、{{吸收|assimilate}}知识、{{使…惊讶|astonish}}老师,并{{取得|attain}}优异成绩。",
+    words: [
+      { w:"aspire", ph:"/əˈspaɪə/", m:"vi. 渴望;立志", tip:"a+spir(呼吸 spirit)→ 心向往 → 渴望" },
+      { w:"assert", ph:"/əˈsɜːt/", m:"vt. 主张;断言;维护", tip:"as+sert(连接 → 加重语气)→ 主张" },
+      { w:"assimilate", ph:"/əˈsɪmɪleɪt/", m:"vt. 吸收;同化", tip:"as+simil(相似 similar)→ 化为同类 → 吸收" },
+      { w:"astonish", ph:"/əˈstɒnɪʃ/", m:"vt. 使惊讶", tip:"as+ton(雷 → 打雷)→ 惊如雷 → 惊讶" },
+      { w:"attain", ph:"/əˈteɪn/", m:"vt. 达到;获得", tip:"at+tain(握)→ 够到 → 达到" }
+    ] },
+  { id: 128,
+    en: "The museum will {{attribute}} the {{authentic}} painting to a master, {{authorize}} its display, grant the curator {{autonomy}}, and {{avail}} visitors of free tours.",
+    zh: "博物馆会把这幅{{真迹|authentic}}{{归功于|attribute}}某位大师、{{授权|authorize}}展出、给予馆长{{自主权|autonomy}},并让游客{{得益于|avail}}免费导览。",
+    words: [
+      { w:"attribute", ph:"/əˈtrɪbjuːt/", m:"vt. 归因于 n. 属性", tip:"at+tribute(给予)→ 把功劳给 → 归因" },
+      { w:"authentic", ph:"/ɔːˈθentɪk/", m:"adj. 真正的;可信的", tip:"author(作者)→ 出自本人 → 真品" },
+      { w:"authorize", ph:"/ˈɔːθəraɪz/", m:"vt. 授权;批准", tip:"author(权威)+ize → 给权 → 授权" },
+      { w:"autonomy", ph:"/ɔːˈtɒnəmi/", m:"n. 自治;自主权", tip:"auto(自)+nomy(治)→ 自治" },
+      { w:"avail", ph:"/əˈveɪl/", m:"vt. 有益于 n. 效用", tip:"a+vail(力量 value)→ 有用 → 有益" }
+    ] },
+  { id: 129,
+    en: "Standing in {{awe}} on the {{barren}} hill, the {{awkward}} boy saw a lighthouse {{beam}} {{beckon}} him home.",
+    zh: "站在{{贫瘠的|barren}}山丘上心怀{{敬畏|awe}},这个{{笨拙的|awkward}}男孩看见灯塔的{{光束|beam}}在{{召唤|beckon}}他回家。",
+    words: [
+      { w:"awe", ph:"/ɔː/", m:"n. 敬畏 vt. 使敬畏", tip:"谐音'噢':肃然 → 敬畏" },
+      { w:"barren", ph:"/ˈbærən/", m:"adj. 贫瘠的;不育的", tip:"bare(光秃)+ren → 寸草不生 → 贫瘠" },
+      { w:"awkward", ph:"/ˈɔːkwəd/", m:"adj. 笨拙的;尴尬的", tip:"谐音'呕克沃德':别扭 → 尴尬/笨拙" },
+      { w:"beam", ph:"/biːm/", m:"n. 光束;梁 vi. 微笑", tip:"谐音'必莫':一道光 → 光束" },
+      { w:"beckon", ph:"/ˈbekən/", m:"v. 招手;召唤;吸引", tip:"beck(点头)+on → 招手 → 召唤" }
+    ] },
+  { id: 130,
+    en: "The {{bleak}} winter may {{bewilder}} farmers, but after a cold {{blast}} the {{blunt}} branches soon {{blossom}} again.",
+    zh: "{{荒凉的|bleak}}冬天可能让农民{{困惑|bewilder}},但在一阵冷{{风|blast}}之后,那些{{秃钝的|blunt}}枝条很快又会{{开花|blossom}}。",
+    words: [
+      { w:"bleak", ph:"/bliːk/", m:"adj. 荒凉的;暗淡的", tip:"black(黑)亲戚 → 暗淡 → 荒凉" },
+      { w:"bewilder", ph:"/bɪˈwɪldə/", m:"vt. 使迷惑;使昏乱", tip:"be+wild(野 → 乱)→ 弄乱头脑 → 迷惑" },
+      { w:"blast", ph:"/blɑːst/", m:"n. 一阵(风);爆炸 vt. 炸", tip:"谐音'不拉死它':一阵猛劲 → 爆炸/一阵" },
+      { w:"blunt", ph:"/blʌnt/", m:"adj. 钝的;直率的 vt. 使钝", tip:"谐音'不浪头':不锋利 → 钝" },
+      { w:"blossom", ph:"/ˈblɒsəm/", m:"vi. 开花;兴旺 n. 花", tip:"bloom(开花)亲戚 → 开花" }
+    ] },
+  { id: 131,
+    en: "A scientific {{breakthrough}} crossed every {{boundary}}, {{bred}} new hope, earned a {{bonus}}, yet risked a {{breach}} of ethics.",
+    zh: "一项科学{{突破|breakthrough}}跨越了一切{{边界|boundary}},{{孕育|breed}}了新希望、赢得{{奖金|bonus}},却也冒着{{违反|breach}}伦理的风险。",
+    words: [
+      { w:"breakthrough", ph:"/ˈbreɪkθruː/", m:"n. 突破;重大进展", tip:"break(破)+through(穿)→ 突破" },
+      { w:"boundary", ph:"/ˈbaʊndri/", m:"n. 边界;界限", tip:"bound(界限)+ary → 边界" },
+      { w:"breed", ph:"/briːd/", m:"v. 繁殖;孕育 n. 品种", tip:"谐音'布里的':养出来 → 繁殖" },
+      { w:"bonus", ph:"/ˈbəʊnəs/", m:"n. 奖金;额外好处", tip:"bon(好 → bonus)→ 好处 → 奖金" },
+      { w:"breach", ph:"/briːtʃ/", m:"n./vt. 违反;破裂", tip:"break 亲戚 → 破坏 → 违反" }
+    ] },
+  { id: 132,
+    en: "On the {{brink}} of collapse, the {{bureau}} took {{brisk}} action to move the {{bulk}} of the {{brittle}} records to safety.",
+    zh: "在崩溃的{{边缘|brink}},该{{局|bureau}}采取{{迅速的|brisk}}行动,把{{大部分|bulk}}{{易碎的|brittle}}档案转移到安全处。",
+    words: [
+      { w:"brink", ph:"/brɪŋk/", m:"n. (悬崖)边缘;濒临", tip:"谐音'不淋克':悬崖边 → 边缘" },
+      { w:"bureau", ph:"/ˈbjʊərəʊ/", m:"n. 局;办事处", tip:"谐音'比有偶':政府机构 → 局" },
+      { w:"brisk", ph:"/brɪsk/", m:"adj. 轻快的;活跃的", tip:"谐音'不立刻':动作麻利 → 轻快" },
+      { w:"bulk", ph:"/bʌlk/", m:"n. 主体;大量;体积", tip:"谐音'包了':一大坨 → 大量" },
+      { w:"brittle", ph:"/ˈbrɪtl/", m:"adj. 易碎的;脆弱的", tip:"break 亲戚 → 一掰就碎 → 易碎" }
+    ] },
+  { id: 133,
+    en: "To {{bypass}} traffic, the chef would {{carve}} a shortcut, {{cater}} the {{celestial}}-themed gala, and never {{cease}} to impress.",
+    zh: "为{{绕过|bypass}}拥堵,这位大厨会{{开辟|carve}}一条捷径、{{承办|cater}}以{{天空|celestial}}为主题的盛宴,并从不{{停止|cease}}带来惊艳。",
+    words: [
+      { w:"bypass", ph:"/ˈbaɪpɑːs/", m:"vt. 绕过 n. 旁路", tip:"by(旁)+pass(过)→ 从旁过 → 绕过" },
+      { w:"carve", ph:"/kɑːv/", m:"vt. 雕刻;开辟", tip:"谐音'卡夫':刻出来 → 雕刻" },
+      { w:"cater", ph:"/ˈkeɪtə/", m:"vi. 承办伙食;迎合", tip:"谐音'凯特':备餐 → 承办" },
+      { w:"celestial", ph:"/səˈlestiəl/", m:"adj. 天空的;天的", tip:"cele(天 → ceiling)→ 天上的 → 天空的" },
+      { w:"cease", ph:"/siːs/", m:"v. 停止;终止", tip:"谐音'西死':到头 → 停止" }
+    ] },
+  { id: 134,
+    en: "Amid the {{chaos}}, the council met in the {{chamber}} to {{cherish}} old values, {{chronicle}} events, and {{clamp}} down on fraud.",
+    zh: "在一片{{混乱|chaos}}中,委员会在{{会议厅|chamber}}开会,以{{珍视|cherish}}旧价值观、{{记录|chronicle}}事件,并{{压制|clamp}}舞弊。",
+    words: [
+      { w:"chaos", ph:"/ˈkeɪɒs/", m:"n. 混乱;无序", tip:"谐音'凯傲死':乱成一团 → 混乱" },
+      { w:"chamber", ph:"/ˈtʃeɪmbə/", m:"n. (会议)厅;室;膛", tip:"谐音'强不':大房间 → 厅" },
+      { w:"cherish", ph:"/ˈtʃerɪʃ/", m:"vt. 珍爱;怀有(希望)", tip:"cher(亲爱 → cheri)→ 珍爱" },
+      { w:"chronicle", ph:"/ˈkrɒnɪkl/", m:"n. 编年史 vt. 记录", tip:"chron(时间)+icle → 按时间记 → 编年史" },
+      { w:"clamp", ph:"/klæmp/", m:"vt. 夹紧;(down)压制 n. 夹钳", tip:"谐音'克拉mp':夹死 → 夹紧/压制" }
+    ] },
+  { id: 135,
+    en: "The {{clumsy}} climber would {{clasp}} the rope, {{cling}} to the {{coarse}} rock, and try not to {{collide}} with falling stones.",
+    zh: "那位{{笨拙的|clumsy}}登山者会{{紧握|clasp}}绳索、{{紧贴|cling}}{{粗糙的|coarse}}岩石,并尽量不与落石{{相撞|collide}}。",
+    words: [
+      { w:"clumsy", ph:"/ˈklʌmzi/", m:"adj. 笨拙的;难处理的", tip:"谐音'克拉姆兹':手脚不灵 → 笨拙" },
+      { w:"clasp", ph:"/klɑːsp/", m:"vt. 紧握;扣住 n. 扣子", tip:"clas(=clamp 夹)+p → 紧扣 → 紧握" },
+      { w:"cling", ph:"/klɪŋ/", m:"vi. 紧贴;依附;坚持", tip:"谐音'克令':黏住 → 紧贴" },
+      { w:"coarse", ph:"/kɔːs/", m:"adj. 粗糙的;粗俗的", tip:"course 同音:不精细 → 粗糙" },
+      { w:"collide", ph:"/kəˈlaɪd/", m:"vi. 碰撞;冲突", tip:"col(共)+lide(撞)→ 互撞 → 碰撞" }
+    ] },
+  { id: 136,
+    en: "The city will {{commemorate}} the hero, {{commence}} a ceremony, {{commend}} volunteers, and display each {{compact}} {{commodity}}.",
+    zh: "城市将{{纪念|commemorate}}这位英雄、{{开始|commence}}典礼、{{表扬|commend}}志愿者,并展示每一件{{小巧的|compact}}{{商品|commodity}}。",
+    words: [
+      { w:"commemorate", ph:"/kəˈmeməreɪt/", m:"vt. 纪念;庆祝", tip:"com+memor(记忆 memory)→ 共同记 → 纪念" },
+      { w:"commence", ph:"/kəˈmens/", m:"v. 开始;着手", tip:"com+mence(开始)→ 开始" },
+      { w:"commend", ph:"/kəˈmend/", m:"vt. 表扬;推荐", tip:"com+mend(命令 → 嘉许)→ 表扬" },
+      { w:"compact", ph:"/kəmˈpækt/", m:"adj. 紧凑的;小巧的", tip:"com+pact(压紧)→ 压实 → 紧凑" },
+      { w:"commodity", ph:"/kəˈmɒdəti/", m:"n. 商品;日用品", tip:"commod(方便)+ity → 好用的 → 商品" }
+    ] },
+  { id: 137,
+    en: "New rules {{compel}} schools to {{comprise}} core subjects, make ethics {{compulsory}}, {{conform}} to standards, and {{complement}} online study.",
+    zh: "新规{{迫使|compel}}学校{{包含|comprise}}核心科目、把伦理设为{{必修的|compulsory}}、{{遵从|conform}}标准,并与在线学习{{互补|complement}}。",
+    words: [
+      { w:"compel", ph:"/kəmˈpel/", m:"vt. 强迫;迫使", tip:"com+pel(推)→ 硬推 → 强迫" },
+      { w:"comprise", ph:"/kəmˈpraɪz/", m:"vt. 包含;由…组成", tip:"com+pris(抓 → 囊括)→ 包含" },
+      { w:"compulsory", ph:"/kəmˈpʌlsəri/", m:"adj. 强制的;必修的", tip:"compel(强迫)的形容词 → 必修" },
+      { w:"conform", ph:"/kənˈfɔːm/", m:"vi. 遵从;符合", tip:"con+form(形)→ 形状一致 → 遵从" },
+      { w:"complement", ph:"/ˈkɒmplɪment/", m:"vt. 补充;补足 n. 补充物", tip:"com+ple(满 fill)→ 填满 → 补充" }
+    ] },
+  { id: 138,
+    en: "Guided by {{conscience}}, members reached a {{consensus}} after three {{consecutive}} talks, gave their {{consent}}, and few would {{contend}} it.",
+    zh: "在{{良心|conscience}}的指引下,成员们经过三次{{连续的|consecutive}}会谈达成{{共识|consensus}}、给予{{同意|consent}},几乎无人{{争辩|contend}}。",
+    words: [
+      { w:"conscience", ph:"/ˈkɒnʃəns/", m:"n. 良心;良知", tip:"con+sci(知 science)→ 内心知对错 → 良心" },
+      { w:"consensus", ph:"/kənˈsensəs/", m:"n. 共识;一致", tip:"con+sens(感觉 sense)→ 同感 → 共识" },
+      { w:"consecutive", ph:"/kənˈsekjətɪv/", m:"adj. 连续的;接连的", tip:"con+sec(跟随 sequence)→ 一个接一个 → 连续" },
+      { w:"consent", ph:"/kənˈsent/", m:"n./vi. 同意;赞成", tip:"con+sent(感觉)→ 同感 → 同意" },
+      { w:"contend", ph:"/kənˈtend/", m:"v. 争辩;竞争;搏斗", tip:"con+tend(伸 → 较劲)→ 较量 → 争辩" }
+    ] },
+  { id: 139,
+    en: "The {{contemporary}} artist would {{contemplate}} society's {{contempt}} for beauty, fight {{continual}} doubt, and spread {{contagious}} passion.",
+    zh: "这位{{当代的|contemporary}}艺术家会{{沉思|contemplate}}社会对美的{{蔑视|contempt}}、对抗{{持续不断的|continual}}怀疑,并传播{{有感染力的|contagious}}热情。",
+    words: [
+      { w:"contemporary", ph:"/kənˈtemprəri/", m:"adj. 当代的;同时代的", tip:"con+tempor(时间 temporary)→ 同时代 → 当代" },
+      { w:"contemplate", ph:"/ˈkɒntəmpleɪt/", m:"vt. 沉思;考虑;凝视", tip:"con+templ(神殿 → 静观)→ 静思 → 沉思" },
+      { w:"contempt", ph:"/kənˈtempt/", m:"n. 轻视;蔑视", tip:"con+tempt(=temn 轻视)→ 蔑视" },
+      { w:"continual", ph:"/kənˈtɪnjuəl/", m:"adj. 频繁的;持续不断的", tip:"continue(继续)+al → 不断的" },
+      { w:"contagious", ph:"/kənˈteɪdʒəs/", m:"adj. 传染性的;有感染力的", tip:"con+tag(接触 contact)→ 一触即染 → 传染" }
+    ] },
+  { id: 140,
+    en: "Rejecting {{conventional}} thinking, engineers {{contrive}} ways to {{converge}} ideas, build a {{convertible}} design, and keep a {{cordial}} team.",
+    zh: "摒弃{{传统的|conventional}}思维,工程师们{{设法想出|contrive}}让想法{{汇聚|converge}}的办法、打造{{可转换的|convertible}}设计,并维系一支{{热忱的|cordial}}团队。",
+    words: [
+      { w:"conventional", ph:"/kənˈvenʃənl/", m:"adj. 传统的;常规的", tip:"convention(惯例)+al → 常规的" },
+      { w:"contrive", ph:"/kənˈtraɪv/", m:"vt. 设法做到;谋划", tip:"con+trive(找 → 想办法)→ 设法" },
+      { w:"converge", ph:"/kənˈvɜːdʒ/", m:"vi. 汇聚;聚集;趋同", tip:"con+verge(边 → 朝一点)→ 汇聚" },
+      { w:"convertible", ph:"/kənˈvɜːtəbl/", m:"adj. 可转换的 n. 敞篷车", tip:"convert(转换)+ible → 可转换" },
+      { w:"cordial", ph:"/ˈkɔːdiəl/", m:"adj. 热忱的;友好的", tip:"cord(心 cor)+ial → 真心 → 热忱" }
+    ] },
+  { id: 141,
+    en: "The medical {{corps}} found that stress and illness {{correlate}}, that fear can {{corrode}} courage, and that no soldier is a {{coward}}, unlike his rival {{counterpart}}.",
+    zh: "这支医疗{{队|corps}}发现压力与疾病{{相关|correlate}}、恐惧会{{腐蚀|corrode}}勇气,而没有士兵是{{懦夫|coward}},不像对手那边的{{对应者|counterpart}}。",
+    words: [
+      { w:"corps", ph:"/kɔː/", m:"n. 队;军团;兵种", tip:"corp(身体 → 团体)→ 队;ps 不发音" },
+      { w:"correlate", ph:"/ˈkɒrəleɪt/", m:"v. 相关联;有联系", tip:"co(共)+relate(关联)→ 相互关联" },
+      { w:"corrode", ph:"/kəˈrəʊd/", m:"v. 腐蚀;侵蚀", tip:"cor+rode(咬 → rodent)→ 一点点咬 → 腐蚀" },
+      { w:"coward", ph:"/ˈkaʊəd/", m:"n. 懦夫;胆小鬼", tip:"谐音'考挖德':临阵退缩 → 懦夫" },
+      { w:"counterpart", ph:"/ˈkaʊntəpɑːt/", m:"n. 对应的人/物", tip:"counter(对)+part(部分)→ 对应方" }
+    ] },
+  { id: 142,
+    en: "From the {{cradle}}, the child would {{craft}} small boats, ignore a leg {{cramp}}, imagine a moon {{crater}}, and {{crave}} adventure.",
+    zh: "从{{摇篮|cradle}}时期起,这孩子就会{{精心制作|craft}}小船、不顾腿部{{抽筋|cramp}}、想象月球{{陨石坑|crater}},并{{渴望|crave}}冒险。",
+    words: [
+      { w:"cradle", ph:"/ˈkreɪdl/", m:"n. 摇篮;发源地", tip:"谐音'凯抖':晃来晃去 → 摇篮" },
+      { w:"craft", ph:"/krɑːft/", m:"vt. 精制 n. 工艺;手艺", tip:"手艺活 → 精心制作" },
+      { w:"cramp", ph:"/kræmp/", m:"n. 抽筋 vt. 束缚", tip:"谐音'克软扑':肌肉抽紧 → 抽筋" },
+      { w:"crater", ph:"/ˈkreɪtə/", m:"n. 火山口;弹坑;陨石坑", tip:"谐音'克瑞特':大坑 → 火山口" },
+      { w:"crave", ph:"/kreɪv/", m:"vt. 渴望;恳求", tip:"谐音'渴慰':极想要 → 渴望" }
+    ] },
+  { id: 143,
+    en: "On a relaxing {{cruise}}, the {{crisp}} morning air, the {{crude}} jokes, and small daily {{credit}} had a {{cumulative}} charm.",
+    zh: "在一次惬意的{{乘船游|cruise}}中,{{清新的|crisp}}晨间空气、{{粗俗的|crude}}玩笑,以及每日点滴的{{赞许|credit}},有一种{{累积的|cumulative}}魅力。",
+    words: [
+      { w:"cruise", ph:"/kruːz/", m:"n./vi. 乘船游览;巡航", tip:"谐音'巡兹':悠游航行 → 巡游" },
+      { w:"crisp", ph:"/krɪsp/", m:"adj. 清新的;脆的", tip:"谐音'克瑞死扑':又脆又爽 → 清新/脆" },
+      { w:"crude", ph:"/kruːd/", m:"adj. 粗糙的;天然的;粗俗的", tip:"谐音'枯oodd':未加工 → 粗糙" },
+      { w:"credit", ph:"/ˈkredɪt/", m:"n. 赞扬;信用;学分", tip:"cred(相信)+it → 信用 → 赞许" },
+      { w:"cumulative", ph:"/ˈkjuːmjələtɪv/", m:"adj. 累积的;渐增的", tip:"cumul(堆 cumulus)+ative → 累积" }
+    ] },
+  { id: 144,
+    en: "The {{cunning}} magician would {{dazzle}} the crowd, {{deem}} failure impossible, {{defy}} the odds, and never fall back to a dull {{default}}.",
+    zh: "这位{{狡猾的|cunning}}魔术师会{{使眼花|dazzle}}观众、{{认为|deem}}失败不可能、{{违抗|defy}}概率,绝不退回到乏味的{{默认做法|default}}。",
+    words: [
+      { w:"cunning", ph:"/ˈkʌnɪŋ/", m:"adj. 狡猾的 n. 狡诈", tip:"谐音'坑宁':会算计 → 狡猾" },
+      { w:"dazzle", ph:"/ˈdæzl/", m:"vt. 使眼花;使倾倒", tip:"谐音'大走':亮得发花 → 眩目" },
+      { w:"deem", ph:"/diːm/", m:"vt. 认为;视为", tip:"谐音'丁':认定 → 认为" },
+      { w:"defy", ph:"/dɪˈfaɪ/", m:"vt. 违抗;蔑视;使落空", tip:"de(否)+fy(信 fid)→ 不服 → 违抗" },
+      { w:"default", ph:"/dɪˈfɔːlt/", m:"n. 默认;违约 vi. 拖欠", tip:"de+fault(过错 → 缺)→ 缺省 → 默认" }
+    ] },
+  { id: 145,
+    en: "After {{deliberate}} thought, the pilot would {{descend}} through {{dense}} cloud, {{designate}} a landing site, and refuse to {{deprive}} anyone of safety.",
+    zh: "经过{{深思熟虑的|deliberate}}思考,飞行员会穿过{{浓密的|dense}}云层{{下降|descend}}、{{指定|designate}}降落点,并拒绝{{剥夺|deprive}}任何人的安全。",
+    words: [
+      { w:"deliberate", ph:"/dɪˈlɪbərət/", m:"adj. 深思熟虑的;故意的", tip:"de+liber(权衡 → 天平 libra)→ 反复掂量 → 深思熟虑" },
+      { w:"descend", ph:"/dɪˈsend/", m:"vi. 下降;降临;遗传", tip:"de(向下)+scend(爬)→ 往下走 → 下降" },
+      { w:"dense", ph:"/dens/", m:"adj. 密集的;浓厚的;愚钝的", tip:"谐音'担死':挤得密 → 密集" },
+      { w:"designate", ph:"/ˈdezɪɡneɪt/", m:"vt. 指定;标明;任命", tip:"de+sign(记号)→ 做记号定下 → 指定" },
+      { w:"deprive", ph:"/dɪˈpraɪv/", m:"vt. 剥夺;使丧失", tip:"de(去)+priv(私有 private)→ 夺走私产 → 剥夺" }
+    ] },
+  { id: 146,
+    en: "Believing in {{destiny}}, she would {{detach}} from fear, let nothing {{deter}} her, {{devour}} every book, and refuse to let others {{dictate}} her path.",
+    zh: "她相信{{命运|destiny}},会从恐惧中{{抽离|detach}}、不让任何事{{阻止|deter}}自己、{{如饥似渴地读|devour}}每本书,并拒绝让别人{{支配|dictate}}她的人生路。",
+    words: [
+      { w:"destiny", ph:"/ˈdestɪni/", m:"n. 命运;天数", tip:"destin(注定 destined)+y → 命运" },
+      { w:"detach", ph:"/dɪˈtætʃ/", m:"vt. 使分离;派遣", tip:"de+tach(接触 attach)→ 解除接触 → 分离" },
+      { w:"deter", ph:"/dɪˈtɜː/", m:"vt. 阻止;威慑", tip:"de+ter(吓 terror)→ 吓退 → 阻止" },
+      { w:"devour", ph:"/dɪˈvaʊə/", m:"vt. 吞食;如饥似渴地读", tip:"de+vour(吃 → voracious)→ 狼吞 → 吞食" },
+      { w:"dictate", ph:"/dɪkˈteɪt/", m:"v. 支配;口授;命令", tip:"dict(说)+ate → 发号施令 → 支配" }
+    ] },
+  { id: 147,
+    en: "To protect his {{dignity}}, the {{discreet}} lawyer would not {{disclose}} secrets, {{dilute}} the truth, or bring {{disgrace}} to the firm.",
+    zh: "为维护{{尊严|dignity}},这位{{谨慎的|discreet}}律师不会{{透露|disclose}}秘密、{{淡化|dilute}}真相,或给公司带来{{耻辱|disgrace}}。",
+    words: [
+      { w:"dignity", ph:"/ˈdɪɡnəti/", m:"n. 尊严;高贵", tip:"dign(高贵 → deign)+ity → 尊严" },
+      { w:"discreet", ph:"/dɪˈskriːt/", m:"adj. 谨慎的;考虑周到的", tip:"dis+creet(分辨 → 慎重)→ 谨慎" },
+      { w:"disclose", ph:"/dɪsˈkləʊz/", m:"vt. 透露;揭露", tip:"dis(不)+close(关)→ 打开 → 揭露" },
+      { w:"dilute", ph:"/daɪˈluːt/", m:"vt. 稀释;削弱 adj. 稀的", tip:"di+lute(冲 → 洗)→ 冲淡 → 稀释" },
+      { w:"disgrace", ph:"/dɪsˈɡreɪs/", m:"n. 耻辱 vt. 使蒙羞", tip:"dis(失)+grace(优雅)→ 丢脸 → 耻辱" }
+    ] },
+  { id: 148,
+    en: "In {{disguise}}, the spy hid his {{dismay}}, watched the crowd {{disperse}}, refused to {{dismiss}} the threat, and prepared for the {{disposal}} of evidence.",
+    zh: "{{乔装|disguise}}之下,这名间谍掩饰{{沮丧|dismay}},看着人群{{散去|disperse}},拒绝{{不予理会|dismiss}}威胁,并准备{{销毁|disposal}}证据。",
+    words: [
+      { w:"disguise", ph:"/dɪsˈɡaɪz/", m:"vt./n. 假扮;伪装;掩饰", tip:"dis+guise(样子)→ 改样子 → 伪装" },
+      { w:"dismay", ph:"/dɪsˈmeɪ/", m:"n./vt. 沮丧;惊愕", tip:"dis(无)+may(力量)→ 无力 → 沮丧" },
+      { w:"disperse", ph:"/dɪˈspɜːs/", m:"v. 驱散;散开;传播", tip:"di+sperse(撒 → sparse)→ 撒开 → 驱散" },
+      { w:"dismiss", ph:"/dɪsˈmɪs/", m:"vt. 解雇;解散;不予考虑", tip:"dis+miss(送)→ 打发走 → 解雇" },
+      { w:"disposal", ph:"/dɪˈspəʊzl/", m:"n. 处理;清除;支配", tip:"dispose(处理)+al → 处理" }
+    ] },
+  { id: 149,
+    en: "Protests may {{disrupt}} the city, {{dissolve}} old ties, {{divert}} resources, make paths {{diverge}}, and challenge official {{doctrine}}.",
+    zh: "抗议可能{{扰乱|disrupt}}城市、{{瓦解|dissolve}}旧有联系、{{转移|divert}}资源、使道路{{分岔|diverge}},并挑战官方{{教条|doctrine}}。",
+    words: [
+      { w:"disrupt", ph:"/dɪsˈrʌpt/", m:"vt. 扰乱;使中断", tip:"dis+rupt(断)→ 打断 → 扰乱" },
+      { w:"dissolve", ph:"/dɪˈzɒlv/", m:"v. 溶解;解散;瓦解", tip:"dis+solve(解)→ 化开 → 溶解/解散" },
+      { w:"divert", ph:"/daɪˈvɜːt/", m:"vt. 转移;转向;使娱乐", tip:"di+vert(转)→ 转开 → 转移" },
+      { w:"diverge", ph:"/daɪˈvɜːdʒ/", m:"vi. 分岔;分歧;偏离", tip:"di(分开)+verge(边)→ 各奔一边 → 分岔" },
+      { w:"doctrine", ph:"/ˈdɒktrɪn/", m:"n. 教条;学说;主义", tip:"doc(教 doctor)+trine → 教义 → 教条" }
+    ] },
+  { id: 150,
+    en: "The {{eccentric}} scientist had a {{dual}} role, faced {{dubious}} critics, fought a quiet {{dread}}, yet transformed our view of {{ecology}}.",
+    zh: "这位{{古怪的|eccentric}}科学家身兼{{双重的|dual}}角色,面对{{怀疑的|dubious}}批评者、对抗内心的{{恐惧|dread}},却改变了我们对{{生态|ecology}}的看法。",
+    words: [
+      { w:"eccentric", ph:"/ɪkˈsentrɪk/", m:"adj. 古怪的 n. 怪人", tip:"ec(出)+centr(中心)→ 偏离中心 → 古怪" },
+      { w:"dual", ph:"/ˈdjuːəl/", m:"adj. 双重的;两部分的", tip:"du(二 duo)+al → 双重" },
+      { w:"dubious", ph:"/ˈdjuːbiəs/", m:"adj. 怀疑的;可疑的", tip:"doubt(怀疑)亲戚 → 可疑" },
+      { w:"dread", ph:"/dred/", m:"n./vt. 恐惧;惧怕", tip:"谐音'拽的':心里发怵 → 恐惧" },
+      { w:"ecology", ph:"/iˈkɒlədʒi/", m:"n. 生态学;生态", tip:"eco(生态)+logy(学)→ 生态学" }
+    ] },
+  { id: 151,
+    en: "As hours {{elapse}}, the coach tries to {{elevate}} morale, {{elicit}} effort, fill players with {{ecstasy}}, and keep them {{eligible}} to compete.",
+    zh: "随着时间{{流逝|elapse}},教练设法{{提升|elevate}}士气、{{引出|elicit}}努力、让球员充满{{狂喜|ecstasy}},并让他们保有参赛{{资格|eligible}}。",
+    words: [
+      { w:"elapse", ph:"/ɪˈlæps/", m:"vi. (时间)流逝;消逝", tip:"e(出)+lapse(滑)→ 悄悄滑走 → 流逝" },
+      { w:"elevate", ph:"/ˈelɪveɪt/", m:"vt. 提升;抬高;振奋", tip:"e(上)+lev(举 lift)→ 举起 → 提升" },
+      { w:"elicit", ph:"/iˈlɪsɪt/", m:"vt. 引出;探出(信息)", tip:"e(出)+licit(引 → lure)→ 引出来" },
+      { w:"ecstasy", ph:"/ˈekstəsi/", m:"n. 狂喜;入迷", tip:"ec(出)+stasy(站 → 神不守舍)→ 忘形 → 狂喜" },
+      { w:"eligible", ph:"/ˈelɪdʒəbl/", m:"adj. 有资格的;合适的", tip:"e+lig(选 elect)+ible → 可入选 → 有资格" }
+    ] },
+  { id: 152,
+    en: "The {{eminent}} professor would {{embody}} wisdom, rely on {{empirical}} proof, {{enchant}} students, and {{enclose}} notes with every reply.",
+    zh: "这位{{杰出的|eminent}}教授{{体现|embody}}智慧、依靠{{经验的|empirical}}证据、{{使陶醉|enchant}}学生,并在每次回信中{{附上|enclose}}笔记。",
+    words: [
+      { w:"eminent", ph:"/ˈemɪnənt/", m:"adj. 杰出的;著名的", tip:"e(出)+min(突 → prominent)→ 突出 → 杰出" },
+      { w:"embody", ph:"/ɪmˈbɒdi/", m:"vt. 体现;具体表达", tip:"em(使)+body(身体)→ 化为实体 → 体现" },
+      { w:"empirical", ph:"/ɪmˈpɪrɪkl/", m:"adj. 经验的;实证的", tip:"em+pir(试 → experience)→ 凭经验 → 实证" },
+      { w:"enchant", ph:"/ɪnˈtʃɑːnt/", m:"vt. 使陶醉;施魔法", tip:"en+chant(咒语)→ 念咒迷住 → 陶醉" },
+      { w:"enclose", ph:"/ɪnˈkləʊz/", m:"vt. 附上;围住", tip:"en(进)+close(关)→ 封进去 → 附上" }
+    ] },
+  { id: 153,
+    en: "A generous {{enterprise}} will {{endow}} a school, {{enlighten}} the poor, {{enroll}} orphans, and accept all the cost it may {{entail}}.",
+    zh: "一家慷慨的{{企业|enterprise}}会{{捐赠|endow}}一所学校、{{启发|enlighten}}穷人、{{招收|enroll}}孤儿,并承担这一切可能{{带来|entail}}的成本。",
+    words: [
+      { w:"enterprise", ph:"/ˈentəpraɪz/", m:"n. 企业;事业;进取心", tip:"enter(进入)+prise(抓)→ 大胆经营 → 企业" },
+      { w:"endow", ph:"/ɪnˈdaʊ/", m:"vt. 捐赠;赋予", tip:"en+dow(给 → dowry 嫁妆)→ 赠予 → 捐赠" },
+      { w:"enlighten", ph:"/ɪnˈlaɪtn/", m:"vt. 启发;开导", tip:"en+light(光)→ 给人光 → 启迪" },
+      { w:"enroll", ph:"/ɪnˈrəʊl/", m:"v. 招收;登记;入学", tip:"en+roll(名册)→ 上名册 → 注册" },
+      { w:"entail", ph:"/ɪnˈteɪl/", m:"vt. 需要;使必要;牵涉", tip:"en+tail(尾 → 附带)→ 附带 → 需要" }
+    ] },
+  { id: 154,
+    en: "During the {{epidemic}}, leaders {{erect}} clinics, refuse to {{equate}} panic with care, {{entitle}} all to treatment, and calm fears before they {{erupt}}.",
+    zh: "{{流行病|epidemic}}期间,领导者{{建立|erect}}诊所、拒绝把恐慌{{等同于|equate}}关怀、{{赋予|entitle}}所有人受治权,并在恐惧{{爆发|erupt}}前加以平息。",
+    words: [
+      { w:"epidemic", ph:"/ˌepɪˈdemɪk/", m:"n. 流行病 adj. 流行的", tip:"epi(在…中)+dem(人民)→ 在人群蔓延 → 流行病" },
+      { w:"erect", ph:"/ɪˈrekt/", m:"vt. 建立;竖立 adj. 直立的", tip:"e(上)+rect(直)→ 竖直立起 → 建立" },
+      { w:"equate", ph:"/iˈkweɪt/", m:"vt. 使相等;等同", tip:"equ(等 equal)+ate → 等同" },
+      { w:"entitle", ph:"/ɪnˈtaɪtl/", m:"vt. 赋予权利;给…命名", tip:"en+title(头衔)→ 给名分 → 赋权" },
+      { w:"erupt", ph:"/ɪˈrʌpt/", m:"vi. 爆发;喷发", tip:"e(出)+rupt(断 → 冲破)→ 冲出 → 爆发" }
+    ] },
+  { id: 155,
+    en: "The {{evergreen}} forest, home to {{exotic}} birds, is {{exempt}} from logging; rangers {{expel}} poachers before their licences {{expire}}.",
+    zh: "这片{{常青的|evergreen}}森林是{{异国的|exotic}}鸟类的家园,{{免于|exempt}}砍伐;护林员在偷猎者执照{{到期|expire}}前就把他们{{驱逐|expel}}。",
+    words: [
+      { w:"evergreen", ph:"/ˈevəɡriːn/", m:"adj. 常青的 n. 常青树", tip:"ever(总是)+green(绿)→ 常青" },
+      { w:"exotic", ph:"/ɪɡˈzɒtɪk/", m:"adj. 异国的;奇异的", tip:"exo(外 → exit)+tic → 外来的 → 异国" },
+      { w:"exempt", ph:"/ɪɡˈzempt/", m:"adj. 被免除的 vt. 免除", tip:"ex(出)+empt(拿 → 取走)→ 取出在外 → 豁免" },
+      { w:"expel", ph:"/ɪkˈspel/", m:"vt. 驱逐;开除;排出", tip:"ex(出)+pel(推)→ 推出去 → 驱逐" },
+      { w:"expire", ph:"/ɪkˈspaɪə/", m:"vi. 到期;期满;断气", tip:"ex(出)+pir(气 spirit)→ 出最后一口气 → 到期" }
+    ] },
+  { id: 156,
+    en: "Without {{explicit}} proof, do not {{fabricate}} stories about {{extinct}} species; every {{fabulous}} discovery has many a hidden {{facet}}.",
+    zh: "没有{{明确的|explicit}}证据,别{{捏造|fabricate}}关于{{灭绝的|extinct}}物种的故事;每个{{极好的|fabulous}}发现都有许多隐藏的{{方面|facet}}。",
+    words: [
+      { w:"explicit", ph:"/ɪkˈsplɪsɪt/", m:"adj. 明确的;清晰的", tip:"ex(出)+plic(折 → 展开)→ 摊开说 → 明确" },
+      { w:"fabricate", ph:"/ˈfæbrɪkeɪt/", m:"vt. 捏造;制造", tip:"fabric(织物 → 编)+ate → 编造 → 捏造" },
+      { w:"extinct", ph:"/ɪkˈstɪŋkt/", m:"adj. 灭绝的;熄灭的", tip:"ex(出)+stinct(刺 → 熄)→ 火灭尽 → 灭绝" },
+      { w:"fabulous", ph:"/ˈfæbjələs/", m:"adj. 极好的;难以置信的", tip:"fable(寓言)+ous → 像传说般好 → 极好" },
+      { w:"facet", ph:"/ˈfæsɪt/", m:"n. 方面;(宝石的)刻面", tip:"face(面)+t → 一个面 → 方面" }
+    ] },
+  { id: 157,
+    en: "The {{faculty}} warned that a passing {{fad}}, a {{feeble}} excuse, or one {{fatal}} error could {{ferment}} lasting trouble.",
+    zh: "{{全体教员|faculty}}警告说,一时的{{风尚|fad}}、一个{{无力的|feeble}}借口,或一个{{致命的|fatal}}错误,都可能{{酝酿|ferment}}出长久的麻烦。",
+    words: [
+      { w:"faculty", ph:"/ˈfæklti/", m:"n. 全体教员;才能;系", tip:"fac(做 → 能力)+ulty → 才能;教员" },
+      { w:"fad", ph:"/fæd/", m:"n. 一时的风尚;狂热", tip:"谐音'发的':一阵风潮 → 时尚" },
+      { w:"feeble", ph:"/ˈfiːbl/", m:"adj. 虚弱的;无力的", tip:"谐音'非薄':弱不禁风 → 虚弱" },
+      { w:"fatal", ph:"/ˈfeɪtl/", m:"adj. 致命的;灾难性的", tip:"fate(命运 → 死)+al → 要命的 → 致命" },
+      { w:"ferment", ph:"/fəˈment/", m:"v. 发酵;酝酿 n. 骚动", tip:"ferm(发酵 → fervor)→ 发酵 → 酝酿" }
+    ] },
+  { id: 158,
+    en: "On {{fertile}} land, the {{fervent}} farmer would {{fetch}} water at dawn, never {{flatter}} idle hands, and tend a {{fleet}} of tractors.",
+    zh: "在{{肥沃的|fertile}}土地上,这位{{热情的|fervent}}农民会在黎明{{取来|fetch}}水、从不{{奉承|flatter}}懒人,并照管一{{队|fleet}}拖拉机。",
+    words: [
+      { w:"fertile", ph:"/ˈfɜːtaɪl/", m:"adj. 肥沃的;多产的", tip:"fer(带来 → bear)+tile → 多产 → 肥沃" },
+      { w:"fervent", ph:"/ˈfɜːvənt/", m:"adj. 热情的;炽热的", tip:"ferv(沸腾 → fervor)+ent → 火热 → 热情" },
+      { w:"fetch", ph:"/fetʃ/", m:"vt. 取来;请来;卖得", tip:"谐音'飞去':去拿来 → 取来" },
+      { w:"flatter", ph:"/ˈflætə/", m:"vt. 奉承;使高兴", tip:"flat(平 → 拍平 → 拍马)→ 奉承" },
+      { w:"fleet", ph:"/fliːt/", m:"n. 舰队;车队 adj. 快速的", tip:"float(浮)亲戚 → 一队船 → 舰队" }
+    ] },
+  { id: 159,
+    en: "With a quick {{flick}}, she would {{fling}} the door open, watch curtains {{flutter}}, and {{forge}} ahead against a {{formidable}} storm.",
+    zh: "手指轻轻一{{弹|flick}},她会猛地{{抛|fling}}开门、看着窗帘{{飘动|flutter}},并迎着{{可怕的|formidable}}风暴{{奋力前行|forge}}。",
+    words: [
+      { w:"flick", ph:"/flɪk/", m:"n./vt. 轻弹;轻拂", tip:"谐音'夫立刻':快速一弹 → 轻弹" },
+      { w:"fling", ph:"/flɪŋ/", m:"vt. 猛扔;猛动 n. 一时放纵", tip:"谐音'夫拎':一把甩出 → 猛扔" },
+      { w:"flutter", ph:"/ˈflʌtə/", m:"vi. 飘动;振翅 n. 慌乱", tip:"flit(轻飞)亲戚 → 翩翩 → 飘动" },
+      { w:"forge", ph:"/fɔːdʒ/", m:"vt. 锻造;伪造;奋进", tip:"forge(铁匠铺)→ 打铁 → 锻造;forge ahead 奋进" },
+      { w:"formidable", ph:"/fɔːˈmɪdəbl/", m:"adj. 可怕的;令人敬畏的;艰巨的", tip:"formid(怕 → fear)+able → 可怕的" }
+    ] },
+  { id: 160,
+    en: "To {{fortify}} the bank against {{fraud}}, guards check every {{fraction}} of data, recover each {{fragment}}, and calm the {{frantic}} crowd.",
+    zh: "为{{加固|fortify}}银行以防{{欺诈|fraud}},警卫核查数据的每一{{部分|fraction}}、找回每一块{{碎片|fragment}},并安抚{{疯狂的|frantic}}人群。",
+    words: [
+      { w:"fortify", ph:"/ˈfɔːtɪfaɪ/", m:"vt. 加强;设防;增强", tip:"fort(堡垒)+ify → 筑堡 → 加固" },
+      { w:"fraud", ph:"/frɔːd/", m:"n. 欺诈;骗子", tip:"谐音'否得':骗人钱财 → 欺诈" },
+      { w:"fraction", ph:"/ˈfrækʃn/", m:"n. 小部分;分数;片段", tip:"fract(断裂 fracture)+ion → 断出的一块 → 小部分" },
+      { w:"fragment", ph:"/ˈfræɡmənt/", m:"n. 碎片 v. 使破碎", tip:"frag(断 fract)+ment → 碎片" },
+      { w:"frantic", ph:"/ˈfræntɪk/", m:"adj. 疯狂的;狂乱的", tip:"谐音'夫软teak':慌乱发疯 → 疯狂" }
     ] }
 ];
