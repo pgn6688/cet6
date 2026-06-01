@@ -838,21 +838,21 @@ window.VOCAB = [
     en: "Faced with {{inconsistent}} data, the analyst stayed {{objective}}, kept her view {{coherent}}, drew a {{plausible}} conclusion, and avoided being {{biased}}.",
     zh: "面对{{前后矛盾的|inconsistent}}数据,分析师保持{{客观|objective}},让观点{{连贯|coherent}},得出{{合理的|plausible}}结论,并避免{{有偏见的|biased}}。",
     words: [
+      { w:"inconsistent", ph:"/ˌɪnkənˈsɪstənt/", m:"adj. 前后矛盾的;不一致的", tip:"in(不)+consistent(一致)→ 不一致 → 矛盾" },
       { w:"objective", ph:"/əbˈdʒektɪv/", m:"adj. 客观的 n. 目标", tip:"object(物体)→ 就事论事 → 客观" },
       { w:"coherent", ph:"/kəʊˈhɪərənt/", m:"adj. 连贯的;条理清晰的", tip:"co(共)+here(黏)→ 黏在一起 → 连贯" },
       { w:"plausible", ph:"/ˈplɔːzəbl/", m:"adj. 貌似合理的;可信的", tip:"plaus(鼓掌 applaud)→ 让人信服 → 合理" },
-      { w:"biased", ph:"/ˈbaɪəst/", m:"adj. 有偏见的", tip:"bias(偏见)+ed → 有偏见的" },
-      { w:"inconsistent", ph:"/ˌɪnkənˈsɪstənt/", m:"adj. 前后矛盾的;不一致的", tip:"in(不)+consistent(一致)→ 不一致 → 矛盾" }
+      { w:"biased", ph:"/ˈbaɪəst/", m:"adj. 有偏见的", tip:"bias(偏见)+ed → 有偏见的" }
     ] },
   { id: 85,
     en: "The startup hopes to {{succeed}} by being {{flexible}}, staying {{competitive}}, finding a {{lucrative}} niche, and keeping costs {{minimal}}.",
     zh: "这家初创公司希望通过保持{{灵活|flexible}}、保持{{有竞争力|competitive}}、找到{{利润丰厚的|lucrative}}细分市场并把成本控制到{{最低|minimal}}来{{成功|succeed}}。",
     words: [
+      { w:"succeed", ph:"/səkˈsiːd/", m:"vi. 成功;接替", tip:"suc(下)+ceed(走)→ 一路走下去 → 成功" },
       { w:"flexible", ph:"/ˈfleksəbl/", m:"adj. 灵活的;可弯曲的", tip:"flex(弯)+ible → 能弯 → 灵活" },
       { w:"competitive", ph:"/kəmˈpetətɪv/", m:"adj. 有竞争力的;竞争的", tip:"compete(竞争)+itive → 有竞争力" },
       { w:"lucrative", ph:"/ˈluːkrətɪv/", m:"adj. 利润丰厚的;赚钱的", tip:"lucr(利 → lucre 钱财)→ 赚钱的" },
-      { w:"minimal", ph:"/ˈmɪnɪml/", m:"adj. 最低限度的;极小的", tip:"mini(小)+mal → 最小的" },
-      { w:"succeed", ph:"/səkˈsiːd/", m:"vi. 成功;接替", tip:"suc(下)+ceed(走)→ 一路走下去 → 成功" }
+      { w:"minimal", ph:"/ˈmɪnɪml/", m:"adj. 最低限度的;极小的", tip:"mini(小)+mal → 最小的" }
     ] },
   { id: 86,
     en: "After the {{tragic}} accident, the family felt {{miserable}} and {{desperate}}, yet patient {{counselling}} slowly brought a sense of {{relief}}.",
