@@ -48,7 +48,7 @@
 </div>
 <script src="data/vocab.js"></script>
 <script src="data/writing.js"></script>
-<script src="data/translate.js"></script>
+<script src="data/translate.js?cb=20260605"></script>
 <script src="js/app.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
@@ -69,10 +69,16 @@ document.addEventListener('DOMContentLoaded', () => {
   setBar('writing', wTopics ? wDone / wTopics : 0);
   document.getElementById('meta-writing').textContent = `题型 ${wTopics} 类 · 练过 ${wDone}`;
 
-  const tTopics = (window.TRANSLATE && TRANSLATE.topics) ? TRANSLATE.topics.length : 0;
-  const tDone = Object.values(d.translate).filter(x => x && x.done).length;
-  setBar('translate', tTopics ? tDone / tTopics : 0);
-  document.getElementById('meta-translate').textContent = `主题 ${tTopics} 个 · 练过 ${tDone}`;
+  const T = window.TRANSLATE || {};
+  const dictCats = [...(T.wordCats || []), ...(T.phraseCats || [])];
+  const dictTotal = dictCats.reduce((a, c) => a + c.items.length, 0);
+  let dictMastered = 0;
+  dictCats.forEach(c => {
+    const st = d.translate['dw_' + c.id] || d.translate['dp_' + c.id];
+    if (st && st.mastered) dictMastered += c.items.filter(it => st.mastered.includes(it.en)).length;
+  });
+  setBar('translate', dictTotal ? dictMastered / dictTotal : 0);
+  document.getElementById('meta-translate').textContent = `默写库 ${dictTotal} 条 · 已默会 ${dictMastered}`;
 
   document.getElementById('stats').innerHTML = `
     <div class="stat"><div class="n">${touched}</div><div class="l">学过的单词</div></div>

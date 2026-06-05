@@ -208,6 +208,16 @@ h2 { font-size: 19px; margin: 28px 0 12px; }
 .cloze-input.ok { border-color: var(--green); color: var(--green); }
 .cloze-input.bad { border-color: var(--red); color: var(--red); }
 .trans-input { width: 100%; min-height: 90px; margin-top: 10px; resize: vertical; line-height: 1.7; }
+.trans-input.ok { border-color: var(--green); color: var(--green); }
+.trans-input.bad { border-color: var(--red); color: var(--red); }
+.trans-input:disabled { opacity: 1; }
+
+/* 默写例句 */
+.dz-ex { margin-top: 10px; padding: 10px 14px; background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 10px 10px 0; }
+.dz-ex .dz-ex-en { font-size: 15px; color: var(--text); }
+.dz-ex .dz-ex-zh { font-size: 13.5px; color: var(--text-dim); }
+.dz-ex .dz-ex-spk { background: none; border: 1px solid var(--border); color: var(--text-dim); border-radius: 6px; padding: 1px 7px; font-size: 12px; }
+.dz-ex .dz-ex-spk:hover { color: var(--accent); border-color: var(--accent); }
 
 .reveal { color: var(--text-dim); font-size: 14.5px; margin-top: 10px; padding: 12px 14px; background: var(--green-soft); border-radius: 10px; border:1px solid #1f4a39; }
 .reveal.hidden { display:none; }
