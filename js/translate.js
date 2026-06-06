@@ -334,8 +334,7 @@
     inp.classList.remove('ok', 'bad');
     inp.focus();                            // 不禁用,给你打字的自由
   }
-  function skip() {                          // 删除:永久移除,不再出现在任何默写
-    if (dz.phase === 'done') return next();
+  function skip() {                          // 删除:永久移除,不再出现在任何默写(答题前/答题后都可删)
     deleteItem(dz.kind, dz.item.en);
     next();
   }
