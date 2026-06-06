@@ -274,8 +274,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Tickets for the museum are available online.",
-      "zh": "博物馆门票可在网上购买。"
-     }
+      "zh": "博物馆门票可在网上购买。",
+      "mk": "购买"
+     },
+     "alt": [
+      "obtainable",
+      "accessible"
+     ]
     },
     {
      "zh": "居民;a.定居的",
@@ -283,8 +288,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Local residents take pride in their hometown culture.",
-      "zh": "当地居民为家乡文化感到自豪。"
-     }
+      "zh": "当地居民为家乡文化感到自豪。",
+      "mk": "居民"
+     },
+     "alt": [
+      "inhabitant",
+      "dweller"
+     ]
     },
     {
      "zh": "交谈,谈话",
@@ -292,8 +302,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Tea often brings people together for a relaxed conversation.",
-      "zh": "茶常让人们围坐在一起轻松交谈。"
-     }
+      "zh": "茶常让人们围坐在一起轻松交谈。",
+      "mk": "交谈"
+     },
+     "alt": [
+      "dialogue",
+      "talk",
+      "chat"
+     ]
     },
     {
      "zh": "方向,指导",
@@ -301,8 +317,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The government has set a clear direction for rural development.",
-      "zh": "政府为乡村发展指明了清晰的方向。"
-     }
+      "zh": "政府为乡村发展指明了清晰的方向。",
+      "mk": "方向"
+     },
+     "alt": [
+      "course",
+      "guidance"
+     ]
     },
     {
      "zh": "表格;一张(纸);床单",
@@ -310,8 +331,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Please fill in your information on this sheet.",
-      "zh": "请在这张表格上填写你的信息。"
-     }
+      "zh": "请在这张表格上填写你的信息。",
+      "mk": "表格"
+     },
+     "alt": [
+      "form",
+      "slip"
+     ]
     },
     {
      "zh": "符合;通信",
@@ -319,8 +345,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The English version should correspond to the original text.",
-      "zh": "英文版应与原文相符。"
-     }
+      "zh": "英文版应与原文相符。",
+      "mk": "相符"
+     },
+     "alt": [
+      "match",
+      "accord",
+      "conform"
+     ]
     },
     {
      "zh": "促进;提前;n.进步",
@@ -328,8 +360,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "High-speed rail has greatly advanced regional economic growth.",
-      "zh": "高铁极大地促进了区域经济增长。"
-     }
+      "zh": "高铁极大地促进了区域经济增长。",
+      "mk": "促进"
+     },
+     "alt": [
+      "promote",
+      "propel",
+      "boost"
+     ]
     },
     {
      "zh": "全部的;n.合计",
@@ -337,8 +375,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The bridge has a total length of over six kilometers.",
-      "zh": "这座大桥总长超过六公里。"
-     }
+      "zh": "这座大桥总长超过六公里。",
+      "mk": "总长"
+     },
+     "alt": [
+      "entire",
+      "overall",
+      "whole"
+     ]
     },
     {
      "zh": "贡献,捐献",
@@ -346,8 +390,13 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "These policies have contributed to poverty alleviation.",
-      "zh": "这些政策为脱贫做出了贡献。"
-     }
+      "zh": "这些政策为脱贫做出了贡献。",
+      "mk": "贡献"
+     },
+     "alt": [
+      "donate",
+      "give"
+     ]
     },
     {
      "zh": "单一的,单身的",
@@ -355,8 +404,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Not a single endangered species was left unprotected.",
-      "zh": "没有一种濒危物种不受保护。"
-     }
+      "zh": "没有一种濒危物种不受保护。",
+      "mk": "一种"
+     },
+     "alt": [
+      "sole",
+      "lone"
+     ]
     },
     {
      "zh": "消息,资料",
@@ -364,8 +418,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The exhibition provides rich information about Chinese history.",
-      "zh": "展览提供了丰富的中国历史信息。"
-     }
+      "zh": "展览提供了丰富的中国历史信息。",
+      "mk": "信息"
+     },
+     "alt": [
+      "data",
+      "message"
+     ]
     },
     {
      "zh": "研究,调查",
@@ -373,8 +432,13 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "Scientists conducted years of research on the new technology.",
-      "zh": "科学家对这项新技术进行了多年研究。"
-     }
+      "zh": "科学家对这项新技术进行了多年研究。",
+      "mk": "研究"
+     },
+     "alt": [
+      "study",
+      "investigation"
+     ]
     },
     {
      "zh": "经验,经历",
@@ -382,8 +446,13 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "Visitors can experience traditional folk customs here.",
-      "zh": "游客可以在这里体验传统民俗。"
-     }
+      "zh": "游客可以在这里体验传统民俗。",
+      "mk": "体验"
+     },
+     "alt": [
+      "undergo",
+      "go through"
+     ]
     },
     {
      "zh": "程序,节目",
@@ -391,8 +460,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The city launched a program to protect old neighborhoods.",
-      "zh": "该市启动了一项保护老街区的计划。"
-     }
+      "zh": "该市启动了一项保护老街区的计划。",
+      "mk": "计划"
+     },
+     "alt": [
+      "plan",
+      "scheme",
+      "project"
+     ]
     },
     {
      "zh": "鉴定,认出",
@@ -400,8 +475,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Experts helped identify the value of the cultural relics.",
-      "zh": "专家帮助鉴定了这些文物的价值。"
-     }
+      "zh": "专家帮助鉴定了这些文物的价值。",
+      "mk": "鉴定"
+     },
+     "alt": [
+      "recognize",
+      "distinguish",
+      "pinpoint"
+     ]
     },
     {
      "zh": "数码的,数字的",
@@ -409,8 +490,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Digital technology has transformed the museum experience.",
-      "zh": "数字技术改变了参观博物馆的体验。"
-     }
+      "zh": "数字技术改变了参观博物馆的体验。",
+      "mk": "数字"
+     },
+     "alt": [
+      "electronic",
+      "numerical"
+     ]
     },
     {
      "zh": "平均的;n.平均数",
@@ -418,8 +504,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The plateau has an average altitude of 3,000 meters.",
-      "zh": "该高原平均海拔3000米。"
-     }
+      "zh": "该高原平均海拔3000米。",
+      "mk": "平均"
+     },
+     "alt": [
+      "mean",
+      "ordinary",
+      "typical"
+     ]
     },
     {
      "zh": "速度,价格;v.评价",
@@ -427,8 +519,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "China's urbanization rate has risen rapidly.",
-      "zh": "中国的城镇化率快速上升。"
-     }
+      "zh": "中国的城镇化率快速上升。",
+      "mk": "城镇化率"
+     },
+     "alt": [
+      "speed",
+      "pace",
+      "ratio"
+     ]
     },
     {
      "zh": "职位,位置",
@@ -436,8 +534,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The country holds a leading position in clean energy.",
-      "zh": "该国在清洁能源领域处于领先地位。"
-     }
+      "zh": "该国在清洁能源领域处于领先地位。",
+      "mk": "地位"
+     },
+     "alt": [
+      "location",
+      "post",
+      "place"
+     ]
     },
     {
      "zh": "呼吁,恳求;申诉",
@@ -445,8 +549,14 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "Traditional handicrafts still appeal to young people.",
-      "zh": "传统手工艺品仍吸引着年轻人。"
-     }
+      "zh": "传统手工艺品仍吸引着年轻人。",
+      "mk": "吸引"
+     },
+     "alt": [
+      "attract",
+      "plead",
+      "call"
+     ]
     },
     {
      "zh": "特征,特点",
@@ -454,8 +564,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The bridge is famous for its unique aesthetic features.",
-      "zh": "这座桥以独特的美学特征闻名。"
-     }
+      "zh": "这座桥以独特的美学特征闻名。",
+      "mk": "特征"
+     },
+     "alt": [
+      "characteristic",
+      "trait",
+      "attribute"
+     ]
     },
     {
      "zh": "个人的;n.个人",
@@ -463,8 +579,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Each individual can contribute to environmental protection.",
-      "zh": "每个人都能为环境保护出一份力。"
-     }
+      "zh": "每个人都能为环境保护出一份力。",
+      "mk": "个人"
+     },
+     "alt": [
+      "person",
+      "sole"
+     ]
     },
     {
      "zh": "学术的,学院的",
@@ -472,8 +593,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The institute is known for its academic achievements.",
-      "zh": "该研究所以学术成就著称。"
-     }
+      "zh": "该研究所以学术成就著称。",
+      "mk": "学术"
+     },
+     "alt": [
+      "scholarly",
+      "educational"
+     ]
     },
     {
      "zh": "入口;接近…的方法",
@@ -481,8 +607,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "High-speed rail gives remote areas easy access to cities.",
-      "zh": "高铁让偏远地区便捷地通往城市。"
-     }
+      "zh": "高铁让偏远地区便捷地通往城市。",
+      "mk": "通往"
+     },
+     "alt": [
+      "entry",
+      "approach",
+      "admittance"
+     ]
     },
     {
      "zh": "肥胖",
@@ -491,8 +623,13 @@ window.TRANSLATE = {
      "hook": "obese(肥)→obesity,注意 -esity",
      "ex": {
       "en": "A balanced diet helps prevent childhood obesity.",
-      "zh": "均衡饮食有助于预防儿童肥胖。"
-     }
+      "zh": "均衡饮食有助于预防儿童肥胖。",
+      "mk": "肥胖"
+     },
+     "alt": [
+      "overweight",
+      "fatness"
+     ]
     },
     {
      "zh": "物品,条款,项目",
@@ -500,8 +637,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Many items at the wedding express wishes for happiness.",
-      "zh": "婚礼上许多物件都寄托着幸福的祝愿。"
-     }
+      "zh": "婚礼上许多物件都寄托着幸福的祝愿。",
+      "mk": "物件"
+     },
+     "alt": [
+      "article",
+      "object",
+      "entry"
+     ]
     },
     {
      "zh": "经济衰退",
@@ -510,8 +653,13 @@ window.TRANSLATE = {
      "hook": "re(回)+cess(走)+ion:经济往回走=衰退",
      "ex": {
       "en": "The policy helped the economy recover from recession.",
-      "zh": "该政策帮助经济走出了衰退。"
-     }
+      "zh": "该政策帮助经济走出了衰退。",
+      "mk": "衰退"
+     },
+     "alt": [
+      "downturn",
+      "slump"
+     ]
     },
     {
      "zh": "处理;n.过程,步骤",
@@ -519,8 +667,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "It takes a long process to inherit a traditional skill.",
-      "zh": "传承一项传统技艺需要漫长的过程。"
-     }
+      "zh": "传承一项传统技艺需要漫长的过程。",
+      "mk": "过程"
+     },
+     "alt": [
+      "procedure",
+      "handle",
+      "deal with"
+     ]
     },
     {
      "zh": "规章,规则",
@@ -528,8 +682,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "New regulations were issued to protect the ecosystem.",
-      "zh": "国家颁布新规以保护生态系统。"
-     }
+      "zh": "国家颁布新规以保护生态系统。",
+      "mk": "新规"
+     },
+     "alt": [
+      "rule",
+      "law"
+     ]
     },
     {
      "zh": "释放;发布",
@@ -537,8 +696,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The company released its first domestically made aircraft.",
-      "zh": "公司发布了首款国产飞机。"
-     }
+      "zh": "公司发布了首款国产飞机。",
+      "mk": "发布"
+     },
+     "alt": [
+      "free",
+      "publish",
+      "issue"
+     ]
     },
     {
      "zh": "趋向,倾向",
@@ -546,8 +711,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "More young people tend to choose green travel.",
-      "zh": "越来越多年轻人倾向于选择绿色出行。"
-     }
+      "zh": "越来越多年轻人倾向于选择绿色出行。",
+      "mk": "倾向"
+     },
+     "alt": [
+      "incline",
+      "lean",
+      "be apt to"
+     ]
     },
     {
      "zh": "促进;提升;推销",
@@ -555,8 +726,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The Nanjing Bridge played a huge role in promoting economic development.",
-      "zh": "南京长江大桥对促进经济发展起到了巨大作用。"
-     }
+      "zh": "南京长江大桥对促进经济发展起到了巨大作用。",
+      "mk": "促进"
+     },
+     "alt": [
+      "advance",
+      "boost",
+      "foster"
+     ]
     },
     {
      "zh": "影响;感动",
@@ -564,8 +741,13 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Air pollution seriously affects people's health.",
-      "zh": "空气污染严重影响人们的健康。"
-     }
+      "zh": "空气污染严重影响人们的健康。",
+      "mk": "影响"
+     },
+     "alt": [
+      "influence",
+      "impact"
+     ]
     },
     {
      "zh": "包含;牵涉",
@@ -573,8 +755,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The project involves thousands of local craftsmen.",
-      "zh": "这个项目涉及成千上万的当地手工艺人。"
-     }
+      "zh": "这个项目涉及成千上万的当地手工艺人。",
+      "mk": "涉及"
+     },
+     "alt": [
+      "include",
+      "entail",
+      "engage"
+     ]
     },
     {
      "zh": "交流;传播",
@@ -582,8 +770,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The Silk Road helped China communicate with the world.",
-      "zh": "丝绸之路帮助中国与世界交流。"
-     }
+      "zh": "丝绸之路帮助中国与世界交流。",
+      "mk": "交流"
+     },
+     "alt": [
+      "convey",
+      "exchange",
+      "interact"
+     ]
     },
     {
      "zh": "条件,状态",
@@ -591,8 +785,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Abundant resources provide good conditions for development.",
-      "zh": "丰富的资源为发展提供了良好条件。"
-     }
+      "zh": "丰富的资源为发展提供了良好条件。",
+      "mk": "条件"
+     },
+     "alt": [
+      "state",
+      "situation",
+      "circumstance"
+     ]
     },
     {
      "zh": "专业的",
@@ -600,8 +800,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Professional teams maintain the national parks.",
-      "zh": "专业团队维护着各个国家公园。"
-     }
+      "zh": "专业团队维护着各个国家公园。",
+      "mk": "专业"
+     },
+     "alt": [
+      "expert",
+      "skilled"
+     ]
     },
     {
      "zh": "引起(问题);提出",
@@ -609,8 +814,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Climate change poses a serious challenge to agriculture.",
-      "zh": "气候变化给农业带来了严峻挑战。"
-     }
+      "zh": "气候变化给农业带来了严峻挑战。",
+      "mk": "带来"
+     },
+     "alt": [
+      "present",
+      "raise",
+      "cause"
+     ]
     },
     {
      "zh": "涉及;n.担心",
@@ -618,8 +829,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Food security is a major concern for the country.",
-      "zh": "粮食安全是国家的重大关切。"
-     }
+      "zh": "粮食安全是国家的重大关切。",
+      "mk": "关切"
+     },
+     "alt": [
+      "involve",
+      "relate to",
+      "worry"
+     ]
     },
     {
      "zh": "化合物;v.合成",
@@ -627,8 +844,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The temple compound covers a large area.",
-      "zh": "这座寺庙建筑群占地广阔。"
-     }
+      "zh": "这座寺庙建筑群占地广阔。",
+      "mk": "建筑群"
+     },
+     "alt": [
+      "mixture",
+      "combine"
+     ]
     }
    ]
   },
@@ -643,8 +865,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The country adopted a people-centered approach to renewal.",
-      "zh": "该国采取以人为本的更新方式。"
-     }
+      "zh": "该国采取以人为本的更新方式。",
+      "mk": "方式"
+     },
+     "alt": [
+      "method",
+      "way",
+      "near"
+     ]
     },
     {
      "zh": "大自然;天性",
@@ -652,8 +880,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "National parks help humans live in harmony with nature.",
-      "zh": "国家公园帮助人与自然和谐共生。"
-     }
+      "zh": "国家公园帮助人与自然和谐共生。",
+      "mk": "自然"
+     },
+     "alt": [
+      "natural world",
+      "character"
+     ]
     },
     {
      "zh": "场合;时机",
@@ -661,8 +894,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The Spring Festival is an occasion for family reunion.",
-      "zh": "春节是家人团圆的时刻。"
-     }
+      "zh": "春节是家人团圆的时刻。",
+      "mk": "时刻"
+     },
+     "alt": [
+      "event",
+      "moment"
+     ]
     },
     {
      "zh": "主要的;v.主修",
@@ -670,8 +908,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Bamboo plays a major role in local people's lives.",
-      "zh": "竹子在当地人生活中扮演重要角色。"
-     }
+      "zh": "竹子在当地人生活中扮演重要角色。",
+      "mk": "重要"
+     },
+     "alt": [
+      "main",
+      "chief",
+      "primary"
+     ]
     },
     {
      "zh": "影响,冲击",
@@ -679,8 +923,13 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "The Travels of Xu Xiake had a wide impact at home and abroad.",
-      "zh": "《徐霞客游记》在国内外产生了广泛影响。"
-     }
+      "zh": "《徐霞客游记》在国内外产生了广泛影响。",
+      "mk": "影响"
+     },
+     "alt": [
+      "influence",
+      "effect"
+     ]
     },
     {
      "zh": "财政的,金融的",
@@ -688,8 +937,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The government increased financial support for elderly care.",
-      "zh": "政府加大了对养老的财政支持。"
-     }
+      "zh": "政府加大了对养老的财政支持。",
+      "mk": "财政"
+     },
+     "alt": [
+      "monetary",
+      "fiscal",
+      "economic"
+     ]
     },
     {
      "zh": "起源,来自",
@@ -697,8 +952,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Tea culture derives from thousands of years of history.",
-      "zh": "茶文化源于几千年的历史。"
-     }
+      "zh": "茶文化源于几千年的历史。",
+      "mk": "源"
+     },
+     "alt": [
+      "originate",
+      "stem",
+      "come from"
+     ]
     },
     {
      "zh": "潜力;a.潜在的",
@@ -706,8 +967,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Rural tourism has great development potential.",
-      "zh": "乡村旅游有巨大的发展潜力。"
-     }
+      "zh": "乡村旅游有巨大的发展潜力。",
+      "mk": "潜力"
+     },
+     "alt": [
+      "capacity",
+      "possibility",
+      "possible"
+     ]
     },
     {
      "zh": "大学",
@@ -715,8 +982,12 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Many universities promote science and education.",
-      "zh": "许多大学推动科教发展。"
-     }
+      "zh": "许多大学推动科教发展。",
+      "mk": "大学"
+     },
+     "alt": [
+      "college"
+     ]
     },
     {
      "zh": "功能;v.起作用",
@@ -724,8 +995,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Urban functions have been continuously improved.",
-      "zh": "城市功能不断完善。"
-     }
+      "zh": "城市功能不断完善。",
+      "mk": "功能"
+     },
+     "alt": [
+      "role",
+      "purpose",
+      "operate"
+     ]
     },
     {
      "zh": "光;v.照亮",
@@ -733,8 +1010,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Lighting firecrackers is a traditional way to sweep away ill fortune.",
-      "zh": "放鞭炮是清除厄运的传统方式。"
-     }
+      "zh": "放鞭炮是清除厄运的传统方式。",
+      "mk": "放鞭炮"
+     },
+     "alt": [
+      "lamp",
+      "illumination",
+      "illuminate"
+     ]
     },
     {
      "zh": "协会,社团",
@@ -742,8 +1025,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The craft association helps inheritors pass on their skills.",
-      "zh": "该手工艺协会帮助传承人传授技艺。"
-     }
+      "zh": "该手工艺协会帮助传承人传授技艺。",
+      "mk": "协会"
+     },
+     "alt": [
+      "organization",
+      "society",
+      "union"
+     ]
     },
     {
      "zh": "离婚",
@@ -751,8 +1040,12 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "The divorce rate has drawn growing social attention.",
-      "zh": "离婚率已引起越来越多的社会关注。"
-     }
+      "zh": "离婚率已引起越来越多的社会关注。",
+      "mk": "离婚"
+     },
+     "alt": [
+      "separation"
+     ]
     },
     {
      "zh": "创新,改革",
@@ -760,8 +1053,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Technological innovation drives high-quality development.",
-      "zh": "科技创新推动高质量发展。"
-     }
+      "zh": "科技创新推动高质量发展。",
+      "mk": "创新"
+     },
+     "alt": [
+      "invention",
+      "reform",
+      "breakthrough"
+     ]
     },
     {
      "zh": "账户;解释",
@@ -769,8 +1068,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Cultural exports account for a growing share of trade.",
-      "zh": "文化出口占贸易的份额不断增加。"
-     }
+      "zh": "文化出口占贸易的份额不断增加。",
+      "mk": "占"
+     },
+     "alt": [
+      "record",
+      "explanation"
+     ]
     },
     {
      "zh": "积极的",
@@ -778,8 +1082,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The reform has had a positive impact on the economy.",
-      "zh": "改革对经济产生了积极影响。"
-     }
+      "zh": "改革对经济产生了积极影响。",
+      "mk": "积极"
+     },
+     "alt": [
+      "optimistic",
+      "affirmative",
+      "constructive"
+     ]
     },
     {
      "zh": "参与,从事;雇佣",
@@ -787,8 +1097,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "More young entrepreneurs engage in specialty agriculture.",
-      "zh": "越来越多年轻创业者从事特色农业。"
-     }
+      "zh": "越来越多年轻创业者从事特色农业。",
+      "mk": "从事"
+     },
+     "alt": [
+      "participate",
+      "take part",
+      "involve"
+     ]
     },
     {
      "zh": "问题;v.发布",
@@ -796,8 +1112,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The country issued new standards for elderly care.",
-      "zh": "国家颁布了养老服务的新标准。"
-     }
+      "zh": "国家颁布了养老服务的新标准。",
+      "mk": "颁布"
+     },
+     "alt": [
+      "problem",
+      "matter",
+      "publish"
+     ]
     },
     {
      "zh": "当前的;流通的",
@@ -805,8 +1127,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The current policy encourages green travel.",
-      "zh": "当前的政策鼓励绿色出行。"
-     }
+      "zh": "当前的政策鼓励绿色出行。",
+      "mk": "当前的"
+     },
+     "alt": [
+      "present",
+      "ongoing"
+     ]
     },
     {
      "zh": "支持",
@@ -814,8 +1141,14 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "The state takes measures to support rural revitalization.",
-      "zh": "国家采取措施支持乡村振兴。"
-     }
+      "zh": "国家采取措施支持乡村振兴。",
+      "mk": "支持"
+     },
+     "alt": [
+      "back",
+      "sustain",
+      "assist"
+     ]
     },
     {
      "zh": "取得,获得",
@@ -823,8 +1156,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Students acquire knowledge through interactive exhibitions.",
-      "zh": "学生通过互动展览获取知识。"
-     }
+      "zh": "学生通过互动展览获取知识。",
+      "mk": "取"
+     },
+     "alt": [
+      "obtain",
+      "gain",
+      "get"
+     ]
     },
     {
      "zh": "系上,附加",
@@ -832,8 +1171,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Chinese people attach great importance to family reunion.",
-      "zh": "中国人非常重视家庭团圆。"
-     }
+      "zh": "中国人非常重视家庭团圆。",
+      "mk": "重视"
+     },
+     "alt": [
+      "fasten",
+      "append",
+      "affix"
+     ]
     },
     {
      "zh": "消费,消耗",
@@ -841,8 +1186,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "New energy vehicles greatly reduce fuel consumption.",
-      "zh": "新能源汽车大大降低了燃油消耗。"
-     }
+      "zh": "新能源汽车大大降低了燃油消耗。",
+      "mk": "消耗"
+     },
+     "alt": [
+      "use",
+      "intake",
+      "expenditure"
+     ]
     },
     {
      "zh": "坚持,保持,维修",
@@ -850,8 +1201,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The bridge's main structure remains well maintained.",
-      "zh": "大桥的主体结构保养良好。"
-     }
+      "zh": "大桥的主体结构保养良好。",
+      "mk": "保养"
+     },
+     "alt": [
+      "keep",
+      "preserve",
+      "sustain"
+     ]
     },
     {
      "zh": "一代(人)",
@@ -859,8 +1216,12 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "These customs are passed down from generation to generation.",
-      "zh": "这些习俗代代相传。"
-     }
+      "zh": "这些习俗代代相传。",
+      "mk": "代代相传"
+     },
+     "alt": [
+      "age group"
+     ]
     },
     {
      "zh": "产生,发(电)",
@@ -868,8 +1229,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The project generates many job opportunities.",
-      "zh": "该项目创造了许多就业机会。"
-     }
+      "zh": "该项目创造了许多就业机会。",
+      "mk": "创造"
+     },
+     "alt": [
+      "produce",
+      "create",
+      "yield"
+     ]
     },
     {
      "zh": "投资",
@@ -877,8 +1244,12 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The government invested heavily in public facilities.",
-      "zh": "政府大力投资公共设施。"
-     }
+      "zh": "政府大力投资公共设施。",
+      "mk": "投资"
+     },
+     "alt": [
+      "fund"
+     ]
     },
     {
      "zh": "设施,场所",
@@ -886,8 +1257,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Many cities upgraded their public service facilities.",
-      "zh": "许多城市升级了公共服务设施。"
-     }
+      "zh": "许多城市升级了公共服务设施。",
+      "mk": "设施"
+     },
+     "alt": [
+      "amenity",
+      "installation"
+     ]
     },
     {
      "zh": "标准;a.标准的",
@@ -895,8 +1271,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The country issued strict environmental standards.",
-      "zh": "国家颁布了严格的环保标准。"
-     }
+      "zh": "国家颁布了严格的环保标准。",
+      "mk": "标准"
+     },
+     "alt": [
+      "norm",
+      "criterion",
+      "benchmark"
+     ]
     },
     {
      "zh": "粘贴,戳;n.棍状物",
@@ -904,8 +1286,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Local people still stick to their traditional customs.",
-      "zh": "当地人仍坚持着传统习俗。"
-     }
+      "zh": "当地人仍坚持着传统习俗。",
+      "mk": "坚持"
+     },
+     "alt": [
+      "paste",
+      "glue",
+      "attach"
+     ]
     },
     {
      "zh": "参加",
@@ -913,8 +1301,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Thousands of people participate in the dragon boat race.",
-      "zh": "成千上万的人参加赛龙舟。"
-     }
+      "zh": "成千上万的人参加赛龙舟。",
+      "mk": "参加"
+     },
+     "alt": [
+      "take part",
+      "join",
+      "engage"
+     ]
     },
     {
      "zh": "细菌",
@@ -923,8 +1317,13 @@ window.TRANSLATE = {
      "hook": "复数形,单数 bacterium",
      "ex": {
       "en": "Fermented tea is produced with the help of bacteria.",
-      "zh": "发酵茶在细菌的作用下制成。"
-     }
+      "zh": "发酵茶在细菌的作用下制成。",
+      "mk": "细菌"
+     },
+     "alt": [
+      "germs",
+      "microbes"
+     ]
     },
     {
      "zh": "角色,性格,特点",
@@ -932,8 +1331,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Couplets describe vivid images in just a few characters.",
-      "zh": "春联用寥寥数字描绘生动的形象。"
-     }
+      "zh": "春联用寥寥数字描绘生动的形象。",
+      "mk": "数字"
+     },
+     "alt": [
+      "personality",
+      "trait",
+      "role"
+     ]
     },
     {
      "zh": "例子,情况",
@@ -941,8 +1346,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Bamboo, for instance, is used in many aspects of life.",
-      "zh": "例如,竹子被用于生活的许多方面。"
-     }
+      "zh": "例如,竹子被用于生活的许多方面。",
+      "mk": "例如"
+     },
+     "alt": [
+      "example",
+      "case"
+     ]
     },
     {
      "zh": "分配,任务",
@@ -950,8 +1360,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Protecting heritage is a shared assignment for everyone.",
-      "zh": "保护遗产是每个人共同的任务。"
-     }
+      "zh": "保护遗产是每个人共同的任务。",
+      "mk": "任务"
+     },
+     "alt": [
+      "task",
+      "mission",
+      "duty"
+     ]
     },
     {
      "zh": "私人的",
@@ -959,8 +1375,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Private enterprises play an active role in the economy.",
-      "zh": "私营企业在经济中发挥着积极作用。"
-     }
+      "zh": "私营企业在经济中发挥着积极作用。",
+      "mk": "私营"
+     },
+     "alt": [
+      "personal",
+      "individual"
+     ]
     },
     {
      "zh": "激发,激励",
@@ -968,8 +1389,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The reward system motivates farmers to innovate.",
-      "zh": "奖励制度激励农民创新。"
-     }
+      "zh": "奖励制度激励农民创新。",
+      "mk": "激励"
+     },
+     "alt": [
+      "inspire",
+      "encourage",
+      "stimulate"
+     ]
     },
     {
      "zh": "提高,促进",
@@ -977,8 +1404,14 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "E-commerce has boosted sales of rural products.",
-      "zh": "电子商务促进了农产品的销售。"
-     }
+      "zh": "电子商务促进了农产品的销售。",
+      "mk": "促进"
+     },
+     "alt": [
+      "increase",
+      "raise",
+      "promote"
+     ]
     },
     {
      "zh": "必要的,基本的",
@@ -986,8 +1419,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Water is essential to the plateau's ecosystem.",
-      "zh": "水对高原生态系统至关重要。"
-     }
+      "zh": "水对高原生态系统至关重要。",
+      "mk": "至关重要"
+     },
+     "alt": [
+      "necessary",
+      "vital",
+      "crucial"
+     ]
     },
     {
      "zh": "成分,配料,要素",
@@ -995,8 +1434,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Cooking ingredients vary greatly across China.",
-      "zh": "中国各地的烹饪原料差异很大。"
-     }
+      "zh": "中国各地的烹饪原料差异很大。",
+      "mk": "原料"
+     },
+     "alt": [
+      "component",
+      "element"
+     ]
     }
    ]
   },
@@ -1011,8 +1455,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "This year's output far exceeds previous records.",
-      "zh": "今年的产量远超以往的纪录。"
-     }
+      "zh": "今年的产量远超以往的纪录。",
+      "mk": "以往"
+     },
+     "alt": [
+      "prior",
+      "earlier",
+      "former"
+     ]
     },
     {
      "zh": "排放,散发",
@@ -1020,8 +1470,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "New energy vehicles help reduce carbon emissions.",
-      "zh": "新能源汽车有助于减少碳排放。"
-     }
+      "zh": "新能源汽车有助于减少碳排放。",
+      "mk": "排放"
+     },
+     "alt": [
+      "discharge",
+      "release"
+     ]
     },
     {
      "zh": "预算",
@@ -1029,8 +1484,12 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The country adopted a prudent budget this year.",
-      "zh": "国家今年采取了审慎的预算。"
-     }
+      "zh": "国家今年采取了审慎的预算。",
+      "mk": "预算"
+     },
+     "alt": [
+      "financial plan"
+     ]
     },
     {
      "zh": "智力,情报",
@@ -1038,8 +1497,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Artificial intelligence is applied in smart agriculture.",
-      "zh": "人工智能被应用于智慧农业。"
-     }
+      "zh": "人工智能被应用于智慧农业。",
+      "mk": "智能"
+     },
+     "alt": [
+      "intellect",
+      "wisdom"
+     ]
     },
     {
      "zh": "优秀的,杰出的",
@@ -1047,8 +1511,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "These products are favored for their excellent quality.",
-      "zh": "这些产品因质量优良而受到青睐。"
-     }
+      "zh": "这些产品因质量优良而受到青睐。",
+      "mk": "优良"
+     },
+     "alt": [
+      "outstanding",
+      "superb",
+      "brilliant"
+     ]
     },
     {
      "zh": "文件",
@@ -1056,8 +1526,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The travel notes are an important historical document.",
-      "zh": "这部游记是重要的历史文献。"
-     }
+      "zh": "这部游记是重要的历史文献。",
+      "mk": "文献"
+     },
+     "alt": [
+      "file",
+      "paper",
+      "record"
+     ]
     },
     {
      "zh": "邻居",
@@ -1065,8 +1541,12 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Good relations with neighbors promote regional peace.",
-      "zh": "与邻国的友好关系促进区域和平。"
-     }
+      "zh": "与邻国的友好关系促进区域和平。",
+      "mk": "邻国"
+     },
+     "alt": [
+      "neighbour"
+     ]
     },
     {
      "zh": "商业的",
@@ -1074,8 +1554,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The aircraft has entered commercial operation.",
-      "zh": "这架飞机已投入商业运营。"
-     }
+      "zh": "这架飞机已投入商业运营。",
+      "mk": "商业"
+     },
+     "alt": [
+      "business",
+      "trade",
+      "mercantile"
+     ]
     },
     {
      "zh": "秘书,大臣",
@@ -1084,8 +1570,12 @@ window.TRANSLATE = {
      "hook": "secret(秘密)+ary:管秘密的人=秘书",
      "ex": {
       "en": "The secretary recorded the details of the conference.",
-      "zh": "秘书记录了会议的细节。"
-     }
+      "zh": "秘书记录了会议的细节。",
+      "mk": "秘书"
+     },
+     "alt": [
+      "clerk"
+     ]
     },
     {
      "zh": "可供选择的;n.替代选择",
@@ -1093,8 +1583,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Green travel offers an alternative to private cars.",
-      "zh": "绿色出行为私家车提供了替代选择。"
-     }
+      "zh": "绿色出行为私家车提供了替代选择。",
+      "mk": "替代选择"
+     },
+     "alt": [
+      "option",
+      "choice",
+      "substitute"
+     ]
     },
     {
      "zh": "最终",
@@ -1102,8 +1598,14 @@ window.TRANSLATE = {
      "pos": "ad.",
      "ex": {
       "en": "The Beidou system ultimately achieved global coverage.",
-      "zh": "北斗系统最终实现了全球覆盖。"
-     }
+      "zh": "北斗系统最终实现了全球覆盖。",
+      "mk": "最终"
+     },
+     "alt": [
+      "finally",
+      "eventually",
+      "in the end"
+     ]
     },
     {
      "zh": "烟草",
@@ -1111,7 +1613,8 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The government raised taxes to control tobacco use.",
-      "zh": "政府提高税收以控制烟草使用。"
+      "zh": "政府提高税收以控制烟草使用。",
+      "mk": "烟草"
      }
     },
     {
@@ -1120,8 +1623,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Researchers and their colleagues overcame many difficulties.",
-      "zh": "研究人员和同事们克服了许多困难。"
-     }
+      "zh": "研究人员和同事们克服了许多困难。",
+      "mk": "同事"
+     },
+     "alt": [
+      "coworker",
+      "associate"
+     ]
     },
     {
      "zh": "革命",
@@ -1129,8 +1637,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The site witnessed a turning point in the revolution.",
-      "zh": "这处会址见证了革命的转折点。"
-     }
+      "zh": "这处会址见证了革命的转折点。",
+      "mk": "革命"
+     },
+     "alt": [
+      "uprising",
+      "upheaval"
+     ]
     },
     {
      "zh": "相互作用,交流",
@@ -1138,8 +1651,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Interactive exhibitions increase interaction with visitors.",
-      "zh": "互动展览增加了与参观者的交流。"
-     }
+      "zh": "互动展览增加了与参观者的交流。",
+      "mk": "交流"
+     },
+     "alt": [
+      "communication",
+      "exchange"
+     ]
     },
     {
      "zh": "使颠倒;a.相反的",
@@ -1147,8 +1665,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "New measures helped reverse the decline of the craft.",
-      "zh": "新举措帮助扭转了该手艺的衰落。"
-     }
+      "zh": "新举措帮助扭转了该手艺的衰落。",
+      "mk": "扭转"
+     },
+     "alt": [
+      "invert",
+      "overturn",
+      "opposite"
+     ]
     },
     {
      "zh": "权威;当局",
@@ -1156,8 +1680,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Local authorities introduced policies to protect old towns.",
-      "zh": "地方当局出台政策保护古镇。"
-     }
+      "zh": "地方当局出台政策保护古镇。",
+      "mk": "当局"
+     },
+     "alt": [
+      "power",
+      "command",
+      "expert"
+     ]
     },
     {
      "zh": "耗尽;n.废气",
@@ -1166,8 +1696,14 @@ window.TRANSLATE = {
      "hook": "ex+haust,中间 au,易漏 h",
      "ex": {
       "en": "Electric cars produce no exhaust while running.",
-      "zh": "电动汽车行驶时不排放废气。"
-     }
+      "zh": "电动汽车行驶时不排放废气。",
+      "mk": "废气"
+     },
+     "alt": [
+      "use up",
+      "deplete",
+      "drain"
+     ]
     },
     {
      "zh": "取消",
@@ -1175,8 +1711,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Bad weather forced the dragon boat race to be cancelled.",
-      "zh": "恶劣天气迫使赛龙舟取消。"
-     }
+      "zh": "恶劣天气迫使赛龙舟取消。",
+      "mk": "取消"
+     },
+     "alt": [
+      "call off",
+      "abolish",
+      "revoke"
+     ]
     },
     {
      "zh": "课程",
@@ -1185,8 +1727,13 @@ window.TRANSLATE = {
      "hook": "双 r,-ulum 结尾(拉丁词)",
      "ex": {
       "en": "Traditional culture has been added to the school curriculum.",
-      "zh": "传统文化已被纳入学校课程。"
-     }
+      "zh": "传统文化已被纳入学校课程。",
+      "mk": "课程"
+     },
+     "alt": [
+      "course",
+      "syllabus"
+     ]
     },
     {
      "zh": "拒绝",
@@ -1194,8 +1741,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The committee rejected the unrealistic proposal.",
-      "zh": "委员会否决了不切实际的提案。"
-     }
+      "zh": "委员会否决了不切实际的提案。",
+      "mk": "否决"
+     },
+     "alt": [
+      "refuse",
+      "decline",
+      "turn down"
+     ]
     },
     {
      "zh": "家庭的,国内的",
@@ -1203,8 +1756,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Domestic demand drives industrial upgrading.",
-      "zh": "国内需求推动产业升级。"
-     }
+      "zh": "国内需求推动产业升级。",
+      "mk": "国内"
+     },
+     "alt": [
+      "home",
+      "internal",
+      "national"
+     ]
     },
     {
      "zh": "转移,调任",
@@ -1212,8 +1771,14 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "High-speed rail makes it easy to transfer between cities.",
-      "zh": "高铁让城市间换乘十分便捷。"
-     }
+      "zh": "高铁让城市间换乘十分便捷。",
+      "mk": "换乘"
+     },
+     "alt": [
+      "move",
+      "shift",
+      "relocate"
+     ]
     },
     {
      "zh": "食欲,爱好",
@@ -1222,8 +1787,14 @@ window.TRANSLATE = {
      "hook": "app+et+ite,双 p",
      "ex": {
       "en": "The festival food whets everyone's appetite.",
-      "zh": "节日美食勾起了大家的食欲。"
-     }
+      "zh": "节日美食勾起了大家的食欲。",
+      "mk": "食欲"
+     },
+     "alt": [
+      "hunger",
+      "craving",
+      "desire"
+     ]
     },
     {
      "zh": "原则,原理",
@@ -1231,8 +1802,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Harmony with nature is a guiding principle of the parks.",
-      "zh": "与自然和谐是这些公园的指导原则。"
-     }
+      "zh": "与自然和谐是这些公园的指导原则。",
+      "mk": "原则"
+     },
+     "alt": [
+      "rule",
+      "doctrine",
+      "tenet"
+     ]
     },
     {
      "zh": "保留,预定",
@@ -1240,8 +1817,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The area was set up as a nature reserve.",
-      "zh": "该地区被设为自然保护区。"
-     }
+      "zh": "该地区被设为自然保护区。",
+      "mk": "保护区"
+     },
+     "alt": [
+      "book",
+      "retain",
+      "keep"
+     ]
     },
     {
      "zh": "配偶",
@@ -1249,8 +1832,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Couples and their spouses gather for the reunion dinner.",
-      "zh": "夫妻和家人共聚团圆饭。"
-     }
+      "zh": "夫妻和家人共聚团圆饭。",
+      "mk": "夫妻"
+     },
+     "alt": [
+      "partner",
+      "mate"
+     ]
     },
     {
      "zh": "前景",
@@ -1258,8 +1846,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Smart agriculture has broad prospects in China.",
-      "zh": "智慧农业在中国前景广阔。"
-     }
+      "zh": "智慧农业在中国前景广阔。",
+      "mk": "前景"
+     },
+     "alt": [
+      "outlook",
+      "future",
+      "expectation"
+     ]
     },
     {
      "zh": "怀疑;n.嫌疑犯",
@@ -1267,8 +1861,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Experts suspect the relic dates back over a thousand years.",
-      "zh": "专家推测这件文物可追溯到一千多年前。"
-     }
+      "zh": "专家推测这件文物可追溯到一千多年前。",
+      "mk": "推测"
+     },
+     "alt": [
+      "doubt",
+      "suppose",
+      "presume"
+     ]
     },
     {
      "zh": "追求,追逐",
@@ -1276,8 +1876,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Many scholars pursued knowledge despite hardship.",
-      "zh": "许多文人不畏艰难追求学问。"
-     }
+      "zh": "许多文人不畏艰难追求学问。",
+      "mk": "追求"
+     },
+     "alt": [
+      "chase",
+      "seek",
+      "strive for"
+     ]
     },
     {
      "zh": "公司的,团体的",
@@ -1285,8 +1891,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Corporate investment boosted the local economy.",
-      "zh": "企业投资带动了当地经济。"
-     }
+      "zh": "企业投资带动了当地经济。",
+      "mk": "企业"
+     },
+     "alt": [
+      "company",
+      "business"
+     ]
     },
     {
      "zh": "日志,期刊",
@@ -1294,8 +1905,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "His travel journal had a wide influence.",
-      "zh": "他的游记产生了广泛影响。"
-     }
+      "zh": "他的游记产生了广泛影响。",
+      "mk": "游记"
+     },
+     "alt": [
+      "diary",
+      "periodical",
+      "magazine"
+     ]
     },
     {
      "zh": "四分之一;一刻钟",
@@ -1303,8 +1920,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Sales rose sharply in the last quarter.",
-      "zh": "上一季度销量大幅上升。"
-     }
+      "zh": "上一季度销量大幅上升。",
+      "mk": "季度"
+     },
+     "alt": [
+      "fourth",
+      "district"
+     ]
     },
     {
      "zh": "突出;n.亮点",
@@ -1312,8 +1934,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The horizontal scroll highlights the theme of the couplets.",
-      "zh": "横批凸显了春联的主题。"
-     }
+      "zh": "横批凸显了春联的主题。",
+      "mk": "凸显"
+     },
+     "alt": [
+      "emphasize",
+      "stress",
+      "underline"
+     ]
     },
     {
      "zh": "合同;v.订合同",
@@ -1321,8 +1949,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The two sides signed a long-term contract.",
-      "zh": "双方签订了长期合同。"
-     }
+      "zh": "双方签订了长期合同。",
+      "mk": "合同"
+     },
+     "alt": [
+      "agreement",
+      "deal"
+     ]
     },
     {
      "zh": "管理,行政",
@@ -1330,8 +1963,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The reform improved the level of public administration.",
-      "zh": "改革提升了公共管理水平。"
-     }
+      "zh": "改革提升了公共管理水平。",
+      "mk": "管理"
+     },
+     "alt": [
+      "management",
+      "governance"
+     ]
     },
     {
      "zh": "刺激,激励",
@@ -1339,8 +1977,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The policy stimulated the development of rural tourism.",
-      "zh": "该政策刺激了乡村旅游的发展。"
-     }
+      "zh": "该政策刺激了乡村旅游的发展。",
+      "mk": "刺激"
+     },
+     "alt": [
+      "encourage",
+      "motivate",
+      "spur"
+     ]
     },
     {
      "zh": "惩罚",
@@ -1348,8 +1992,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Strict penalties protect endangered species.",
-      "zh": "严厉的处罚保护了濒危物种。"
-     }
+      "zh": "严厉的处罚保护了濒危物种。",
+      "mk": "处罚"
+     },
+     "alt": [
+      "punishment",
+      "fine"
+     ]
     },
     {
      "zh": "灵活的",
@@ -1357,8 +2006,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The new system offers more flexible services.",
-      "zh": "新系统提供更灵活的服务。"
-     }
+      "zh": "新系统提供更灵活的服务。",
+      "mk": "灵活的"
+     },
+     "alt": [
+      "adaptable",
+      "adjustable",
+      "versatile"
+     ]
     },
     {
      "zh": "敏感的,体贴的",
@@ -1366,8 +2021,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The ecosystem here is especially sensitive.",
-      "zh": "这里的生态系统格外脆弱敏感。"
-     }
+      "zh": "这里的生态系统格外脆弱敏感。",
+      "mk": "敏感"
+     },
+     "alt": [
+      "delicate",
+      "susceptible",
+      "considerate"
+     ]
     }
    ]
   },
@@ -1382,7 +2043,8 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Tea should be brewed at the right temperature.",
-      "zh": "泡茶应使用适宜的水温。"
+      "zh": "泡茶应使用适宜的水温。",
+      "mk": "水温"
      }
     },
     {
@@ -1392,8 +2054,14 @@ window.TRANSLATE = {
      "hook": "per+cept(抓)+ion:抓到=感知",
      "ex": {
       "en": "The exhibition changed visitors' perception of history.",
-      "zh": "展览改变了参观者对历史的看法。"
-     }
+      "zh": "展览改变了参观者对历史的看法。",
+      "mk": "看法"
+     },
+     "alt": [
+      "understanding",
+      "view",
+      "awareness"
+     ]
     },
     {
      "zh": "文学",
@@ -1401,8 +2069,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Bamboo inspired splendid literature and paintings.",
-      "zh": "竹子激发了绚丽的文学和绘画作品。"
-     }
+      "zh": "竹子激发了绚丽的文学和绘画作品。",
+      "mk": "文学"
+     },
+     "alt": [
+      "writings",
+      "works"
+     ]
     },
     {
      "zh": "脆弱的,易受伤的",
@@ -1411,8 +2084,14 @@ window.TRANSLATE = {
      "hook": "vulner(伤)+able:可被伤=脆弱",
      "ex": {
       "en": "The plateau's environment is highly vulnerable.",
-      "zh": "高原的环境十分脆弱。"
-     }
+      "zh": "高原的环境十分脆弱。",
+      "mk": "脆弱"
+     },
+     "alt": [
+      "weak",
+      "fragile",
+      "susceptible"
+     ]
     },
     {
      "zh": "结果,成果",
@@ -1420,8 +2099,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The reform produced remarkable outcomes.",
-      "zh": "改革取得了显著的成果。"
-     }
+      "zh": "改革取得了显著的成果。",
+      "mk": "成果"
+     },
+     "alt": [
+      "result",
+      "consequence",
+      "effect"
+     ]
     },
     {
      "zh": "大型会议",
@@ -1429,8 +2114,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The First National Congress was a historic conference.",
-      "zh": "一大是一次具有历史意义的大会。"
-     }
+      "zh": "一大是一次具有历史意义的大会。",
+      "mk": "大会"
+     },
+     "alt": [
+      "meeting",
+      "summit"
+     ]
     },
     {
      "zh": "收缩,退缩",
@@ -1438,8 +2128,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Without protection, the habitat would shrink quickly.",
-      "zh": "没有保护,栖息地会迅速缩小。"
-     }
+      "zh": "没有保护,栖息地会迅速缩小。",
+      "mk": "缩小"
+     },
+     "alt": [
+      "contract",
+      "dwindle",
+      "diminish"
+     ]
     },
     {
      "zh": "装修,装饰",
@@ -1447,8 +2143,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "People decorate their homes during the Spring Festival.",
-      "zh": "人们在春节期间装饰家居。"
-     }
+      "zh": "人们在春节期间装饰家居。",
+      "mk": "装饰"
+     },
+     "alt": [
+      "adorn",
+      "ornament",
+      "embellish"
+     ]
     },
     {
      "zh": "学期;一段时间",
@@ -1456,8 +2158,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The training session helped farmers learn new skills.",
-      "zh": "这次培训帮助农民学习新技能。"
-     }
+      "zh": "这次培训帮助农民学习新技能。",
+      "mk": "培训"
+     },
+     "alt": [
+      "period",
+      "term"
+     ]
     },
     {
      "zh": "限制,约束",
@@ -1465,8 +2172,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Regulations restrict construction in protected areas.",
-      "zh": "法规限制在保护区内施工。"
-     }
+      "zh": "法规限制在保护区内施工。",
+      "mk": "限制"
+     },
+     "alt": [
+      "limit",
+      "confine",
+      "constrain"
+     ]
     },
     {
      "zh": "部分;v.分配",
@@ -1474,8 +2187,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "A large portion of the income comes from tourism.",
-      "zh": "收入的很大一部分来自旅游业。"
-     }
+      "zh": "收入的很大一部分来自旅游业。",
+      "mk": "部分"
+     },
+     "alt": [
+      "part",
+      "share",
+      "segment"
+     ]
     },
     {
      "zh": "冻结,严寒",
@@ -1483,8 +2202,13 @@ window.TRANSLATE = {
      "pos": "n.v.",
      "ex": {
       "en": "The high altitude causes the lake to freeze in winter.",
-      "zh": "高海拔使湖面在冬天结冰。"
-     }
+      "zh": "高海拔使湖面在冬天结冰。",
+      "mk": "结冰"
+     },
+     "alt": [
+      "ice over",
+      "chill"
+     ]
     },
     {
      "zh": "质量,品质",
@@ -1492,8 +2216,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The reform greatly improved people's quality of life.",
-      "zh": "改革极大提高了人们的生活质量。"
-     }
+      "zh": "改革极大提高了人们的生活质量。",
+      "mk": "质量"
+     },
+     "alt": [
+      "standard",
+      "caliber",
+      "property"
+     ]
     },
     {
      "zh": "划分,部门",
@@ -1501,8 +2231,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The division of labor improved production efficiency.",
-      "zh": "分工提高了生产效率。"
-     }
+      "zh": "分工提高了生产效率。",
+      "mk": "分工"
+     },
+     "alt": [
+      "split",
+      "partition",
+      "department"
+     ]
     },
     {
      "zh": "支撑,维持",
@@ -1510,8 +2246,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Abundant resources sustain the region's development.",
-      "zh": "丰富的资源支撑着该地区的发展。"
-     }
+      "zh": "丰富的资源支撑着该地区的发展。",
+      "mk": "支撑"
+     },
+     "alt": [
+      "maintain",
+      "support",
+      "uphold"
+     ]
     },
     {
      "zh": "糖尿病",
@@ -1520,7 +2262,8 @@ window.TRANSLATE = {
      "hook": "dia+betes,结尾 -tes",
      "ex": {
       "en": "A healthy diet helps prevent diabetes.",
-      "zh": "健康饮食有助于预防糖尿病。"
+      "zh": "健康饮食有助于预防糖尿病。",
+      "mk": "糖尿病"
      }
     },
     {
@@ -1529,8 +2272,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The site is a typical Shanghai-style residential estate.",
-      "zh": "这处会址是典型的上海式住宅。"
-     }
+      "zh": "这处会址是典型的上海式住宅。",
+      "mk": "住宅"
+     },
+     "alt": [
+      "property",
+      "land"
+     ]
     },
     {
      "zh": "发展,进化",
@@ -1538,8 +2286,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The custom has evolved over thousands of years.",
-      "zh": "这一习俗历经千年演变。"
-     }
+      "zh": "这一习俗历经千年演变。",
+      "mk": "演变"
+     },
+     "alt": [
+      "develop",
+      "progress",
+      "advance"
+     ]
     },
     {
      "zh": "容量,能力",
@@ -1547,8 +2301,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The new port has a huge handling capacity.",
-      "zh": "新港口拥有巨大的吞吐能力。"
-     }
+      "zh": "新港口拥有巨大的吞吐能力。",
+      "mk": "能力"
+     },
+     "alt": [
+      "ability",
+      "capability",
+      "volume"
+     ]
     },
     {
      "zh": "环境,情况",
@@ -1557,8 +2317,13 @@ window.TRANSLATE = {
      "hook": "circum(周围)+stance(站):周围情况",
      "ex": {
       "en": "People adapt their customs to local circumstances.",
-      "zh": "人们因地制宜地调整习俗。"
-     }
+      "zh": "人们因地制宜地调整习俗。",
+      "mk": "因地制宜"
+     },
+     "alt": [
+      "situation",
+      "condition"
+     ]
     },
     {
      "zh": "涂鸦",
@@ -1567,7 +2332,8 @@ window.TRANSLATE = {
      "hook": "双 f 单 t,意大利外来词",
      "ex": {
       "en": "Ancient carvings differ greatly from modern graffiti.",
-      "zh": "古代石刻与现代涂鸦大不相同。"
+      "zh": "古代石刻与现代涂鸦大不相同。",
+      "mk": "涂鸦"
      }
     },
     {
@@ -1576,8 +2342,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The museum offers a new perspective on history.",
-      "zh": "博物馆提供了看待历史的新视角。"
-     }
+      "zh": "博物馆提供了看待历史的新视角。",
+      "mk": "视角"
+     },
+     "alt": [
+      "viewpoint",
+      "angle",
+      "outlook"
+     ]
     },
     {
      "zh": "严重的,严厉的",
@@ -1585,8 +2357,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Researchers solved a series of severe problems.",
-      "zh": "研究人员解决了一系列严重问题。"
-     }
+      "zh": "研究人员解决了一系列严重问题。",
+      "mk": "严重"
+     },
+     "alt": [
+      "serious",
+      "harsh",
+      "stern"
+     ]
     },
     {
      "zh": "初级的,基础的",
@@ -1594,8 +2372,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Traditional culture is taught from elementary school.",
-      "zh": "传统文化从小学就开始教授。"
-     }
+      "zh": "传统文化从小学就开始教授。",
+      "mk": "小学"
+     },
+     "alt": [
+      "basic",
+      "primary",
+      "fundamental"
+     ]
     },
     {
      "zh": "制造",
@@ -1604,8 +2388,14 @@ window.TRANSLATE = {
      "hook": "manu(手)+fact(做):手做→制造",
      "ex": {
       "en": "China can now manufacture large passenger aircraft.",
-      "zh": "中国现在能够制造大型客机。"
-     }
+      "zh": "中国现在能够制造大型客机。",
+      "mk": "制造"
+     },
+     "alt": [
+      "produce",
+      "make",
+      "fabricate"
+     ]
     },
     {
      "zh": "收入,税收",
@@ -1613,8 +2403,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Tourism brings considerable revenue to the region.",
-      "zh": "旅游业为该地区带来可观的收入。"
-     }
+      "zh": "旅游业为该地区带来可观的收入。",
+      "mk": "收入"
+     },
+     "alt": [
+      "income",
+      "earnings",
+      "proceeds"
+     ]
     },
     {
      "zh": "正直,诚实;完整",
@@ -1623,8 +2419,13 @@ window.TRANSLATE = {
      "hook": "integr(完整)+ity:完整→正直",
      "ex": {
       "en": "The bridge's main structure keeps its integrity today.",
-      "zh": "大桥的主体结构至今保持完好。"
-     }
+      "zh": "大桥的主体结构至今保持完好。",
+      "mk": "完好"
+     },
+     "alt": [
+      "honesty",
+      "uprightness"
+     ]
     },
     {
      "zh": "理性的,合理的",
@@ -1632,8 +2433,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The government made a rational use of resources.",
-      "zh": "政府合理利用了资源。"
-     }
+      "zh": "政府合理利用了资源。",
+      "mk": "合理"
+     },
+     "alt": [
+      "reasonable",
+      "logical",
+      "sensible"
+     ]
     },
     {
      "zh": "边缘;利润;余地",
@@ -1641,8 +2448,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The company kept a healthy profit margin.",
-      "zh": "公司保持了良好的利润空间。"
-     }
+      "zh": "公司保持了良好的利润空间。",
+      "mk": "利润"
+     },
+     "alt": [
+      "edge",
+      "border",
+      "profit"
+     ]
     },
     {
      "zh": "往返班车;航天飞机",
@@ -1650,7 +2463,8 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The space shuttle marked a leap in space technology.",
-      "zh": "航天飞机标志着航天技术的飞跃。"
+      "zh": "航天飞机标志着航天技术的飞跃。",
+      "mk": "航天飞机"
      }
     },
     {
@@ -1659,7 +2473,8 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Engineers overcame difficulties to build the tunnel.",
-      "zh": "工程师克服困难修建了隧道。"
+      "zh": "工程师克服困难修建了隧道。",
+      "mk": "隧道"
      }
     },
     {
@@ -1668,8 +2483,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The project required a massive amount of investment.",
-      "zh": "该工程需要大量投资。"
-     }
+      "zh": "该工程需要大量投资。",
+      "mk": "大量"
+     },
+     "alt": [
+      "huge",
+      "enormous",
+      "immense"
+     ]
     },
     {
      "zh": "长寿,寿命",
@@ -1678,8 +2499,12 @@ window.TRANSLATE = {
      "hook": "long(长)+ev(年)+ity=长寿",
      "ex": {
       "en": "The peach is a traditional symbol of longevity.",
-      "zh": "桃子是长寿的传统象征。"
-     }
+      "zh": "桃子是长寿的传统象征。",
+      "mk": "长寿"
+     },
+     "alt": [
+      "long life"
+     ]
     },
     {
      "zh": "免疫的,不受影响的",
@@ -1687,8 +2512,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The bridge proved immune to floods and earthquakes.",
-      "zh": "大桥经受住了洪水和地震的考验。"
-     }
+      "zh": "大桥经受住了洪水和地震的考验。",
+      "mk": "经受住"
+     },
+     "alt": [
+      "resistant",
+      "protected"
+     ]
     },
     {
      "zh": "估计,估算",
@@ -1696,8 +2526,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Experts estimate the temple is over a thousand years old.",
-      "zh": "专家估计这座寺庙有一千多年历史。"
-     }
+      "zh": "专家估计这座寺庙有一千多年历史。",
+      "mk": "估计"
+     },
+     "alt": [
+      "calculate",
+      "gauge",
+      "reckon"
+     ]
     },
     {
      "zh": "营养",
@@ -1706,8 +2542,12 @@ window.TRANSLATE = {
      "hook": "nutri(滋养)+tion",
      "ex": {
       "en": "Zongzi provides rich nutrition during the festival.",
-      "zh": "粽子在节日里提供丰富的营养。"
-     }
+      "zh": "粽子在节日里提供丰富的营养。",
+      "mk": "营养"
+     },
+     "alt": [
+      "nourishment"
+     ]
     },
     {
      "zh": "培养,栽培",
@@ -1715,8 +2555,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Drinking tea helps cultivate one's mind.",
-      "zh": "饮茶有助于修身养性。"
-     }
+      "zh": "饮茶有助于修身养性。",
+      "mk": "修身养性"
+     },
+     "alt": [
+      "nurture",
+      "foster",
+      "grow"
+     ]
     },
     {
      "zh": "而且,此外",
@@ -1724,8 +2570,14 @@ window.TRANSLATE = {
      "pos": "ad.",
      "ex": {
       "en": "The bridge is strong; moreover, it is beautiful.",
-      "zh": "这座桥坚固,而且十分美观。"
-     }
+      "zh": "这座桥坚固,而且十分美观。",
+      "mk": "而且"
+     },
+     "alt": [
+      "besides",
+      "furthermore",
+      "in addition"
+     ]
     },
     {
      "zh": "对应的人/物",
@@ -1734,8 +2586,13 @@ window.TRANSLATE = {
      "hook": "counter(对)+part(部分)=对应物",
      "ex": {
       "en": "Chinese tea differs from its Western counterparts.",
-      "zh": "中国茶与西方的同类饮品不同。"
-     }
+      "zh": "中国茶与西方的同类饮品不同。",
+      "mk": "同类"
+     },
+     "alt": [
+      "equivalent",
+      "peer"
+     ]
     },
     {
      "zh": "歧视;区别",
@@ -1744,8 +2601,13 @@ window.TRANSLATE = {
      "hook": "dis+crimin(分辨)+ation",
      "ex": {
       "en": "The policy aims to end discrimination in employment.",
-      "zh": "该政策旨在消除就业歧视。"
-     }
+      "zh": "该政策旨在消除就业歧视。",
+      "mk": "歧视"
+     },
+     "alt": [
+      "prejudice",
+      "bias"
+     ]
     }
    ]
   },
@@ -1760,8 +2622,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The site has become a permanent memorial.",
-      "zh": "这处会址已成为永久的纪念馆。"
-     }
+      "zh": "这处会址已成为永久的纪念馆。",
+      "mk": "永久的"
+     },
+     "alt": [
+      "lasting",
+      "enduring",
+      "perpetual"
+     ]
     },
     {
      "zh": "家具",
@@ -1769,7 +2637,8 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The residence still keeps its old-style furniture.",
-      "zh": "这处住宅仍保留着旧式家具。"
+      "zh": "这处住宅仍保留着旧式家具。",
+      "mk": "家具"
      }
     },
     {
@@ -1779,7 +2648,8 @@ window.TRANSLATE = {
      "hook": "in+flat(吹气)+ion:吹胀=通胀",
      "ex": {
       "en": "A prudent policy kept inflation under control.",
-      "zh": "审慎的政策使通货膨胀得到控制。"
+      "zh": "审慎的政策使通货膨胀得到控制。",
+      "mk": "通货膨胀"
      }
     },
     {
@@ -1788,8 +2658,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The Silk Road promoted commerce along its route.",
-      "zh": "丝绸之路促进了沿线的商业。"
-     }
+      "zh": "丝绸之路促进了沿线的商业。",
+      "mk": "商业"
+     },
+     "alt": [
+      "trade",
+      "business"
+     ]
     },
     {
      "zh": "承认;答谢",
@@ -1798,8 +2673,14 @@ window.TRANSLATE = {
      "hook": "ac+knowledge(知道):知道并承认",
      "ex": {
       "en": "The world acknowledges China's progress in space.",
-      "zh": "世界承认中国在航天领域的进步。"
-     }
+      "zh": "世界承认中国在航天领域的进步。",
+      "mk": "承认"
+     },
+     "alt": [
+      "admit",
+      "recognize",
+      "accept"
+     ]
     },
     {
      "zh": "定义,清晰度",
@@ -1807,8 +2688,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Digital screens show relics in high definition.",
-      "zh": "数字屏幕以高清呈现文物。"
-     }
+      "zh": "数字屏幕以高清呈现文物。",
+      "mk": "高清"
+     },
+     "alt": [
+      "meaning",
+      "explanation"
+     ]
     },
     {
      "zh": "遗产,传统",
@@ -1816,8 +2702,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The Grand Canal is a precious cultural heritage.",
-      "zh": "大运河是宝贵的文化遗产。"
-     }
+      "zh": "大运河是宝贵的文化遗产。",
+      "mk": "遗产"
+     },
+     "alt": [
+      "legacy",
+      "inheritance",
+      "tradition"
+     ]
     },
     {
      "zh": "欣赏,感谢",
@@ -1825,8 +2717,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Visitors come to appreciate the charming scenery.",
-      "zh": "游客前来欣赏迷人的风光。"
-     }
+      "zh": "游客前来欣赏迷人的风光。",
+      "mk": "欣赏"
+     },
+     "alt": [
+      "value",
+      "cherish",
+      "be grateful"
+     ]
     },
     {
      "zh": "大气,气氛",
@@ -1834,8 +2732,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Red lanterns create a joyous atmosphere.",
-      "zh": "红灯笼营造出喜庆的气氛。"
-     }
+      "zh": "红灯笼营造出喜庆的气氛。",
+      "mk": "气氛"
+     },
+     "alt": [
+      "ambiance",
+      "mood",
+      "air"
+     ]
     },
     {
      "zh": "犯(错);承诺",
@@ -1843,8 +2747,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The country is committed to protecting biodiversity.",
-      "zh": "国家致力于保护生物多样性。"
-     }
+      "zh": "国家致力于保护生物多样性。",
+      "mk": "致力于"
+     },
+     "alt": [
+      "carry out",
+      "perpetrate",
+      "pledge"
+     ]
     },
     {
      "zh": "足够的",
@@ -1853,8 +2763,14 @@ window.TRANSLATE = {
      "hook": "suf+fic(做)+ient,双 f",
      "ex": {
       "en": "Yunnan has sufficient water resources.",
-      "zh": "云南拥有充足的水资源。"
-     }
+      "zh": "云南拥有充足的水资源。",
+      "mk": "充足"
+     },
+     "alt": [
+      "enough",
+      "adequate",
+      "ample"
+     ]
     },
     {
      "zh": "阻碍,妨碍",
@@ -1862,8 +2778,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Poor infrastructure once hindered rural development.",
-      "zh": "落后的基础设施曾阻碍乡村发展。"
-     }
+      "zh": "落后的基础设施曾阻碍乡村发展。",
+      "mk": "阻碍"
+     },
+     "alt": [
+      "hamper",
+      "impede",
+      "obstruct"
+     ]
     },
     {
      "zh": "百分比",
@@ -1871,8 +2793,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "A large percentage of energy now comes from clean sources.",
-      "zh": "如今很大比例的能源来自清洁能源。"
-     }
+      "zh": "如今很大比例的能源来自清洁能源。",
+      "mk": "比例"
+     },
+     "alt": [
+      "proportion",
+      "ratio"
+     ]
     },
     {
      "zh": "口译,解释",
@@ -1880,8 +2807,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Guides help visitors interpret the cultural relics.",
-      "zh": "讲解员帮助游客解读文物。"
-     }
+      "zh": "讲解员帮助游客解读文物。",
+      "mk": "解读"
+     },
+     "alt": [
+      "explain",
+      "construe",
+      "translate"
+     ]
     },
     {
      "zh": "学院,研究所",
@@ -1889,8 +2822,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The institute conducts research on aircraft design.",
-      "zh": "该研究所从事飞机设计研究。"
-     }
+      "zh": "该研究所从事飞机设计研究。",
+      "mk": "研究所"
+     },
+     "alt": [
+      "academy",
+      "institution"
+     ]
     },
     {
      "zh": "展示,证明",
@@ -1898,8 +2836,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The project demonstrates China's technological strength.",
-      "zh": "该工程展示了中国的技术实力。"
-     }
+      "zh": "该工程展示了中国的技术实力。",
+      "mk": "展示"
+     },
+     "alt": [
+      "show",
+      "prove",
+      "illustrate"
+     ]
     },
     {
      "zh": "戏剧性的",
@@ -1907,8 +2851,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The city has undergone dramatic changes in recent years.",
-      "zh": "近年来这座城市发生了巨大变化。"
-     }
+      "zh": "近年来这座城市发生了巨大变化。",
+      "mk": "巨大"
+     },
+     "alt": [
+      "striking",
+      "remarkable",
+      "drastic"
+     ]
     },
     {
      "zh": "专家",
@@ -1916,8 +2866,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Specialists were invited to restore the ancient site.",
-      "zh": "专家受邀修复这处古迹。"
-     }
+      "zh": "专家受邀修复这处古迹。",
+      "mk": "专家"
+     },
+     "alt": [
+      "expert",
+      "professional"
+     ]
     },
     {
      "zh": "履行,实现",
@@ -1925,8 +2880,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The system finally fulfilled its goal of global coverage.",
-      "zh": "该系统最终实现了全球覆盖的目标。"
-     }
+      "zh": "该系统最终实现了全球覆盖的目标。",
+      "mk": "实现"
+     },
+     "alt": [
+      "accomplish",
+      "achieve",
+      "realize"
+     ]
     },
     {
      "zh": "一集,插曲",
@@ -1934,8 +2895,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Zhang Qian's mission is a famous episode in history.",
-      "zh": "张骞出使是历史上著名的一段。"
-     }
+      "zh": "张骞出使是历史上著名的一段。",
+      "mk": "一段"
+     },
+     "alt": [
+      "installment",
+      "incident"
+     ]
     },
     {
      "zh": "多样的;n.倍数",
@@ -1943,8 +2909,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Bamboo serves multiple purposes in daily life.",
-      "zh": "竹子在日常生活中有多种用途。"
-     }
+      "zh": "竹子在日常生活中有多种用途。",
+      "mk": "多种"
+     },
+     "alt": [
+      "numerous",
+      "various",
+      "manifold"
+     ]
     },
     {
      "zh": "紧张",
@@ -1952,8 +2924,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Cultural exchange helps ease tension between nations.",
-      "zh": "文化交流有助于缓解国家间的紧张关系。"
-     }
+      "zh": "文化交流有助于缓解国家间的紧张关系。",
+      "mk": "紧张"
+     },
+     "alt": [
+      "strain",
+      "stress",
+      "pressure"
+     ]
     },
     {
      "zh": "分心,娱乐",
@@ -1961,8 +2939,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Modern gadgets can be a source of distraction.",
-      "zh": "现代电子产品可能让人分心。"
-     }
+      "zh": "现代电子产品可能让人分心。",
+      "mk": "分心"
+     },
+     "alt": [
+      "diversion",
+      "interruption"
+     ]
     },
     {
      "zh": "密度,浓度",
@@ -1970,8 +2953,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The region has a low population density.",
-      "zh": "该地区人口密度较低。"
-     }
+      "zh": "该地区人口密度较低。",
+      "mk": "密度"
+     },
+     "alt": [
+      "thickness",
+      "concentration"
+     ]
     },
     {
      "zh": "普遍的",
@@ -1979,8 +2967,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Respecting the elderly is a universal virtue.",
-      "zh": "尊老是一种普遍的美德。"
-     }
+      "zh": "尊老是一种普遍的美德。",
+      "mk": "普遍的"
+     },
+     "alt": [
+      "general",
+      "common",
+      "widespread"
+     ]
     },
     {
      "zh": "认知的",
@@ -1988,8 +2982,13 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "Interactive learning supports children's cognitive growth.",
-      "zh": "互动学习促进儿童认知发展。"
-     }
+      "zh": "互动学习促进儿童认知发展。",
+      "mk": "认知"
+     },
+     "alt": [
+      "mental",
+      "intellectual"
+     ]
     },
     {
      "zh": "混乱,失调",
@@ -1997,8 +2996,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "The reform brought order to a system once in disorder.",
-      "zh": "改革使曾经混乱的体制走上正轨。"
-     }
+      "zh": "改革使曾经混乱的体制走上正轨。",
+      "mk": "混乱"
+     },
+     "alt": [
+      "chaos",
+      "confusion",
+      "ailment"
+     ]
     },
     {
      "zh": "逮捕,捕捉",
@@ -2006,8 +3011,14 @@ window.TRANSLATE = {
      "pos": "v.n.",
      "ex": {
       "en": "The photos captured the lake's stunning beauty.",
-      "zh": "这些照片捕捉到了湖泊的绝美。"
-     }
+      "zh": "这些照片捕捉到了湖泊的绝美。",
+      "mk": "捕捉"
+     },
+     "alt": [
+      "catch",
+      "seize",
+      "arrest"
+     ]
     },
     {
      "zh": "减轻,缓解",
@@ -2015,8 +3026,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "New facilities relieve the pressure of elderly care.",
-      "zh": "新设施缓解了养老的压力。"
-     }
+      "zh": "新设施缓解了养老的压力。",
+      "mk": "缓解"
+     },
+     "alt": [
+      "ease",
+      "alleviate",
+      "soothe"
+     ]
     },
     {
      "zh": "谈判,协商",
@@ -2024,8 +3041,13 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The two sides negotiated a trade agreement.",
-      "zh": "双方谈判达成了贸易协议。"
-     }
+      "zh": "双方谈判达成了贸易协议。",
+      "mk": "谈判"
+     },
+     "alt": [
+      "bargain",
+      "discuss"
+     ]
     },
     {
      "zh": "儿科医生",
@@ -2034,7 +3056,8 @@ window.TRANSLATE = {
      "hook": "pedia(儿)+trician(医师)",
      "ex": {
       "en": "The clinic added a pediatrician for local children.",
-      "zh": "诊所为当地儿童增设了儿科医生。"
+      "zh": "诊所为当地儿童增设了儿科医生。",
+      "mk": "儿科医生"
      }
     },
     {
@@ -2043,8 +3066,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Pollution could undermine the fragile ecosystem.",
-      "zh": "污染可能逐渐削弱脆弱的生态系统。"
-     }
+      "zh": "污染可能逐渐削弱脆弱的生态系统。",
+      "mk": "逐渐削弱"
+     },
+     "alt": [
+      "weaken",
+      "erode",
+      "sabotage"
+     ]
     },
     {
      "zh": "小配件,小器具",
@@ -2052,8 +3081,14 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Smart gadgets are now common in modern farming.",
-      "zh": "智能设备如今在现代农业中很常见。"
-     }
+      "zh": "智能设备如今在现代农业中很常见。",
+      "mk": "设备"
+     },
+     "alt": [
+      "device",
+      "gizmo",
+      "tool"
+     ]
     },
     {
      "zh": "极好的",
@@ -2061,8 +3096,14 @@ window.TRANSLATE = {
      "pos": "a.",
      "ex": {
       "en": "The bridge is a marvelous feat of engineering.",
-      "zh": "这座桥是了不起的工程奇迹。"
-     }
+      "zh": "这座桥是了不起的工程奇迹。",
+      "mk": "了不起"
+     },
+     "alt": [
+      "wonderful",
+      "splendid",
+      "fantastic"
+     ]
     },
     {
      "zh": "纪律,训练",
@@ -2070,8 +3111,13 @@ window.TRANSLATE = {
      "pos": "n.",
      "ex": {
       "en": "Self-improvement requires discipline and effort.",
-      "zh": "自强自立需要纪律与努力。"
-     }
+      "zh": "自强自立需要纪律与努力。",
+      "mk": "纪律"
+     },
+     "alt": [
+      "self-control",
+      "training"
+     ]
     },
     {
      "zh": "积累",
@@ -2079,8 +3125,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "The country has accumulated rich experience in space.",
-      "zh": "该国在航天领域积累了丰富经验。"
-     }
+      "zh": "该国在航天领域积累了丰富经验。",
+      "mk": "积累"
+     },
+     "alt": [
+      "amass",
+      "gather",
+      "build up"
+     ]
     },
     {
      "zh": "把…归因于",
@@ -2088,8 +3140,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Experts attribute the success to years of research.",
-      "zh": "专家把成功归因于多年的研究。"
-     }
+      "zh": "专家把成功归因于多年的研究。",
+      "mk": "归因于"
+     },
+     "alt": [
+      "ascribe",
+      "credit",
+      "assign"
+     ]
     },
     {
      "zh": "污染",
@@ -2097,8 +3155,14 @@ window.TRANSLATE = {
      "pos": "v.",
      "ex": {
       "en": "Strict rules prevent the river from being contaminated.",
-      "zh": "严格的规定防止河流被污染。"
-     }
+      "zh": "严格的规定防止河流被污染。",
+      "mk": "污染"
+     },
+     "alt": [
+      "pollute",
+      "taint",
+      "infect"
+     ]
     }
    ]
   },
@@ -2112,7 +3176,8 @@ window.TRANSLATE = {
      "en": "traditional",
      "ex": {
       "en": "Couplets are a traditional decoration for the Spring Festival.",
-      "zh": "春联是春节的传统装饰。"
+      "zh": "春联是春节的传统装饰。",
+      "mk": "传统"
      }
     },
     {
@@ -2120,39 +3185,62 @@ window.TRANSLATE = {
      "en": "celebrate",
      "ex": {
       "en": "Families gather to celebrate the Spring Festival.",
-      "zh": "家家户户团聚庆祝春节。"
-     }
+      "zh": "家家户户团聚庆祝春节。",
+      "mk": "庆祝"
+     },
+     "alt": [
+      "observe",
+      "commemorate"
+     ]
     },
     {
      "zh": "装饰",
      "en": "decorate",
      "ex": {
       "en": "People decorate their homes during the Spring Festival.",
-      "zh": "人们在春节期间装饰家居。"
-     }
+      "zh": "人们在春节期间装饰家居。",
+      "mk": "装饰"
+     },
+     "alt": [
+      "adorn",
+      "ornament",
+      "embellish"
+     ]
     },
     {
      "zh": "增强",
      "en": "enhance",
      "ex": {
       "en": "The festival enhances the bond among family members.",
-      "zh": "节日增进了家庭成员间的情感。"
-     }
+      "zh": "节日增进了家庭成员间的情感。",
+      "mk": "增进"
+     },
+     "alt": [
+      "improve",
+      "strengthen",
+      "boost"
+     ]
     },
     {
      "zh": "民间的",
      "en": "folk",
      "ex": {
       "en": "Folk music is an important intangible cultural heritage.",
-      "zh": "民间音乐是重要的非物质文化遗产。"
-     }
+      "zh": "民间音乐是重要的非物质文化遗产。",
+      "mk": "民间"
+     },
+     "alt": [
+      "traditional",
+      "popular"
+     ]
     },
     {
      "zh": "喜庆的气氛",
      "en": "the joyous atmosphere",
      "ex": {
       "en": "Red lanterns add to the joyous atmosphere.",
-      "zh": "红灯笼增添了喜庆的气氛。"
+      "zh": "红灯笼增添了喜庆的气氛。",
+      "mk": "喜庆的气氛"
      }
     },
     {
@@ -2160,7 +3248,8 @@ window.TRANSLATE = {
      "en": "the Spring Festival",
      "ex": {
       "en": "The Spring Festival is the most important traditional festival in China.",
-      "zh": "春节是中国最重要的传统节日。"
+      "zh": "春节是中国最重要的传统节日。",
+      "mk": "春节"
      }
     },
     {
@@ -2168,7 +3257,8 @@ window.TRANSLATE = {
      "en": "the New Year's Eve",
      "ex": {
       "en": "Families have a reunion dinner on the New Year's Eve.",
-      "zh": "除夕之夜全家共吃团圆饭。"
+      "zh": "除夕之夜全家共吃团圆饭。",
+      "mk": "除夕"
      }
     },
     {
@@ -2176,7 +3266,8 @@ window.TRANSLATE = {
      "en": "couplets",
      "ex": {
       "en": "People paste couplets on both sides of the door.",
-      "zh": "人们在门两侧贴上对联。"
+      "zh": "人们在门两侧贴上对联。",
+      "mk": "对联"
      }
     },
     {
@@ -2184,7 +3275,8 @@ window.TRANSLATE = {
      "en": "money in red envelopes",
      "ex": {
       "en": "Elders give children money in red envelopes.",
-      "zh": "长辈给孩子们红包。"
+      "zh": "长辈给孩子们红包。",
+      "mk": "红包"
      }
     },
     {
@@ -2192,7 +3284,8 @@ window.TRANSLATE = {
      "en": "lucky money",
      "ex": {
       "en": "Children receive lucky money during the Spring Festival.",
-      "zh": "孩子们在春节收到压岁钱。"
+      "zh": "孩子们在春节收到压岁钱。",
+      "mk": "压岁钱"
      }
     },
     {
@@ -2200,23 +3293,34 @@ window.TRANSLATE = {
      "en": "gather",
      "ex": {
       "en": "Family members gather from all over the country.",
-      "zh": "家人从各地团聚而来。"
-     }
+      "zh": "家人从各地团聚而来。",
+      "mk": "团聚"
+     },
+     "alt": [
+      "assemble",
+      "congregate"
+     ]
     },
     {
      "zh": "团圆",
      "en": "reunion",
      "ex": {
       "en": "The Spring Festival is a time for family reunion.",
-      "zh": "春节是家人团圆的时刻。"
-     }
+      "zh": "春节是家人团圆的时刻。",
+      "mk": "团圆"
+     },
+     "alt": [
+      "gathering",
+      "get-together"
+     ]
     },
     {
      "zh": "放鞭炮",
      "en": "lighting firecrackers",
      "ex": {
       "en": "Lighting firecrackers is believed to sweep away ill fortune.",
-      "zh": "放鞭炮被认为能清除厄运。"
+      "zh": "放鞭炮被认为能清除厄运。",
+      "mk": "放鞭炮"
      }
     },
     {
@@ -2224,7 +3328,8 @@ window.TRANSLATE = {
      "en": "sweep away ill fortune",
      "ex": {
       "en": "The custom is meant to sweep away ill fortune.",
-      "zh": "这一习俗意在清除厄运。"
+      "zh": "这一习俗意在清除厄运。",
+      "mk": "清除厄运"
      }
     },
     {
@@ -2235,7 +3340,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Red symbolizes good fortune and happiness.",
-      "zh": "红色象征好运与幸福。"
+      "zh": "红色象征好运与幸福。",
+      "mk": "好运"
      }
     },
     {
@@ -2243,7 +3349,8 @@ window.TRANSLATE = {
      "en": "ward off",
      "ex": {
       "en": "Firecrackers are set off to ward off evil spirits.",
-      "zh": "燃放鞭炮以驱除邪祟。"
+      "zh": "燃放鞭炮以驱除邪祟。",
+      "mk": "驱除"
      }
     },
     {
@@ -2251,7 +3358,8 @@ window.TRANSLATE = {
      "en": "visit relatives and friends",
      "ex": {
       "en": "People visit relatives and friends during the holiday.",
-      "zh": "人们在假期走亲访友。"
+      "zh": "人们在假期走亲访友。",
+      "mk": "走亲访友"
      }
     },
     {
@@ -2259,7 +3367,8 @@ window.TRANSLATE = {
      "en": "festival",
      "ex": {
       "en": "The Dragon Boat Festival is a representative Chinese festival.",
-      "zh": "端午节是有代表性的中国节日。"
+      "zh": "端午节是有代表性的中国节日。",
+      "mk": "节日"
      }
     },
     {
@@ -2267,7 +3376,8 @@ window.TRANSLATE = {
      "en": "annual",
      "ex": {
       "en": "The dragon boat race has become an annual event.",
-      "zh": "赛龙舟已成为一年一度的盛事。"
+      "zh": "赛龙舟已成为一年一度的盛事。",
+      "mk": "一年一度"
      }
     }
    ]
@@ -2282,7 +3392,8 @@ window.TRANSLATE = {
      "en": "the Four Great Inventions",
      "ex": {
       "en": "The Four Great Inventions greatly influenced the world.",
-      "zh": "四大发明极大地影响了世界。"
+      "zh": "四大发明极大地影响了世界。",
+      "mk": "四大发明"
      }
     },
     {
@@ -2290,7 +3401,8 @@ window.TRANSLATE = {
      "en": "handicraft",
      "ex": {
       "en": "Traditional handicrafts are favored by overseas consumers.",
-      "zh": "传统手工艺品受到海外消费者青睐。"
+      "zh": "传统手工艺品受到海外消费者青睐。",
+      "mk": "手工艺品"
      }
     },
     {
@@ -2298,7 +3410,8 @@ window.TRANSLATE = {
      "en": "handicraftsmen",
      "ex": {
       "en": "Skilled handicraftsmen pass on their techniques to apprentices.",
-      "zh": "技艺精湛的手工艺人将技艺传给徒弟。"
+      "zh": "技艺精湛的手工艺人将技艺传给徒弟。",
+      "mk": "手工艺人"
      }
     },
     {
@@ -2307,7 +3420,8 @@ window.TRANSLATE = {
      "hook": "em+broider(绣)+y",
      "ex": {
       "en": "Chinese embroidery is famous for its delicate patterns.",
-      "zh": "中国刺绣以精致的图案闻名。"
+      "zh": "中国刺绣以精致的图案闻名。",
+      "mk": "刺绣"
      }
     },
     {
@@ -2316,7 +3430,8 @@ window.TRANSLATE = {
      "hook": "calli(美)+graphy(写)=书法",
      "ex": {
       "en": "Calligraphy is regarded as a unique Chinese art.",
-      "zh": "书法被视为中国独特的艺术。"
+      "zh": "书法被视为中国独特的艺术。",
+      "mk": "书法"
      }
     },
     {
@@ -2324,7 +3439,8 @@ window.TRANSLATE = {
      "en": "painting",
      "ex": {
       "en": "Bamboo is a common theme in Chinese painting.",
-      "zh": "竹子是中国绘画常见的主题。"
+      "zh": "竹子是中国绘画常见的主题。",
+      "mk": "绘画"
      }
     },
     {
@@ -2332,7 +3448,8 @@ window.TRANSLATE = {
      "en": "opera",
      "ex": {
       "en": "Local operas reflect the customs of different regions.",
-      "zh": "地方戏曲反映了不同地区的风俗。"
+      "zh": "地方戏曲反映了不同地区的风俗。",
+      "mk": "戏曲"
      }
     },
     {
@@ -2340,7 +3457,8 @@ window.TRANSLATE = {
      "en": "the Silk Road",
      "ex": {
       "en": "Zhang Qian opened up the Silk Road to the West.",
-      "zh": "张骞开辟了通往西方的丝绸之路。"
+      "zh": "张骞开辟了通往西方的丝绸之路。",
+      "mk": "丝绸之路"
      }
     },
     {
@@ -2348,7 +3466,8 @@ window.TRANSLATE = {
      "en": "art",
      "ex": {
       "en": "Tea making is regarded as an art in China.",
-      "zh": "制茶在中国被视为一门艺术。"
+      "zh": "制茶在中国被视为一门艺术。",
+      "mk": "艺术"
      }
     },
     {
@@ -2356,7 +3475,8 @@ window.TRANSLATE = {
      "en": "artistic",
      "ex": {
       "en": "The bridge is admired for its artistic features.",
-      "zh": "这座桥因其艺术特色而受赞赏。"
+      "zh": "这座桥因其艺术特色而受赞赏。",
+      "mk": "艺术"
      }
     },
     {
@@ -2364,18 +3484,27 @@ window.TRANSLATE = {
      "en": "represent",
      "ex": {
       "en": "Red represents luck, and gold represents wealth.",
-      "zh": "红色象征幸运,金色象征财富。"
-     }
+      "zh": "红色象征幸运,金色象征财富。",
+      "mk": "象征"
+     },
+     "alt": [
+      "stand for",
+      "symbolize"
+     ]
     },
     {
      "zh": "象征",
      "en": "symbolize",
      "alt": [
-      "symbol"
+      "symbol",
+      "represent",
+      "stand for",
+      "embody"
      ],
      "ex": {
       "en": "The dragon symbolizes power and good fortune.",
-      "zh": "龙象征着权力与好运。"
+      "zh": "龙象征着权力与好运。",
+      "mk": "象征"
      }
     },
     {
@@ -2383,15 +3512,22 @@ window.TRANSLATE = {
      "en": "spread",
      "ex": {
       "en": "Tea culture gradually spread along the Silk Road.",
-      "zh": "茶文化沿丝绸之路逐渐传播。"
-     }
+      "zh": "茶文化沿丝绸之路逐渐传播。",
+      "mk": "传播"
+     },
+     "alt": [
+      "disseminate",
+      "propagate",
+      "diffuse"
+     ]
     },
     {
      "zh": "仪式",
      "en": "ceremony",
      "ex": {
       "en": "The wedding ceremony follows traditional customs.",
-      "zh": "婚礼仪式遵循传统习俗。"
+      "zh": "婚礼仪式遵循传统习俗。",
+      "mk": "仪式"
      }
     },
     {
@@ -2399,7 +3535,8 @@ window.TRANSLATE = {
      "en": "legend",
      "ex": {
       "en": "Many legends are passed down about the festival.",
-      "zh": "关于这个节日流传着许多传说。"
+      "zh": "关于这个节日流传着许多传说。",
+      "mk": "传说"
      }
     },
     {
@@ -2407,15 +3544,22 @@ window.TRANSLATE = {
      "en": "originate",
      "ex": {
       "en": "Tea is said to have originated in ancient China.",
-      "zh": "据说茶起源于古代中国。"
-     }
+      "zh": "据说茶起源于古代中国。",
+      "mk": "起源于"
+     },
+     "alt": [
+      "stem",
+      "derive",
+      "arise"
+     ]
     },
     {
      "zh": "祖先",
      "en": "ancestor",
      "ex": {
       "en": "People honor their ancestors during the festival.",
-      "zh": "人们在节日里祭拜祖先。"
+      "zh": "人们在节日里祭拜祖先。",
+      "mk": "祖先"
      }
     },
     {
@@ -2423,7 +3567,8 @@ window.TRANSLATE = {
      "en": "dynasty",
      "ex": {
       "en": "Seals have been used since ancient dynasties.",
-      "zh": "印章自古代各朝就已使用。"
+      "zh": "印章自古代各朝就已使用。",
+      "mk": "各朝"
      }
     },
     {
@@ -2431,7 +3576,8 @@ window.TRANSLATE = {
      "en": "descendants of the dragon",
      "ex": {
       "en": "Chinese people call themselves descendants of the dragon.",
-      "zh": "中国人自称龙的传人。"
+      "zh": "中国人自称龙的传人。",
+      "mk": "龙的传人"
      }
     },
     {
@@ -2439,8 +3585,14 @@ window.TRANSLATE = {
      "en": "unique",
      "ex": {
       "en": "Each ethnic minority has its own unique customs.",
-      "zh": "每个少数民族都有自己独特的习俗。"
-     }
+      "zh": "每个少数民族都有自己独特的习俗。",
+      "mk": "独特"
+     },
+     "alt": [
+      "distinctive",
+      "unparalleled",
+      "one-of-a-kind"
+     ]
     }
    ]
   },
@@ -2454,7 +3606,8 @@ window.TRANSLATE = {
      "en": "area",
      "ex": {
       "en": "The plateau covers an area of about 2.3 million square kilometers.",
-      "zh": "该高原面积约230万平方公里。"
+      "zh": "该高原面积约230万平方公里。",
+      "mk": "面积"
      }
     },
     {
@@ -2465,7 +3618,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Yunnan is famous for its diverse natural landscapes.",
-      "zh": "云南以多样的自然景观闻名。"
+      "zh": "云南以多样的自然景观闻名。",
+      "mk": "自然景观"
      }
     },
     {
@@ -2473,7 +3627,8 @@ window.TRANSLATE = {
      "en": "charming scenery",
      "ex": {
       "en": "The lake attracts tourists with its charming scenery.",
-      "zh": "湖泊以迷人的风光吸引游客。"
+      "zh": "湖泊以迷人的风光吸引游客。",
+      "mk": "迷人的风光"
      }
     },
     {
@@ -2481,7 +3636,8 @@ window.TRANSLATE = {
      "en": "mineral resources",
      "ex": {
       "en": "Yunnan is rich in mineral resources.",
-      "zh": "云南矿产资源丰富。"
+      "zh": "云南矿产资源丰富。",
+      "mk": "矿产资源"
      }
     },
     {
@@ -2489,11 +3645,13 @@ window.TRANSLATE = {
      "en": "abundant",
      "alt": [
       "rich",
-      "plentiful"
+      "plentiful",
+      "ample"
      ],
      "ex": {
       "en": "Qinghai is known for its abundant water resources.",
-      "zh": "青海以丰富的水资源闻名。"
+      "zh": "青海以丰富的水资源闻名。",
+      "mk": "丰富的"
      }
     },
     {
@@ -2501,29 +3659,41 @@ window.TRANSLATE = {
      "en": "distinctive",
      "ex": {
       "en": "The region has many distinctive natural attractions.",
-      "zh": "该地区有许多特有的自然景观。"
-     }
+      "zh": "该地区有许多特有的自然景观。",
+      "mk": "特有的"
+     },
+     "alt": [
+      "unique",
+      "distinct",
+      "special"
+     ]
     },
     {
      "zh": "多样的",
      "en": "various",
      "alt": [
-      "diverse"
+      "diverse",
+      "varied",
+      "manifold"
      ],
      "ex": {
       "en": "China takes various measures to protect the ecosystem.",
-      "zh": "中国采取各种措施保护生态系统。"
+      "zh": "中国采取各种措施保护生态系统。",
+      "mk": "各种"
      }
     },
     {
      "zh": "无数的",
      "en": "countless",
      "alt": [
-      "numerous"
+      "numerous",
+      "innumerable",
+      "myriad"
      ],
      "ex": {
       "en": "Countless scholars created works with bamboo as the theme.",
-      "zh": "无数文人以竹为主题创作作品。"
+      "zh": "无数文人以竹为主题创作作品。",
+      "mk": "无数"
      }
     },
     {
@@ -2531,7 +3701,8 @@ window.TRANSLATE = {
      "en": "local",
      "ex": {
       "en": "The festival reflects rich local culture.",
-      "zh": "这个节日体现了丰富的乡土文化。"
+      "zh": "这个节日体现了丰富的乡土文化。",
+      "mk": "乡土"
      }
     },
     {
@@ -2542,7 +3713,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Qinghai Lake is one of the most popular tourist attractions.",
-      "zh": "青海湖是最受欢迎的旅游景点之一。"
+      "zh": "青海湖是最受欢迎的旅游景点之一。",
+      "mk": "旅游景点"
      }
     },
     {
@@ -2553,7 +3725,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Offering tea to guests is a sign of courtesy.",
-      "zh": "向客人奉茶是一种礼貌。"
+      "zh": "向客人奉茶是一种礼貌。",
+      "mk": "礼貌"
      }
     },
     {
@@ -2562,7 +3735,8 @@ window.TRANSLATE = {
      "hook": "hospital(招待)+ity=好客",
      "ex": {
       "en": "Chinese people are known for their hospitality.",
-      "zh": "中国人以热情好客著称。"
+      "zh": "中国人以热情好客著称。",
+      "mk": "热情好客"
      }
     },
     {
@@ -2570,7 +3744,8 @@ window.TRANSLATE = {
      "en": "ethnic minorities",
      "ex": {
       "en": "Yunnan is home to many ethnic minorities.",
-      "zh": "云南居住着许多少数民族。"
+      "zh": "云南居住着许多少数民族。",
+      "mk": "少数民族"
      }
     },
     {
@@ -2581,7 +3756,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Tourists come from afar to enjoy the scenery.",
-      "zh": "游客从远方赶来欣赏风景。"
+      "zh": "游客从远方赶来欣赏风景。",
+      "mk": "风景"
      }
     },
     {
@@ -2589,7 +3765,8 @@ window.TRANSLATE = {
      "en": "cradle",
      "ex": {
       "en": "The Yellow River is regarded as the cradle of Chinese civilization.",
-      "zh": "黄河被视为中华文明的摇篮。"
+      "zh": "黄河被视为中华文明的摇篮。",
+      "mk": "摇篮"
      }
     },
     {
@@ -2597,7 +3774,8 @@ window.TRANSLATE = {
      "en": "paradise",
      "ex": {
       "en": "The lake is a paradise for photographers and artists.",
-      "zh": "这片湖泊是摄影师和艺术家的天堂。"
+      "zh": "这片湖泊是摄影师和艺术家的天堂。",
+      "mk": "天堂"
      }
     },
     {
@@ -2605,7 +3783,8 @@ window.TRANSLATE = {
      "en": "birthplace",
      "ex": {
       "en": "This region is the birthplace of an ancient culture.",
-      "zh": "该地区是一种古老文化的发源地。"
+      "zh": "该地区是一种古老文化的发源地。",
+      "mk": "发源地"
      }
     },
     {
@@ -2613,7 +3792,8 @@ window.TRANSLATE = {
      "en": "habitat",
      "ex": {
       "en": "National parks protect the habitat of rare animals.",
-      "zh": "国家公园保护珍稀动物的栖息地。"
+      "zh": "国家公园保护珍稀动物的栖息地。",
+      "mk": "栖息地"
      }
     },
     {
@@ -2621,7 +3801,8 @@ window.TRANSLATE = {
      "en": "average altitude",
      "ex": {
       "en": "Qinghai has an average altitude of over 3,000 meters.",
-      "zh": "青海平均海拔超过3000米。"
+      "zh": "青海平均海拔超过3000米。",
+      "mk": "平均海拔"
      }
     },
     {
@@ -2630,7 +3811,8 @@ window.TRANSLATE = {
      "hook": "bio(生物)+diversity(多样)",
      "ex": {
       "en": "The park plays a key role in biodiversity conservation.",
-      "zh": "该公园在生物多样性保护中起关键作用。"
+      "zh": "该公园在生物多样性保护中起关键作用。",
+      "mk": "生物多样性"
      }
     }
    ]
@@ -2645,7 +3827,8 @@ window.TRANSLATE = {
      "en": "opening-up reform",
      "ex": {
       "en": "Since the opening-up reform, China's economy has grown rapidly.",
-      "zh": "改革开放以来,中国经济迅速增长。"
+      "zh": "改革开放以来,中国经济迅速增长。",
+      "mk": "改革开放"
      }
     },
     {
@@ -2653,7 +3836,8 @@ window.TRANSLATE = {
      "en": "joint venture",
      "ex": {
       "en": "The factory was set up as a joint venture.",
-      "zh": "这家工厂以合资企业的形式建立。"
+      "zh": "这家工厂以合资企业的形式建立。",
+      "mk": "合资企业"
      }
     },
     {
@@ -2661,7 +3845,8 @@ window.TRANSLATE = {
      "en": "private enterprise",
      "ex": {
       "en": "Private enterprises create many job opportunities.",
-      "zh": "私营企业创造了许多就业机会。"
+      "zh": "私营企业创造了许多就业机会。",
+      "mk": "私营企业"
      }
     },
     {
@@ -2669,7 +3854,8 @@ window.TRANSLATE = {
      "en": "purchasing power",
      "ex": {
       "en": "Rising incomes have increased people's purchasing power.",
-      "zh": "收入增长提高了人们的购买力。"
+      "zh": "收入增长提高了人们的购买力。",
+      "mk": "购买力"
      }
     },
     {
@@ -2678,7 +3864,8 @@ window.TRANSLATE = {
      "hook": "in+flat(吹气)+ion:吹胀=通胀",
      "ex": {
       "en": "A prudent policy kept inflation under control.",
-      "zh": "审慎的政策使通货膨胀得到控制。"
+      "zh": "审慎的政策使通货膨胀得到控制。",
+      "mk": "通货膨胀"
      }
     },
     {
@@ -2686,15 +3873,20 @@ window.TRANSLATE = {
      "en": "budget",
      "ex": {
       "en": "The country adopted a prudent budget this year.",
-      "zh": "国家今年采取了审慎的预算。"
-     }
+      "zh": "国家今年采取了审慎的预算。",
+      "mk": "预算"
+     },
+     "alt": [
+      "financial plan"
+     ]
     },
     {
      "zh": "资金",
      "en": "capital",
      "ex": {
       "en": "The project attracted a large amount of capital.",
-      "zh": "该项目吸引了大量资金。"
+      "zh": "该项目吸引了大量资金。",
+      "mk": "资金"
      }
     },
     {
@@ -2702,7 +3894,8 @@ window.TRANSLATE = {
      "en": "social welfare",
      "ex": {
       "en": "The reform improved the social welfare system.",
-      "zh": "改革完善了社会福利体系。"
+      "zh": "改革完善了社会福利体系。",
+      "mk": "社会福利"
      }
     },
     {
@@ -2710,7 +3903,8 @@ window.TRANSLATE = {
      "en": "fiscal",
      "ex": {
       "en": "The government adopted a prudent fiscal policy.",
-      "zh": "政府采取了审慎的财政政策。"
+      "zh": "政府采取了审慎的财政政策。",
+      "mk": "财政"
      }
     },
     {
@@ -2718,7 +3912,8 @@ window.TRANSLATE = {
      "en": "fair competition",
      "ex": {
       "en": "The market encourages fair competition among firms.",
-      "zh": "市场鼓励企业间的公平竞争。"
+      "zh": "市场鼓励企业间的公平竞争。",
+      "mk": "公平竞争"
      }
     },
     {
@@ -2726,7 +3921,8 @@ window.TRANSLATE = {
      "en": "make ends meet",
      "ex": {
       "en": "Better policies help low-income families make ends meet.",
-      "zh": "更好的政策帮助低收入家庭收支平衡。"
+      "zh": "更好的政策帮助低收入家庭收支平衡。",
+      "mk": "收支平衡"
      }
     },
     {
@@ -2734,7 +3930,8 @@ window.TRANSLATE = {
      "en": "labor-intensive industry",
      "ex": {
       "en": "The region is shifting away from labor-intensive industries.",
-      "zh": "该地区正逐步摆脱劳动密集型产业。"
+      "zh": "该地区正逐步摆脱劳动密集型产业。",
+      "mk": "劳动密集型产业"
      }
     },
     {
@@ -2742,7 +3939,8 @@ window.TRANSLATE = {
      "en": "technology-intensive industry",
      "ex": {
       "en": "China is developing more technology-intensive industries.",
-      "zh": "中国正在发展更多技术密集型产业。"
+      "zh": "中国正在发展更多技术密集型产业。",
+      "mk": "技术密集型产业"
      }
     },
     {
@@ -2750,7 +3948,8 @@ window.TRANSLATE = {
      "en": "e-commerce",
      "ex": {
       "en": "E-commerce has helped millions out of poverty.",
-      "zh": "电子商务帮助数百万人脱贫。"
+      "zh": "电子商务帮助数百万人脱贫。",
+      "mk": "电子商务"
      }
     },
     {
@@ -2758,7 +3957,8 @@ window.TRANSLATE = {
      "en": "retailer",
      "ex": {
       "en": "Online retailers favor products with Chinese elements.",
-      "zh": "网络零售商青睐有中国元素的产品。"
+      "zh": "网络零售商青睐有中国元素的产品。",
+      "mk": "零售商"
      }
     },
     {
@@ -2766,7 +3966,8 @@ window.TRANSLATE = {
      "en": "platform",
      "ex": {
       "en": "The festival has become an important platform for exchange.",
-      "zh": "这个节日成为重要的交流平台。"
+      "zh": "这个节日成为重要的交流平台。",
+      "mk": "平台"
      }
     },
     {
@@ -2777,7 +3978,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Chinese cultural goods are exported around the world.",
-      "zh": "中国文化商品远销世界各地。"
+      "zh": "中国文化商品远销世界各地。",
+      "mk": "商品"
      }
     },
     {
@@ -2788,7 +3990,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "China's exports have surpassed those of many countries.",
-      "zh": "中国的出口已超越许多国家。"
+      "zh": "中国的出口已超越许多国家。",
+      "mk": "超越"
      }
     },
     {
@@ -2796,7 +3999,8 @@ window.TRANSLATE = {
      "en": "sustainable development",
      "ex": {
       "en": "Water resources support the region's sustainable development.",
-      "zh": "水资源支撑着该地区的可持续发展。"
+      "zh": "水资源支撑着该地区的可持续发展。",
+      "mk": "可持续发展"
      }
     },
     {
@@ -2805,7 +4009,8 @@ window.TRANSLATE = {
      "hook": "infra(下)+structure(结构)=基础设施",
      "ex": {
       "en": "The government invested heavily in infrastructure.",
-      "zh": "政府大力投资基础设施。"
+      "zh": "政府大力投资基础设施。",
+      "mk": "基础设施"
      }
     }
    ]
@@ -2821,7 +4026,8 @@ window.TRANSLATE = {
      "hook": "patriot(爱国者)+ism",
      "ex": {
       "en": "The site is a base for patriotism education.",
-      "zh": "这处会址是爱国主义教育基地。"
+      "zh": "这处会址是爱国主义教育基地。",
+      "mk": "爱国主义"
      }
     },
     {
@@ -2829,7 +4035,8 @@ window.TRANSLATE = {
      "en": "patriotic",
      "ex": {
       "en": "The memorial inspires patriotic feelings among visitors.",
-      "zh": "纪念馆激发了参观者的爱国情感。"
+      "zh": "纪念馆激发了参观者的爱国情感。",
+      "mk": "爱国"
      }
     },
     {
@@ -2837,7 +4044,8 @@ window.TRANSLATE = {
      "en": "honesty",
      "ex": {
       "en": "Honesty is a virtue deeply rooted in Chinese culture.",
-      "zh": "诚信是深植于中国文化的美德。"
+      "zh": "诚信是深植于中国文化的美德。",
+      "mk": "诚信"
      }
     },
     {
@@ -2845,7 +4053,8 @@ window.TRANSLATE = {
      "en": "honest",
      "ex": {
       "en": "The seal once stood for an honest and trustworthy character.",
-      "zh": "印章曾代表诚实可信的品格。"
+      "zh": "印章曾代表诚实可信的品格。",
+      "mk": "诚实"
      }
     },
     {
@@ -2853,7 +4062,8 @@ window.TRANSLATE = {
      "en": "civilization",
      "ex": {
       "en": "The Grand Canal witnessed the rise of Chinese civilization.",
-      "zh": "大运河见证了中华文明的兴起。"
+      "zh": "大运河见证了中华文明的兴起。",
+      "mk": "文明"
      }
     },
     {
@@ -2862,15 +4072,22 @@ window.TRANSLATE = {
      "hook": "pro+sper(希望)+ous=繁荣的",
      "ex": {
       "en": "Reform has made the country increasingly prosperous.",
-      "zh": "改革使国家日益繁荣。"
-     }
+      "zh": "改革使国家日益繁荣。",
+      "mk": "繁荣"
+     },
+     "alt": [
+      "thriving",
+      "flourishing",
+      "booming"
+     ]
     },
     {
      "zh": "繁荣",
      "en": "prosperity",
      "ex": {
       "en": "Gold symbolizes wealth and prosperity.",
-      "zh": "金色象征财富与繁荣。"
+      "zh": "金色象征财富与繁荣。",
+      "mk": "繁荣"
      }
     },
     {
@@ -2878,16 +4095,27 @@ window.TRANSLATE = {
      "en": "elegant",
      "ex": {
       "en": "The calligraphy is admired for its elegant style.",
-      "zh": "这幅书法因优雅的风格而受赞赏。"
-     }
+      "zh": "这幅书法因优雅的风格而受赞赏。",
+      "mk": "优雅的"
+     },
+     "alt": [
+      "graceful",
+      "refined",
+      "tasteful"
+     ]
     },
     {
      "zh": "优美的",
      "en": "graceful",
      "ex": {
       "en": "The dancers performed graceful traditional movements.",
-      "zh": "舞者表演了优美的传统动作。"
-     }
+      "zh": "舞者表演了优美的传统动作。",
+      "mk": "优美的"
+     },
+     "alt": [
+      "elegant",
+      "fluid"
+     ]
     },
     {
      "zh": "营养",
@@ -2895,15 +4123,20 @@ window.TRANSLATE = {
      "hook": "nutri(滋养)+tion",
      "ex": {
       "en": "Zongzi provides rich nutrition during the festival.",
-      "zh": "粽子在节日里提供丰富的营养。"
-     }
+      "zh": "粽子在节日里提供丰富的营养。",
+      "mk": "营养"
+     },
+     "alt": [
+      "nourishment"
+     ]
     },
     {
      "zh": "有营养的",
      "en": "nutritious",
      "ex": {
       "en": "Zongzi is both delicious and nutritious.",
-      "zh": "粽子美味又有营养。"
+      "zh": "粽子美味又有营养。",
+      "mk": "有营养"
      }
     },
     {
@@ -2911,7 +4144,8 @@ window.TRANSLATE = {
      "en": "marriage",
      "ex": {
       "en": "The ceremony celebrates the couple's marriage.",
-      "zh": "仪式庆祝这对新人的婚姻。"
+      "zh": "仪式庆祝这对新人的婚姻。",
+      "mk": "婚姻"
      }
     },
     {
@@ -2919,7 +4153,8 @@ window.TRANSLATE = {
      "en": "wedding celebration",
      "ex": {
       "en": "Many objects are placed at the wedding celebration.",
-      "zh": "婚庆现场摆放着许多物件。"
+      "zh": "婚庆现场摆放着许多物件。",
+      "mk": "婚庆"
      }
     },
     {
@@ -2927,7 +4162,8 @@ window.TRANSLATE = {
      "en": "generations of people",
      "ex": {
       "en": "The skill has been passed down by generations of people.",
-      "zh": "这项技艺由一代代人传承下来。"
+      "zh": "这项技艺由一代代人传承下来。",
+      "mk": "一代代人"
      }
     },
     {
@@ -2935,7 +4171,8 @@ window.TRANSLATE = {
      "en": "carefully-prepared",
      "ex": {
       "en": "The reunion dinner is a carefully-prepared feast.",
-      "zh": "团圆饭是一顿精心准备的盛宴。"
+      "zh": "团圆饭是一顿精心准备的盛宴。",
+      "mk": "精心准备的"
      }
     },
     {
@@ -2946,7 +4183,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Inheritors work hard to pass on their skills.",
-      "zh": "传承人努力将技艺传承下去。"
+      "zh": "传承人努力将技艺传承下去。",
+      "mk": "技艺"
      }
     },
     {
@@ -2954,7 +4192,8 @@ window.TRANSLATE = {
      "en": "have something in common",
      "ex": {
       "en": "Festivals across China have something in common.",
-      "zh": "中国各地的节日有共同之处。"
+      "zh": "中国各地的节日有共同之处。",
+      "mk": "共同之处"
      }
     },
     {
@@ -2962,15 +4201,21 @@ window.TRANSLATE = {
      "en": "inherit",
      "ex": {
       "en": "Young people are encouraged to inherit traditional crafts.",
-      "zh": "鼓励年轻人继承传统手工艺。"
-     }
+      "zh": "鼓励年轻人继承传统手工艺。",
+      "mk": "继承"
+     },
+     "alt": [
+      "take over",
+      "carry on"
+     ]
     },
     {
      "zh": "发扬",
      "en": "carry forward",
      "ex": {
       "en": "We should carry forward the spirit of self-improvement.",
-      "zh": "我们应发扬自强不息的精神。"
+      "zh": "我们应发扬自强不息的精神。",
+      "mk": "发扬"
      }
     },
     {
@@ -2978,7 +4223,8 @@ window.TRANSLATE = {
      "en": "date back to",
      "ex": {
       "en": "The bridge dates back to over a thousand years ago.",
-      "zh": "这座桥可追溯到一千多年前。"
+      "zh": "这座桥可追溯到一千多年前。",
+      "mk": "追溯到"
      }
     }
    ]
@@ -2993,7 +4239,8 @@ window.TRANSLATE = {
      "en": "cultural heritage",
      "ex": {
       "en": "The Grand Canal is listed as a world cultural heritage.",
-      "zh": "大运河被列为世界文化遗产。"
+      "zh": "大运河被列为世界文化遗产。",
+      "mk": "文化遗产"
      }
     },
     {
@@ -3001,7 +4248,8 @@ window.TRANSLATE = {
      "en": "the List of World Heritage",
      "ex": {
       "en": "The site was added to the List of World Heritage.",
-      "zh": "该遗址被列入世界文化遗产名录。"
+      "zh": "该遗址被列入世界文化遗产名录。",
+      "mk": "世界文化遗产名录"
      }
     },
     {
@@ -3009,23 +4257,35 @@ window.TRANSLATE = {
      "en": "witness",
      "ex": {
       "en": "The memorial witnessed an important moment in history.",
-      "zh": "纪念馆见证了历史上的重要时刻。"
-     }
+      "zh": "纪念馆见证了历史上的重要时刻。",
+      "mk": "见证"
+     },
+     "alt": [
+      "see",
+      "observe",
+      "experience"
+     ]
     },
     {
      "zh": "杰作",
      "en": "masterpiece",
      "ex": {
       "en": "The bridge is regarded as a masterpiece of ancient engineering.",
-      "zh": "这座桥被视为古代工程的杰作。"
-     }
+      "zh": "这座桥被视为古代工程的杰作。",
+      "mk": "杰作"
+     },
+     "alt": [
+      "classic",
+      "gem"
+     ]
     },
     {
      "zh": "奠基者",
      "en": "founder",
      "ex": {
       "en": "He is honored as a founder of the revolutionary base.",
-      "zh": "他被尊为这处革命根据地的奠基者。"
+      "zh": "他被尊为这处革命根据地的奠基者。",
+      "mk": "奠基者"
      }
     },
     {
@@ -3033,15 +4293,22 @@ window.TRANSLATE = {
      "en": "renowned",
      "ex": {
       "en": "Xu Xiake was a renowned geographer in ancient China.",
-      "zh": "徐霞客是中国古代著名的地理学家。"
-     }
+      "zh": "徐霞客是中国古代著名的地理学家。",
+      "mk": "著名的"
+     },
+     "alt": [
+      "famous",
+      "celebrated",
+      "well-known"
+     ]
     },
     {
      "zh": "吉祥物",
      "en": "mascot",
      "ex": {
       "en": "The panda was chosen as the mascot of the event.",
-      "zh": "熊猫被选为活动的吉祥物。"
+      "zh": "熊猫被选为活动的吉祥物。",
+      "mk": "吉祥物"
      }
     },
     {
@@ -3049,7 +4316,8 @@ window.TRANSLATE = {
      "en": "auspicious",
      "ex": {
       "en": "Red is considered an auspicious color in China.",
-      "zh": "红色在中国被视为吉利的颜色。"
+      "zh": "红色在中国被视为吉利的颜色。",
+      "mk": "吉利的"
      }
     },
     {
@@ -3057,15 +4325,22 @@ window.TRANSLATE = {
      "en": "commemorate",
      "ex": {
       "en": "The festival is held to commemorate an ancient poet.",
-      "zh": "这个节日是为纪念一位古代诗人而设。"
-     }
+      "zh": "这个节日是为纪念一位古代诗人而设。",
+      "mk": "纪念"
+     },
+     "alt": [
+      "celebrate",
+      "honor",
+      "mark"
+     ]
     },
     {
      "zh": "由…组成",
      "en": "comprise of",
      "ex": {
       "en": "The bridge comprises of two levels for road and rail.",
-      "zh": "这座桥由公路和铁路两层组成。"
+      "zh": "这座桥由公路和铁路两层组成。",
+      "mk": "组成"
      }
     },
     {
@@ -3073,7 +4348,8 @@ window.TRANSLATE = {
      "en": "characteristic",
      "ex": {
       "en": "The path has distinct Chinese characteristics.",
-      "zh": "这条道路具有鲜明的中国特色。"
+      "zh": "这条道路具有鲜明的中国特色。",
+      "mk": "特色"
      }
     },
     {
@@ -3081,7 +4357,8 @@ window.TRANSLATE = {
      "en": "specialty",
      "ex": {
       "en": "Rural areas develop tourism based on local specialties.",
-      "zh": "乡村依托特产发展旅游。"
+      "zh": "乡村依托特产发展旅游。",
+      "mk": "特产"
      }
     },
     {
@@ -3089,7 +4366,8 @@ window.TRANSLATE = {
      "en": "legendary",
      "ex": {
       "en": "The hero's legendary deeds are still told today.",
-      "zh": "这位英雄传奇的事迹至今仍被传颂。"
+      "zh": "这位英雄传奇的事迹至今仍被传颂。",
+      "mk": "传奇"
      }
     },
     {
@@ -3097,15 +4375,22 @@ window.TRANSLATE = {
      "en": "implement",
      "ex": {
       "en": "The government implemented a series of new policies.",
-      "zh": "政府实施了一系列新政策。"
-     }
+      "zh": "政府实施了一系列新政策。",
+      "mk": "实施"
+     },
+     "alt": [
+      "carry out",
+      "execute",
+      "enforce"
+     ]
     },
     {
      "zh": "推行",
      "en": "carry out",
      "ex": {
       "en": "Researchers carried out years of field surveys.",
-      "zh": "研究人员开展了多年的实地考察。"
+      "zh": "研究人员开展了多年的实地考察。",
+      "mk": "开展"
      }
     },
     {
@@ -3113,7 +4398,8 @@ window.TRANSLATE = {
      "en": "educational system",
      "ex": {
       "en": "Reform has improved the country's educational system.",
-      "zh": "改革完善了国家的教育体制。"
+      "zh": "改革完善了国家的教育体制。",
+      "mk": "教育体制"
      }
     },
     {
@@ -3121,7 +4407,8 @@ window.TRANSLATE = {
      "en": "job opportunity",
      "ex": {
       "en": "The industry created many job opportunities.",
-      "zh": "该产业创造了许多就业机会。"
+      "zh": "该产业创造了许多就业机会。",
+      "mk": "就业机会"
      }
     },
     {
@@ -3129,23 +4416,36 @@ window.TRANSLATE = {
      "en": "relieve",
      "ex": {
       "en": "New facilities relieve the pressure of elderly care.",
-      "zh": "新设施缓解了养老的压力。"
-     }
+      "zh": "新设施缓解了养老的压力。",
+      "mk": "缓解"
+     },
+     "alt": [
+      "ease",
+      "alleviate",
+      "soothe"
+     ]
     },
     {
      "zh": "改善",
      "en": "improve",
      "ex": {
       "en": "The living environment in Chinese cities has improved significantly.",
-      "zh": "中国城市人居环境得到显著改善。"
-     }
+      "zh": "中国城市人居环境得到显著改善。",
+      "mk": "改善"
+     },
+     "alt": [
+      "enhance",
+      "boost",
+      "better"
+     ]
     },
     {
      "zh": "辉煌的成就",
      "en": "brilliant achievements",
      "ex": {
       "en": "China has made brilliant achievements in poverty reduction.",
-      "zh": "中国在减贫方面取得了辉煌的成就。"
+      "zh": "中国在减贫方面取得了辉煌的成就。",
+      "mk": "辉煌的成就"
      }
     }
    ]
@@ -3160,19 +4460,27 @@ window.TRANSLATE = {
      "en": "develop",
      "ex": {
       "en": "China's high-speed rail has developed rapidly.",
-      "zh": "中国的高铁发展迅速。"
-     }
+      "zh": "中国的高铁发展迅速。",
+      "mk": "发展"
+     },
+     "alt": [
+      "grow",
+      "expand",
+      "advance"
+     ]
     },
     {
      "zh": "建成,建造",
      "en": "build",
      "alt": [
       "construct",
-      "establish"
+      "establish",
+      "erect"
      ],
      "ex": {
       "en": "The country built a world-class space station.",
-      "zh": "国家建成了世界一流的空间站。"
+      "zh": "国家建成了世界一流的空间站。",
+      "mk": "建成"
      }
     },
     {
@@ -3180,11 +4488,14 @@ window.TRANSLATE = {
      "en": "promote",
      "alt": [
       "advance",
-      "drive"
+      "drive",
+      "boost",
+      "foster"
      ],
      "ex": {
       "en": "The Nanjing Bridge played a huge role in promoting economic development.",
-      "zh": "南京长江大桥对促进经济发展起到了巨大作用。"
+      "zh": "南京长江大桥对促进经济发展起到了巨大作用。",
+      "mk": "促进"
      }
     },
     {
@@ -3192,11 +4503,14 @@ window.TRANSLATE = {
      "en": "improve",
      "alt": [
       "enhance",
-      "upgrade"
+      "upgrade",
+      "boost",
+      "better"
      ],
      "ex": {
       "en": "The living environment in Chinese cities has improved significantly.",
-      "zh": "中国城市人居环境得到显著改善。"
+      "zh": "中国城市人居环境得到显著改善。",
+      "mk": "改善"
      }
     },
     {
@@ -3208,7 +4522,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "New technology has been applied in many fields.",
-      "zh": "新技术已应用于许多领域。"
+      "zh": "新技术已应用于许多领域。",
+      "mk": "应用"
      }
     },
     {
@@ -3216,19 +4531,28 @@ window.TRANSLATE = {
      "en": "provide",
      "ex": {
       "en": "The bridge provides great convenience for residents.",
-      "zh": "大桥为居民提供了极大便利。"
-     }
+      "zh": "大桥为居民提供了极大便利。",
+      "mk": "提供"
+     },
+     "alt": [
+      "supply",
+      "offer",
+      "furnish"
+     ]
     },
     {
      "zh": "实施,开展",
      "en": "implement",
      "alt": [
       "carry out",
-      "launch"
+      "launch",
+      "execute",
+      "enforce"
      ],
      "ex": {
       "en": "The government implemented a series of new policies.",
-      "zh": "政府实施了一系列新政策。"
+      "zh": "政府实施了一系列新政策。",
+      "mk": "实施"
      }
     },
     {
@@ -3236,22 +4560,27 @@ window.TRANSLATE = {
      "en": "increase",
      "alt": [
       "grow",
-      "rise"
+      "rise",
+      "expand"
      ],
      "ex": {
       "en": "The population on the plateau kept increasing.",
-      "zh": "高原上的人口不断增加。"
+      "zh": "高原上的人口不断增加。",
+      "mk": "增加"
      }
     },
     {
      "zh": "实现,取得",
      "en": "achieve",
      "alt": [
-      "realize"
+      "realize",
+      "accomplish",
+      "attain"
      ],
      "ex": {
       "en": "The Beidou system achieved global coverage.",
-      "zh": "北斗系统实现了全球覆盖。"
+      "zh": "北斗系统实现了全球覆盖。",
+      "mk": "实现"
      }
     },
     {
@@ -3259,84 +4588,113 @@ window.TRANSLATE = {
      "en": "contribute",
      "ex": {
       "en": "These policies have contributed to poverty alleviation.",
-      "zh": "这些政策为脱贫做出了贡献。"
-     }
+      "zh": "这些政策为脱贫做出了贡献。",
+      "mk": "贡献"
+     },
+     "alt": [
+      "donate",
+      "give"
+     ]
     },
     {
      "zh": "创造,营造",
      "en": "create",
      "alt": [
-      "foster"
+      "foster",
+      "produce",
+      "generate",
+      "make"
      ],
      "ex": {
       "en": "Rural tourism creates jobs for young people.",
-      "zh": "乡村旅游为年轻人创造就业。"
+      "zh": "乡村旅游为年轻人创造就业。",
+      "mk": "创造"
      }
     },
     {
      "zh": "鼓励,支持",
      "en": "encourage",
      "alt": [
-      "support"
+      "support",
+      "motivate",
+      "inspire",
+      "urge"
      ],
      "ex": {
       "en": "The policy encourages cultural products to go global.",
-      "zh": "该政策鼓励文化产品走出国门。"
+      "zh": "该政策鼓励文化产品走出国门。",
+      "mk": "鼓励"
      }
     },
     {
      "zh": "影响",
      "en": "influence",
      "alt": [
-      "affect"
+      "affect",
+      "impact",
+      "sway"
      ],
      "ex": {
       "en": "The travel notes influenced later generations.",
-      "zh": "这部游记影响了后世。"
+      "zh": "这部游记影响了后世。",
+      "mk": "影响"
      }
     },
     {
      "zh": "体现",
      "en": "reflect",
      "alt": [
-      "embody"
+      "embody",
+      "mirror",
+      "show"
      ],
      "ex": {
       "en": "The custom reflects traditional Chinese values.",
-      "zh": "这一习俗体现了中国传统价值观。"
+      "zh": "这一习俗体现了中国传统价值观。",
+      "mk": "体现"
      }
     },
     {
      "zh": "保护,保障",
      "en": "protect",
      "alt": [
-      "safeguard"
+      "safeguard",
+      "defend",
+      "preserve"
      ],
      "ex": {
       "en": "China works hard to protect endangered species.",
-      "zh": "中国努力保护濒危物种。"
+      "zh": "中国努力保护濒危物种。",
+      "mk": "保护"
      }
     },
     {
      "zh": "象征,寓意",
      "en": "symbolize",
      "alt": [
-      "represent"
+      "represent",
+      "stand for",
+      "embody"
      ],
      "ex": {
       "en": "The dragon symbolizes power and good fortune.",
-      "zh": "龙象征着权力与好运。"
+      "zh": "龙象征着权力与好运。",
+      "mk": "象征"
      }
     },
     {
      "zh": "减少,节省",
      "en": "reduce",
      "alt": [
-      "save"
+      "save",
+      "lower",
+      "cut",
+      "decrease"
      ],
      "ex": {
       "en": "New energy vehicles reduce carbon emissions.",
-      "zh": "新能源汽车减少碳排放。"
+      "zh": "新能源汽车减少碳排放。",
+      "mk": "减少"
      }
     },
     {
@@ -3344,16 +4702,28 @@ window.TRANSLATE = {
      "en": "attract",
      "ex": {
       "en": "Hainan attracts large numbers of tourists every year.",
-      "zh": "海南每年吸引大批游客。"
-     }
+      "zh": "海南每年吸引大批游客。",
+      "mk": "吸引"
+     },
+     "alt": [
+      "draw",
+      "lure",
+      "appeal to"
+     ]
     },
     {
      "zh": "探索",
      "en": "explore",
      "ex": {
       "en": "The country continues to explore deep space.",
-      "zh": "国家持续探索深空。"
-     }
+      "zh": "国家持续探索深空。",
+      "mk": "探索"
+     },
+     "alt": [
+      "investigate",
+      "probe",
+      "examine"
+     ]
     }
    ]
   },
@@ -3367,7 +4737,8 @@ window.TRANSLATE = {
      "en": "the Grand Canal",
      "ex": {
       "en": "The Grand Canal is the longest man-made river in the world.",
-      "zh": "大运河是世界上最长的人工河。"
+      "zh": "大运河是世界上最长的人工河。",
+      "mk": "大运河"
      }
     },
     {
@@ -3375,7 +4746,8 @@ window.TRANSLATE = {
      "en": "man-made river",
      "ex": {
       "en": "The canal is an ancient man-made river.",
-      "zh": "这条运河是一条古老的人工河。"
+      "zh": "这条运河是一条古老的人工河。",
+      "mk": "人工河"
      }
     },
     {
@@ -3383,7 +4755,8 @@ window.TRANSLATE = {
      "en": "famous historical and cultural city",
      "ex": {
       "en": "The canal links many famous historical and cultural cities.",
-      "zh": "大运河连接着许多历史文化名城。"
+      "zh": "大运河连接着许多历史文化名城。",
+      "mk": "历史文化名城"
      }
     },
     {
@@ -3391,7 +4764,8 @@ window.TRANSLATE = {
      "en": "cultural heritage",
      "ex": {
       "en": "The Grand Canal is listed as a world cultural heritage.",
-      "zh": "大运河被列为世界文化遗产。"
+      "zh": "大运河被列为世界文化遗产。",
+      "mk": "文化遗产"
      }
     },
     {
@@ -3399,7 +4773,8 @@ window.TRANSLATE = {
      "en": "national cultural park",
      "ex": {
       "en": "The country built a national cultural park along the canal.",
-      "zh": "国家沿运河建设了国家文化公园。"
+      "zh": "国家沿运河建设了国家文化公园。",
+      "mk": "国家文化公园"
      }
     },
     {
@@ -3407,7 +4782,8 @@ window.TRANSLATE = {
      "en": "cultural exchange",
      "ex": {
       "en": "The canal promoted cultural exchange between the north and south.",
-      "zh": "运河促进了南北的文化交流。"
+      "zh": "运河促进了南北的文化交流。",
+      "mk": "文化交流"
      }
     },
     {
@@ -3415,7 +4791,8 @@ window.TRANSLATE = {
      "en": "Chinese civilization",
      "ex": {
       "en": "The Grand Canal is a symbol of Chinese civilization.",
-      "zh": "大运河是中华文明的象征。"
+      "zh": "大运河是中华文明的象征。",
+      "mk": "中华文明"
      }
     }
    ]
@@ -3430,7 +4807,8 @@ window.TRANSLATE = {
      "en": "national park",
      "ex": {
       "en": "China has set up a number of national parks.",
-      "zh": "中国建立了一批国家公园。"
+      "zh": "中国建立了一批国家公园。",
+      "mk": "国家公园"
      }
     },
     {
@@ -3438,7 +4816,8 @@ window.TRANSLATE = {
      "en": "natural ecosystem",
      "ex": {
       "en": "The park protects a complete natural ecosystem.",
-      "zh": "公园保护着完整的自然生态系统。"
+      "zh": "公园保护着完整的自然生态系统。",
+      "mk": "自然生态系统"
      }
     },
     {
@@ -3446,7 +4825,8 @@ window.TRANSLATE = {
      "en": "rare wild animals and plants",
      "ex": {
       "en": "The reserve is home to rare wild animals and plants.",
-      "zh": "保护区栖息着珍稀野生动植物。"
+      "zh": "保护区栖息着珍稀野生动植物。",
+      "mk": "珍稀野生动植物"
      }
     },
     {
@@ -3454,7 +4834,8 @@ window.TRANSLATE = {
      "en": "system of protected natural areas",
      "ex": {
       "en": "China is building a system of protected natural areas.",
-      "zh": "中国正在构建自然保护地体系。"
+      "zh": "中国正在构建自然保护地体系。",
+      "mk": "自然保护地体系"
      }
     },
     {
@@ -3462,7 +4843,8 @@ window.TRANSLATE = {
      "en": "habitat",
      "ex": {
       "en": "National parks protect the habitat of rare animals.",
-      "zh": "国家公园保护珍稀动物的栖息地。"
+      "zh": "国家公园保护珍稀动物的栖息地。",
+      "mk": "栖息地"
      }
     },
     {
@@ -3470,7 +4852,8 @@ window.TRANSLATE = {
      "en": "biodiversity conservation",
      "ex": {
       "en": "National parks play a key role in biodiversity conservation.",
-      "zh": "国家公园在生物多样性保护中起关键作用。"
+      "zh": "国家公园在生物多样性保护中起关键作用。",
+      "mk": "生物多样性保护"
      }
     },
     {
@@ -3478,7 +4861,8 @@ window.TRANSLATE = {
      "en": "harmonious coexistence between humans and nature",
      "ex": {
       "en": "The parks promote harmonious coexistence between humans and nature.",
-      "zh": "这些公园促进人与自然和谐共生。"
+      "zh": "这些公园促进人与自然和谐共生。",
+      "mk": "人与自然和谐共生"
      }
     }
    ]
@@ -3493,7 +4877,8 @@ window.TRANSLATE = {
      "en": "domestically produced large passenger aircraft",
      "ex": {
       "en": "China developed its own domestically produced large passenger aircraft.",
-      "zh": "中国研发了自己的国产大飞机。"
+      "zh": "中国研发了自己的国产大飞机。",
+      "mk": "国产大飞机"
      }
     },
     {
@@ -3501,7 +4886,8 @@ window.TRANSLATE = {
      "en": "high-end manufacturing industry",
      "ex": {
       "en": "The aircraft represents China's high-end manufacturing industry.",
-      "zh": "这架飞机代表了中国的高端制造业。"
+      "zh": "这架飞机代表了中国的高端制造业。",
+      "mk": "高端制造业"
      }
     },
     {
@@ -3509,7 +4895,8 @@ window.TRANSLATE = {
      "en": "aircraft design",
      "ex": {
       "en": "Engineers made breakthroughs in aircraft design.",
-      "zh": "工程师在航空设计上取得突破。"
+      "zh": "工程师在航空设计上取得突破。",
+      "mk": "航空设计"
      }
     },
     {
@@ -3517,7 +4904,8 @@ window.TRANSLATE = {
      "en": "key technology",
      "ex": {
       "en": "Researchers overcame a series of key technologies.",
-      "zh": "研发人员攻克了一系列关键技术。"
+      "zh": "研发人员攻克了一系列关键技术。",
+      "mk": "关键技术"
      }
     },
     {
@@ -3525,7 +4913,8 @@ window.TRANSLATE = {
      "en": "civil aircraft R&D and production system",
      "ex": {
       "en": "China built a complete civil aircraft R&D and production system.",
-      "zh": "中国建成了完整的民用飞机研发生产体系。"
+      "zh": "中国建成了完整的民用飞机研发生产体系。",
+      "mk": "民用飞机研发生产体系"
      }
     },
     {
@@ -3533,7 +4922,8 @@ window.TRANSLATE = {
      "en": "commercial operation",
      "ex": {
       "en": "The large aircraft has entered commercial operation.",
-      "zh": "这架大飞机已投入商业运营。"
+      "zh": "这架大飞机已投入商业运营。",
+      "mk": "商业运营"
      }
     },
     {
@@ -3541,7 +4931,8 @@ window.TRANSLATE = {
      "en": "international influence",
      "ex": {
       "en": "The aircraft has expanded China's international influence.",
-      "zh": "大飞机扩大了中国的国际影响力。"
+      "zh": "大飞机扩大了中国的国际影响力。",
+      "mk": "国际影响力"
      }
     }
    ]
@@ -3556,7 +4947,8 @@ window.TRANSLATE = {
      "en": "new energy vehicle",
      "ex": {
       "en": "New energy vehicles are becoming increasingly popular.",
-      "zh": "新能源汽车越来越受欢迎。"
+      "zh": "新能源汽车越来越受欢迎。",
+      "mk": "新能源汽车"
      }
     },
     {
@@ -3564,7 +4956,8 @@ window.TRANSLATE = {
      "en": "green travel",
      "ex": {
       "en": "More citizens now choose green travel.",
-      "zh": "越来越多市民选择绿色出行。"
+      "zh": "越来越多市民选择绿色出行。",
+      "mk": "绿色出行"
      }
     },
     {
@@ -3572,7 +4965,8 @@ window.TRANSLATE = {
      "en": "battery technology",
      "ex": {
       "en": "Breakthroughs in battery technology extended the driving range.",
-      "zh": "电池技术的突破延长了续航里程。"
+      "zh": "电池技术的突破延长了续航里程。",
+      "mk": "电池技术"
      }
     },
     {
@@ -3580,7 +4974,8 @@ window.TRANSLATE = {
      "en": "charging facility",
      "ex": {
       "en": "Cities have built more charging facilities.",
-      "zh": "城市建设了更多充电设施。"
+      "zh": "城市建设了更多充电设施。",
+      "mk": "充电设施"
      }
     },
     {
@@ -3588,7 +4983,8 @@ window.TRANSLATE = {
      "en": "fuel consumption",
      "ex": {
       "en": "New energy vehicles greatly reduce fuel consumption.",
-      "zh": "新能源汽车大大降低燃油消耗。"
+      "zh": "新能源汽车大大降低燃油消耗。",
+      "mk": "燃油消耗"
      }
     },
     {
@@ -3596,7 +4992,8 @@ window.TRANSLATE = {
      "en": "air pollution",
      "ex": {
       "en": "Clean energy helps reduce air pollution.",
-      "zh": "清洁能源有助于减少空气污染。"
+      "zh": "清洁能源有助于减少空气污染。",
+      "mk": "空气污染"
      }
     },
     {
@@ -3604,7 +5001,8 @@ window.TRANSLATE = {
      "en": "industrial transformation and upgrading",
      "ex": {
       "en": "The sector drives industrial transformation and upgrading.",
-      "zh": "该产业推动产业转型升级。"
+      "zh": "该产业推动产业转型升级。",
+      "mk": "产业转型升级"
      }
     },
     {
@@ -3612,7 +5010,8 @@ window.TRANSLATE = {
      "en": "intelligent driving",
      "ex": {
       "en": "Intelligent driving is reshaping the auto industry.",
-      "zh": "智能驾驶正在重塑汽车产业。"
+      "zh": "智能驾驶正在重塑汽车产业。",
+      "mk": "智能驾驶"
      }
     }
    ]
@@ -3627,7 +5026,8 @@ window.TRANSLATE = {
      "en": "rural revitalization",
      "ex": {
       "en": "The government is pushing forward rural revitalization.",
-      "zh": "政府正推进乡村振兴。"
+      "zh": "政府正推进乡村振兴。",
+      "mk": "乡村振兴"
      }
     },
     {
@@ -3635,7 +5035,8 @@ window.TRANSLATE = {
      "en": "specialty agriculture",
      "ex": {
       "en": "The village developed specialty agriculture.",
-      "zh": "这个村庄发展了特色农业。"
+      "zh": "这个村庄发展了特色农业。",
+      "mk": "特色农业"
      }
     },
     {
@@ -3643,7 +5044,8 @@ window.TRANSLATE = {
      "en": "public service facility",
      "ex": {
       "en": "New public service facilities improved village life.",
-      "zh": "新的公共服务设施改善了乡村生活。"
+      "zh": "新的公共服务设施改善了乡村生活。",
+      "mk": "公共服务设施"
      }
     },
     {
@@ -3651,7 +5053,8 @@ window.TRANSLATE = {
      "en": "quality of life",
      "ex": {
       "en": "Reform has improved villagers' quality of life.",
-      "zh": "改革提高了村民的生活质量。"
+      "zh": "改革提高了村民的生活质量。",
+      "mk": "生活质量"
      }
     },
     {
@@ -3659,7 +5062,8 @@ window.TRANSLATE = {
      "en": "rural tourism",
      "ex": {
       "en": "Rural tourism has become a new source of income.",
-      "zh": "乡村旅游成为新的收入来源。"
+      "zh": "乡村旅游成为新的收入来源。",
+      "mk": "乡村旅游"
      }
     },
     {
@@ -3667,7 +5071,8 @@ window.TRANSLATE = {
      "en": "e-commerce",
      "ex": {
       "en": "E-commerce has helped millions out of poverty.",
-      "zh": "电子商务帮助数百万人脱贫。"
+      "zh": "电子商务帮助数百万人脱贫。",
+      "mk": "电子商务"
      }
     },
     {
@@ -3675,7 +5080,8 @@ window.TRANSLATE = {
      "en": "young entrepreneur",
      "ex": {
       "en": "Young entrepreneurs returned to start businesses in the countryside.",
-      "zh": "年轻创业者回到乡村创业。"
+      "zh": "年轻创业者回到乡村创业。",
+      "mk": "年轻创业者"
      }
     },
     {
@@ -3683,7 +5089,8 @@ window.TRANSLATE = {
      "en": "local culture",
      "ex": {
       "en": "Rural tourism helps preserve local culture.",
-      "zh": "乡村旅游有助于保护乡土文化。"
+      "zh": "乡村旅游有助于保护乡土文化。",
+      "mk": "乡土文化"
      }
     }
    ]
@@ -3698,7 +5105,8 @@ window.TRANSLATE = {
      "en": "intangible cultural heritage",
      "ex": {
       "en": "Embroidery is listed as intangible cultural heritage.",
-      "zh": "刺绣被列为非物质文化遗产。"
+      "zh": "刺绣被列为非物质文化遗产。",
+      "mk": "非物质文化遗产"
      }
     },
     {
@@ -3706,7 +5114,8 @@ window.TRANSLATE = {
      "en": "traditional skill",
      "ex": {
       "en": "Inheritors pass on their traditional skills.",
-      "zh": "传承人传授他们的传统技艺。"
+      "zh": "传承人传授他们的传统技艺。",
+      "mk": "传统技艺"
      }
     },
     {
@@ -3714,7 +5123,8 @@ window.TRANSLATE = {
      "en": "folk music",
      "ex": {
       "en": "Folk music carries the memory of a nation.",
-      "zh": "民间音乐承载着一个民族的记忆。"
+      "zh": "民间音乐承载着一个民族的记忆。",
+      "mk": "民间音乐"
      }
     },
     {
@@ -3722,7 +5132,8 @@ window.TRANSLATE = {
      "en": "festival custom",
      "ex": {
       "en": "Many festival customs are deeply rooted in daily life.",
-      "zh": "许多节日习俗深植于日常生活。"
+      "zh": "许多节日习俗深植于日常生活。",
+      "mk": "节日习俗"
      }
     },
     {
@@ -3730,7 +5141,8 @@ window.TRANSLATE = {
      "en": "local opera",
      "ex": {
       "en": "Local operas attract audiences of all ages.",
-      "zh": "地方戏曲吸引着各年龄段的观众。"
+      "zh": "地方戏曲吸引着各年龄段的观众。",
+      "mk": "地方戏曲"
      }
     },
     {
@@ -3738,7 +5150,8 @@ window.TRANSLATE = {
      "en": "inheritor",
      "ex": {
       "en": "The government supports inheritors of traditional arts.",
-      "zh": "政府支持传统艺术的传承人。"
+      "zh": "政府支持传统艺术的传承人。",
+      "mk": "传承人"
      }
     },
     {
@@ -3746,7 +5159,8 @@ window.TRANSLATE = {
      "en": "cultural creative design",
      "ex": {
       "en": "Cultural creative design brings heritage to modern life.",
-      "zh": "文创设计让遗产融入现代生活。"
+      "zh": "文创设计让遗产融入现代生活。",
+      "mk": "文创设计"
      }
     },
     {
@@ -3754,7 +5168,8 @@ window.TRANSLATE = {
      "en": "national memory",
      "ex": {
       "en": "These customs form part of the national memory.",
-      "zh": "这些习俗构成民族记忆的一部分。"
+      "zh": "这些习俗构成民族记忆的一部分。",
+      "mk": "民族记忆"
      }
     }
    ]
@@ -3769,7 +5184,8 @@ window.TRANSLATE = {
      "en": "museum",
      "ex": {
       "en": "More and more young people are visiting museums.",
-      "zh": "越来越多年轻人走进博物馆。"
+      "zh": "越来越多年轻人走进博物馆。",
+      "mk": "博物馆"
      }
     },
     {
@@ -3777,7 +5193,8 @@ window.TRANSLATE = {
      "en": "digital technology",
      "ex": {
       "en": "Digital technology brings cultural relics to life.",
-      "zh": "数字技术让文物活了起来。"
+      "zh": "数字技术让文物活了起来。",
+      "mk": "数字技术"
      }
     },
     {
@@ -3785,7 +5202,8 @@ window.TRANSLATE = {
      "en": "interactive exhibition",
      "ex": {
       "en": "Interactive exhibitions attract large numbers of visitors.",
-      "zh": "互动展览吸引大量参观者。"
+      "zh": "互动展览吸引大量参观者。",
+      "mk": "互动展览"
      }
     },
     {
@@ -3793,7 +5211,8 @@ window.TRANSLATE = {
      "en": "cultural creative product",
      "ex": {
       "en": "The museum's cultural creative products sell well.",
-      "zh": "博物馆的文创产品热销。"
+      "zh": "博物馆的文创产品热销。",
+      "mk": "文创产品"
      }
     },
     {
@@ -3801,7 +5220,8 @@ window.TRANSLATE = {
      "en": "cultural relic",
      "ex": {
       "en": "The museum houses many precious cultural relics.",
-      "zh": "博物馆收藏着许多珍贵文物。"
+      "zh": "博物馆收藏着许多珍贵文物。",
+      "mk": "文物"
      }
     },
     {
@@ -3809,7 +5229,8 @@ window.TRANSLATE = {
      "en": "public education",
      "ex": {
       "en": "Museums play an important role in public education.",
-      "zh": "博物馆在公共教育中发挥重要作用。"
+      "zh": "博物馆在公共教育中发挥重要作用。",
+      "mk": "公共教育"
      }
     },
     {
@@ -3817,7 +5238,8 @@ window.TRANSLATE = {
      "en": "cultural exchange",
      "ex": {
       "en": "The canal promoted cultural exchange between the north and south.",
-      "zh": "运河促进了南北的文化交流。"
+      "zh": "运河促进了南北的文化交流。",
+      "mk": "文化交流"
      }
     },
     {
@@ -3825,7 +5247,8 @@ window.TRANSLATE = {
      "en": "cultural space",
      "ex": {
       "en": "The museum has become a popular cultural space.",
-      "zh": "博物馆已成为受欢迎的文化空间。"
+      "zh": "博物馆已成为受欢迎的文化空间。",
+      "mk": "文化空间"
      }
     }
    ]
@@ -3840,7 +5263,8 @@ window.TRANSLATE = {
      "en": "smart agriculture",
      "ex": {
       "en": "Smart agriculture is transforming traditional farming.",
-      "zh": "智慧农业正在改变传统耕作。"
+      "zh": "智慧农业正在改变传统耕作。",
+      "mk": "智慧农业"
      }
     },
     {
@@ -3848,7 +5272,8 @@ window.TRANSLATE = {
      "en": "modern information technology",
      "ex": {
       "en": "Modern information technology is applied in farming.",
-      "zh": "现代信息技术被应用于农业。"
+      "zh": "现代信息技术被应用于农业。",
+      "mk": "现代信息技术"
      }
     },
     {
@@ -3856,7 +5281,8 @@ window.TRANSLATE = {
      "en": "traditional agriculture",
      "ex": {
       "en": "Smart tools have upgraded traditional agriculture.",
-      "zh": "智能工具升级了传统农业。"
+      "zh": "智能工具升级了传统农业。",
+      "mk": "传统农业"
      }
     },
     {
@@ -3864,7 +5290,8 @@ window.TRANSLATE = {
      "en": "drone",
      "ex": {
       "en": "Drones are used to spray crops efficiently.",
-      "zh": "无人机被用于高效喷洒作物。"
+      "zh": "无人机被用于高效喷洒作物。",
+      "mk": "无人机"
      }
     },
     {
@@ -3872,7 +5299,8 @@ window.TRANSLATE = {
      "en": "sensor",
      "ex": {
       "en": "Sensors monitor the soil and weather in real time.",
-      "zh": "传感器实时监测土壤和天气。"
+      "zh": "传感器实时监测土壤和天气。",
+      "mk": "传感器"
      }
     },
     {
@@ -3880,7 +5308,8 @@ window.TRANSLATE = {
      "en": "big data platform",
      "ex": {
       "en": "A big data platform guides agricultural production.",
-      "zh": "大数据平台指导农业生产。"
+      "zh": "大数据平台指导农业生产。",
+      "mk": "大数据平台"
      }
     },
     {
@@ -3888,7 +5317,8 @@ window.TRANSLATE = {
      "en": "agricultural production efficiency",
      "ex": {
       "en": "New technology has raised agricultural production efficiency.",
-      "zh": "新技术提高了农业生产效率。"
+      "zh": "新技术提高了农业生产效率。",
+      "mk": "农业生产效率"
      }
     },
     {
@@ -3896,7 +5326,8 @@ window.TRANSLATE = {
      "en": "food security",
      "ex": {
       "en": "Smart agriculture helps ensure food security.",
-      "zh": "智慧农业有助于保障粮食安全。"
+      "zh": "智慧农业有助于保障粮食安全。",
+      "mk": "粮食安全"
      }
     }
    ]
@@ -3911,7 +5342,8 @@ window.TRANSLATE = {
      "en": "urban renewal",
      "ex": {
       "en": "Urban renewal has improved the living environment.",
-      "zh": "城市更新改善了居住环境。"
+      "zh": "城市更新改善了居住环境。",
+      "mk": "城市更新"
      }
     },
     {
@@ -3919,7 +5351,8 @@ window.TRANSLATE = {
      "en": "old residential community",
      "ex": {
       "en": "The city renovated many old residential communities.",
-      "zh": "该市改造了许多老旧小区。"
+      "zh": "该市改造了许多老旧小区。",
+      "mk": "老旧小区"
      }
     },
     {
@@ -3927,7 +5360,8 @@ window.TRANSLATE = {
      "en": "historical neighborhood",
      "ex": {
       "en": "The project protects historical neighborhoods.",
-      "zh": "该项目保护历史街区。"
+      "zh": "该项目保护历史街区。",
+      "mk": "历史街区"
      }
     },
     {
@@ -3935,7 +5369,8 @@ window.TRANSLATE = {
      "en": "public space",
      "ex": {
       "en": "More public spaces were created for residents.",
-      "zh": "为居民创造了更多公共空间。"
+      "zh": "为居民创造了更多公共空间。",
+      "mk": "公共空间"
      }
     },
     {
@@ -3943,7 +5378,8 @@ window.TRANSLATE = {
      "en": "parking space",
      "ex": {
       "en": "The renovation added new parking spaces.",
-      "zh": "改造增加了新的停车位。"
+      "zh": "改造增加了新的停车位。",
+      "mk": "停车位"
      }
     },
     {
@@ -3951,7 +5387,8 @@ window.TRANSLATE = {
      "en": "fitness facility",
      "ex": {
       "en": "New fitness facilities serve local residents.",
-      "zh": "新的健身设施服务当地居民。"
+      "zh": "新的健身设施服务当地居民。",
+      "mk": "健身设施"
      }
     },
     {
@@ -3959,7 +5396,8 @@ window.TRANSLATE = {
      "en": "convenient service",
      "ex": {
       "en": "The community offers more convenient services.",
-      "zh": "社区提供了更多便民服务。"
+      "zh": "社区提供了更多便民服务。",
+      "mk": "便民服务"
      }
     },
     {
@@ -3967,7 +5405,8 @@ window.TRANSLATE = {
      "en": "people-centered",
      "ex": {
       "en": "Urban renewal follows a people-centered approach.",
-      "zh": "城市更新坚持以人为本。"
+      "zh": "城市更新坚持以人为本。",
+      "mk": "以人为本"
      }
     }
    ]
@@ -3982,7 +5421,8 @@ window.TRANSLATE = {
      "en": "the Dragon Boat Festival",
      "ex": {
       "en": "The Dragon Boat Festival is a traditional Chinese festival.",
-      "zh": "端午节是中国的传统节日。"
+      "zh": "端午节是中国的传统节日。",
+      "mk": "端午节"
      }
     },
     {
@@ -3990,7 +5430,8 @@ window.TRANSLATE = {
      "en": "the fifth day of the fifth lunar month",
      "ex": {
       "en": "It falls on the fifth day of the fifth lunar month.",
-      "zh": "端午节在农历五月初五。"
+      "zh": "端午节在农历五月初五。",
+      "mk": "农历五月初五"
      }
     },
     {
@@ -3998,7 +5439,8 @@ window.TRANSLATE = {
      "en": "dragon boat racing",
      "ex": {
       "en": "Dragon boat racing is the most representative custom.",
-      "zh": "赛龙舟是最具代表性的习俗。"
+      "zh": "赛龙舟是最具代表性的习俗。",
+      "mk": "赛龙舟"
      }
     },
     {
@@ -4006,7 +5448,8 @@ window.TRANSLATE = {
      "en": "zongzi",
      "ex": {
       "en": "People eat zongzi during the Dragon Boat Festival.",
-      "zh": "人们在端午节吃粽子。"
+      "zh": "人们在端午节吃粽子。",
+      "mk": "粽子"
      }
     },
     {
@@ -4014,7 +5457,8 @@ window.TRANSLATE = {
      "en": "representative custom",
      "ex": {
       "en": "Dragon boat racing is a representative custom of the festival.",
-      "zh": "赛龙舟是这个节日的代表性习俗。"
+      "zh": "赛龙舟是这个节日的代表性习俗。",
+      "mk": "代表性习俗"
      }
     },
     {
@@ -4022,7 +5466,8 @@ window.TRANSLATE = {
      "en": "spirit of teamwork",
      "ex": {
       "en": "Dragon boat racing reflects the spirit of teamwork.",
-      "zh": "赛龙舟体现了团队合作精神。"
+      "zh": "赛龙舟体现了团队合作精神。",
+      "mk": "团队合作精神"
      }
     },
     {
@@ -4030,7 +5475,8 @@ window.TRANSLATE = {
      "en": "love for family and country",
      "ex": {
       "en": "The festival expresses love for family and country.",
-      "zh": "这个节日寄托着家国情怀。"
+      "zh": "这个节日寄托着家国情怀。",
+      "mk": "家国情怀"
      }
     },
     {
@@ -4038,7 +5484,8 @@ window.TRANSLATE = {
      "en": "cultural meaning",
      "ex": {
       "en": "The custom carries rich cultural meaning.",
-      "zh": "这一习俗蕴含丰富的文化内涵。"
+      "zh": "这一习俗蕴含丰富的文化内涵。",
+      "mk": "文化内涵"
      }
     }
    ]
@@ -4059,7 +5506,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Hainan is located at the southernmost end of China.",
-      "zh": "海南是位于中国最南端的省份。"
+      "zh": "海南是位于中国最南端的省份。",
+      "mk": "位于"
      }
     },
     {
@@ -4070,7 +5518,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Qinghai has an average altitude of more than 3,000 meters.",
-      "zh": "青海平均海拔3000米以上。"
+      "zh": "青海平均海拔3000米以上。",
+      "mk": "平均海拔"
      }
     },
     {
@@ -4081,7 +5530,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The Qinghai-Tibet Plateau covers an area of about 2.3 million square kilometers.",
-      "zh": "青藏高原面积约230万平方公里。"
+      "zh": "青藏高原面积约230万平方公里。",
+      "mk": "面积"
      }
     },
     {
@@ -4093,7 +5543,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Qinghai Lake is one of the most popular tourist attractions.",
-      "zh": "青海湖是最受欢迎的旅游景点之一。"
+      "zh": "青海湖是最受欢迎的旅游景点之一。",
+      "mk": "之一"
      }
     },
     {
@@ -4105,7 +5556,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Zhaozhou Bridge is 50.82 meters long and 9.6 meters wide.",
-      "zh": "赵州桥长50.82米,宽9.6米。"
+      "zh": "赵州桥长50.82米,宽9.6米。",
+      "mk": "长"
      }
     },
     {
@@ -4118,7 +5570,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The main building is composed of two towers.",
-      "zh": "主楼由两座塔楼组成。"
+      "zh": "主楼由两座塔楼组成。",
+      "mk": "组成"
      }
     }
    ]
@@ -4137,7 +5590,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "With the continuous development of farming, the population kept increasing.",
-      "zh": "随着农耕业的持续发展,人口不断增加。"
+      "zh": "随着农耕业的持续发展,人口不断增加。",
+      "mk": "随着"
      }
     },
     {
@@ -4149,7 +5603,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Since ancient times, seals have been symbols of power in China.",
-      "zh": "自古以来,印章在中国就是权力的象征。"
+      "zh": "自古以来,印章在中国就是权力的象征。",
+      "mk": "自古以来"
      }
     },
     {
@@ -4157,7 +5612,8 @@ window.TRANSLATE = {
      "en": "in recent years",
      "ex": {
       "en": "In recent years, more and more Chinese cultural products have entered the global market.",
-      "zh": "近年来,越来越多的中国文化产品走向全球市场。"
+      "zh": "近年来,越来越多的中国文化产品走向全球市场。",
+      "mk": "近年来"
      }
     },
     {
@@ -4165,11 +5621,14 @@ window.TRANSLATE = {
      "en": "promote",
      "alt": [
       "advance",
-      "drive the development of"
+      "drive the development of",
+      "boost",
+      "foster"
      ],
      "ex": {
       "en": "The Nanjing Bridge played a huge role in promoting economic development.",
-      "zh": "南京长江大桥对促进经济发展起到了巨大作用。"
+      "zh": "南京长江大桥对促进经济发展起到了巨大作用。",
+      "mk": "促进"
      }
     },
     {
@@ -4182,7 +5641,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The site is a Shanghai-style residence built in the autumn of 1920.",
-      "zh": "这处会址是一栋上海式住宅,建于1920年秋。"
+      "zh": "这处会址是一栋上海式住宅,建于1920年秋。",
+      "mk": "建于"
      }
     },
     {
@@ -4191,11 +5651,14 @@ window.TRANSLATE = {
      "alt": [
       "enhance",
       "upgrade",
-      "perfect"
+      "perfect",
+      "boost",
+      "better"
      ],
      "ex": {
       "en": "The living environment in Chinese cities has improved significantly.",
-      "zh": "中国城市人居环境得到显著改善。"
+      "zh": "中国城市人居环境得到显著改善。",
+      "mk": "改善"
      }
     }
    ]
@@ -4215,7 +5678,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Qinghai plays an important role in China's water ecology.",
-      "zh": "青海在中国的水生态中发挥着重要作用。"
+      "zh": "青海在中国的水生态中发挥着重要作用。",
+      "mk": "发挥着重要作用"
      }
     },
     {
@@ -4227,7 +5691,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Zheng He's voyages made great contributions to maintaining regional peace.",
-      "zh": "郑和下西洋为维护区域和平做出了巨大贡献。"
+      "zh": "郑和下西洋为维护区域和平做出了巨大贡献。",
+      "mk": "贡献"
      }
     },
     {
@@ -4239,7 +5704,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "China has made major breakthroughs in space technology.",
-      "zh": "中国在航天技术上取得了重大突破。"
+      "zh": "中国在航天技术上取得了重大突破。",
+      "mk": "突破"
      }
     },
     {
@@ -4251,7 +5717,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Zhang Qian overcame numerous difficulties and twice traveled to the Western Regions.",
-      "zh": "张骞克服重重困难,两次出使西域。"
+      "zh": "张骞克服重重困难,两次出使西域。",
+      "mk": "克服重重困难"
      }
     },
     {
@@ -4262,7 +5729,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The completion of the bridge marked a leap in China's bridge construction.",
-      "zh": "大桥的建成标志着中国桥梁建设的一个飞跃。"
+      "zh": "大桥的建成标志着中国桥梁建设的一个飞跃。",
+      "mk": "标志着"
      }
     },
     {
@@ -4274,7 +5742,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The fertile soil is highly conducive to the growth of various crops.",
-      "zh": "肥沃的土壤非常有利于多种农作物生长。"
+      "zh": "肥沃的土壤非常有利于多种农作物生长。",
+      "mk": "有利于"
      }
     },
     {
@@ -4286,7 +5755,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Abundant water resources provide favorable conditions for sustainable development.",
-      "zh": "充足的水资源为可持续发展提供了有利条件。"
+      "zh": "充足的水资源为可持续发展提供了有利条件。",
+      "mk": "提供"
      }
     }
    ]
@@ -4305,7 +5775,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Qinghai is especially famous for its rich water resources.",
-      "zh": "青海尤以水资源丰富而闻名。"
+      "zh": "青海尤以水资源丰富而闻名。",
+      "mk": "闻名"
      }
     },
     {
@@ -4318,7 +5789,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Hainan is known as China's four-season garden and holiday resort.",
-      "zh": "海南被誉为中国的四季花园和度假胜地。"
+      "zh": "海南被誉为中国的四季花园和度假胜地。",
+      "mk": "被誉为"
      }
     },
     {
@@ -4329,11 +5801,13 @@ window.TRANSLATE = {
       "represent",
       "embody",
       "highlight",
-      "showcase"
+      "showcase",
+      "stand for"
      ],
      "ex": {
       "en": "The dragon symbolizes power and good fortune.",
-      "zh": "龙象征着权力与好运。"
+      "zh": "龙象征着权力与好运。",
+      "mk": "象征"
      }
     },
     {
@@ -4345,7 +5819,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The memorial has served as a patriotic education base.",
-      "zh": "纪念馆已成为爱国主义教育基地。"
+      "zh": "纪念馆已成为爱国主义教育基地。",
+      "mk": "成为"
      }
     },
     {
@@ -4359,7 +5834,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Yunnan is rich in mineral and water resources.",
-      "zh": "云南矿产和水资源丰富。"
+      "zh": "云南矿产和水资源丰富。",
+      "mk": "资源丰富"
      }
     },
     {
@@ -4371,7 +5847,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Spring Festival couplets express good wishes in concise words.",
-      "zh": "春联以简洁的文字抒发美好的愿望。"
+      "zh": "春联以简洁的文字抒发美好的愿望。",
+      "mk": "抒发美好的愿望"
      }
     },
     {
@@ -4379,7 +5856,8 @@ window.TRANSLATE = {
      "en": "be deeply rooted in",
      "ex": {
       "en": "Respecting the elderly is deeply rooted in Chinese people's thoughts and behavior.",
-      "zh": "尊老深深植根于中国人的思想和行为中。"
+      "zh": "尊老深深植根于中国人的思想和行为中。",
+      "mk": "植根于"
      }
     }
    ]
@@ -4399,7 +5877,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Bamboo is used in many aspects of production and daily life.",
-      "zh": "竹子用于生产和生活的许多方面。"
+      "zh": "竹子用于生产和生活的许多方面。",
+      "mk": "用于"
      }
     },
     {
@@ -4410,7 +5889,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Hainan attracts large numbers of Chinese and foreign tourists every year.",
-      "zh": "海南每年都吸引大批中外游客。"
+      "zh": "海南每年都吸引大批中外游客。",
+      "mk": "吸引大批中外游客"
      }
     },
     {
@@ -4424,7 +5904,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The Travels of Xu Xiake was widely read at home and abroad.",
-      "zh": "《徐霞客游记》在国内外被广泛传阅。"
+      "zh": "《徐霞客游记》在国内外被广泛传阅。",
+      "mk": "广泛传阅"
      }
     },
     {
@@ -4436,7 +5917,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "China has been making efforts to protect the ecosystem of the plateau.",
-      "zh": "中国一直努力保护高原的生态系统。"
+      "zh": "中国一直努力保护高原的生态系统。",
+      "mk": "保护"
      }
     },
     {
@@ -4448,7 +5930,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The Chinese government has introduced a series of policies to support cultural exports.",
-      "zh": "中国政府出台了一系列政策支持文化出口。"
+      "zh": "中国政府出台了一系列政策支持文化出口。",
+      "mk": "出台了一系列政策"
      }
     },
     {
@@ -4461,7 +5944,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Zhang Qian opened up trade relations between China and Europe.",
-      "zh": "张骞开通了中国同欧洲的通商关系。"
+      "zh": "张骞开通了中国同欧洲的通商关系。",
+      "mk": "开通"
      }
     }
    ]
@@ -4476,7 +5960,8 @@ window.TRANSLATE = {
      "en": "be recognized as",
      "ex": {
       "en": "The bridge is recognized as a masterpiece of engineering.",
-      "zh": "这座桥被公认为工程杰作。"
+      "zh": "这座桥被公认为工程杰作。",
+      "mk": "被公认为"
      }
     },
     {
@@ -4484,7 +5969,8 @@ window.TRANSLATE = {
      "en": "be designated as",
      "ex": {
       "en": "The area was designated as a national park.",
-      "zh": "该地区被指定为国家公园。"
+      "zh": "该地区被指定为国家公园。",
+      "mk": "被指定为"
      }
     },
     {
@@ -4492,7 +5978,8 @@ window.TRANSLATE = {
      "en": "be named after",
      "ex": {
       "en": "The festival is named after an ancient custom.",
-      "zh": "这个节日以一项古老的习俗命名。"
+      "zh": "这个节日以一项古老的习俗命名。",
+      "mk": "命名"
      }
     },
     {
@@ -4503,7 +5990,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Tea is inseparable from Chinese daily life.",
-      "zh": "茶与中国人的日常生活密不可分。"
+      "zh": "茶与中国人的日常生活密不可分。",
+      "mk": "密不可分"
      }
     },
     {
@@ -4511,7 +5999,8 @@ window.TRANSLATE = {
      "en": "enjoy the reputation of",
      "ex": {
       "en": "West Lake enjoys the reputation of an earthly paradise.",
-      "zh": "西湖享有人间天堂的美誉。"
+      "zh": "西湖享有人间天堂的美誉。",
+      "mk": "享有人间天堂的美誉"
      }
     },
     {
@@ -4522,7 +6011,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "People from all walks of life joined the celebration.",
-      "zh": "各行各业的人都参与了庆祝。"
+      "zh": "各行各业的人都参与了庆祝。",
+      "mk": "各行各业"
      }
     },
     {
@@ -4530,7 +6020,8 @@ window.TRANSLATE = {
      "en": "broaden one's horizon",
      "ex": {
       "en": "Traveling helps broaden one's horizon.",
-      "zh": "旅行有助于开阔眼界。"
+      "zh": "旅行有助于开阔眼界。",
+      "mk": "开阔眼界"
      }
     },
     {
@@ -4542,7 +6033,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "Rural tourism has flourished in recent years.",
-      "zh": "近年来乡村旅游蓬勃发展。"
+      "zh": "近年来乡村旅游蓬勃发展。",
+      "mk": "蓬勃发展"
      }
     },
     {
@@ -4553,7 +6045,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The travel notes had a wide influence at home and abroad.",
-      "zh": "这部游记在国内外产生了广泛影响。"
+      "zh": "这部游记在国内外产生了广泛影响。",
+      "mk": "国内外"
      }
     },
     {
@@ -4565,7 +6058,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The city sits in the upper reaches of the river.",
-      "zh": "这座城市位于河流的上游。"
+      "zh": "这座城市位于河流的上游。",
+      "mk": "上"
      }
     },
     {
@@ -4573,7 +6067,8 @@ window.TRANSLATE = {
      "en": "the 5th century BC",
      "ex": {
       "en": "The philosopher lived in the 5th century BC.",
-      "zh": "这位哲学家生活在公元前5世纪。"
+      "zh": "这位哲学家生活在公元前5世纪。",
+      "mk": "公元前5世纪"
      }
     },
     {
@@ -4581,7 +6076,8 @@ window.TRANSLATE = {
      "en": "one of the most famous attractions",
      "ex": {
       "en": "Qinghai Lake is one of the most famous attractions in China.",
-      "zh": "青海湖是中国最著名的景点之一。"
+      "zh": "青海湖是中国最著名的景点之一。",
+      "mk": "最著名的景点之一"
      }
     },
     {
@@ -4593,7 +6089,8 @@ window.TRANSLATE = {
      ],
      "ex": {
       "en": "The town has become a popular scenic spot.",
-      "zh": "这座小镇已成为热门旅游景点。"
+      "zh": "这座小镇已成为热门旅游景点。",
+      "mk": "旅游景点"
      }
     },
     {
@@ -4601,7 +6098,8 @@ window.TRANSLATE = {
      "en": "the Yangtze River",
      "ex": {
       "en": "The Nanjing Bridge spans the Yangtze River.",
-      "zh": "南京大桥横跨长江。"
+      "zh": "南京大桥横跨长江。",
+      "mk": "长江"
      }
     },
     {
@@ -4609,7 +6107,8 @@ window.TRANSLATE = {
      "en": "the Qin and Han Dynasties",
      "ex": {
       "en": "The custom dates back to the Qin and Han Dynasties.",
-      "zh": "这一习俗可追溯到秦汉时期。"
+      "zh": "这一习俗可追溯到秦汉时期。",
+      "mk": "秦汉时期"
      }
     }
    ]
